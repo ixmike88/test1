@@ -1,22 +1,5 @@
-<3:57:49 AM> moon (129.116.33.222) has disconnected.
-<3:57:52 AM> test4 (129.116.33.222) has disconnected.
-<4:27:17 PM> ixmike88 (99.7.74.79) has disconnected.
-<5:24:01 PM> Loading user database...
-<5:24:01 PM> Player list added
-<5:24:01 PM> League connected
-<5:24:12 PM> Loading user database...
-<5:24:12 PM> Listening for clients..
-<5:24:12 PM> Player list added
-<5:24:12 PM> League connected
-<5:28:05 PM> Loading user database...
-<5:28:05 PM> Listening for clients..
-<5:28:05 PM> Player list added
-<5:28:05 PM> League connected
-<5:38:31 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
-<5:39:49 PM> moon->Main: .sg
-<5:39:49 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
-<5:39:51 PM> moon->Main: .out
-<5:39:51 PM> Server->Main: moon has aborted ixdl23.
+moon is fucking awesome.
+so is github.
 <5:45:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
 <6:11:40 PM> moon->Main: test
 <6:16:00 PM>  () has disconnected.
