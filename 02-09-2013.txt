@@ -1,0 +1,151 @@
+<1:49:16 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:50:13 AM>  () has disconnected.
+<1:50:23 AM> ixmike88 (99.7.74.79) has disconnected.
+<1:50:27 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:50:49 AM> ixmike88 (99.7.74.79) has disconnected.
+<1:50:50 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:43:47 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<3:43:52 AM> moon->Main: .r dire
+<3:43:58 AM> moon->Main: test
+<3:44:01 AM> moon->Main: ixmike88
+<3:44:04 AM> moon->Main: sick tabs
+<10:57:19 AM> jgsc (108.6.69.200) (C8:60:00:C3:A6:12) has connected.
+<10:57:36 AM> jgsc->Main: .r radiant
+<10:57:36 AM> Server->ixdl14: jgsc has resulted radiant.
+<10:58:20 AM> jgsc (108.6.69.200) has disconnected.
+<1:15:06 PM> moon->Main: moon
+<1:15:08 PM> moon->Main: moon
+<1:15:09 PM> moon->Main: ixmike88
+<1:18:00 PM> moon->Main: .compare ixmike88
+<1:18:00 PM> Server->Main: moon (770) / ixmike88(1065): Together: 1/3 Against: 0/3
+<1:18:07 PM> moon->Main: .stats
+<1:18:07 PM> Server->Main: moon(Voucher) :: [Rating: 770 | Rank: 17/17] :: [Record: 1-6 (14%) | Streak: -6] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<3:48:14 PM> ixmike88->Main: LMAO
+<3:48:16 PM> ixmike88->Main: 770
+<3:48:16 PM> ixmike88->Main: .sg
+<3:48:16 PM> Server->Main: ixmike88 is already in the game ixdl14
+<3:48:18 PM> ixmike88->Main: .lp
+<3:48:18 PM> Server->Main: [ixdl14] Radiant: ixmike88, jgsc, shaang, anacletus, febby [4996] | Dire: whd.Mark, kzz, moon, bulba123, F4L [4971]
+<3:48:27 PM> ixmike88->Main: moon
+<3:48:36 PM> ixmike88->Main: ixmike88
+<3:48:37 PM> ixmike88->Main: ixmike88
+<3:48:37 PM> ixmike88->Main: ixmike88
+<3:48:38 PM> ixmike88->Main: ixmike88
+<3:48:38 PM> ixmike88->Main: ixmike88
+<3:53:48 PM> moon->Main: ixmike88
+<4:01:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:01:40 PM> Loading user database...
+<4:01:40 PM> Listening for clients..
+<4:01:40 PM> Player list added
+<4:01:40 PM> League connected
+<4:02:01 PM> Listening for clients..
+<4:02:01 PM> Loading user database...
+<4:02:01 PM> Player list added
+<4:02:01 PM> League connected
+<4:02:07 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<4:02:39 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:04:42 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:04:48 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:04:59 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:05:37 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:05:46 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:06:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:20:31 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:20:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:25:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:25:23 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:25:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:25:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:25:43 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:26:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:26:15 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:27:23 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:27:25 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:27:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:27:35 PM> ixmike88->Staff Chat: dsa
+<4:28:25 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:28:28 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:28:47 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:42:38 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:48:01 PM> moon->Main: ixmike88
+<4:48:02 PM> moon->Main: ixmike88q
+<4:48:03 PM> moon->Main: ix
+<4:48:03 PM> moon->Main: ixmike88ix
+<4:48:04 PM> moon->Main: ixmike88ix
+<4:48:05 PM> moon->Main: ixmike88ix
+<4:48:06 PM> moon->Main: ixmike88
+<4:48:13 PM> moon->Main: moon
+<4:48:14 PM> moon->Main: moon
+<4:48:18 PM> moon->Main: moon
+<4:48:20 PM> moon->Main: ixmike88
+<4:49:46 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:50:51 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:50:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:53:04 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:53:06 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:53:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:53:43 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:54:20 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:54:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:54:53 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:54:54 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:55:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:55:13 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:55:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:55:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:55:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:55:36 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:55:38 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:56:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:56:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:56:37 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:57:02 PM> moon (129.116.33.222) has disconnected.
+<4:57:05 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<4:57:12 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:57:14 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:57:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:57:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:58:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:00:47 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:00:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:02:17 PM> moon (129.116.33.222) has disconnected.
+<5:02:19 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:02:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:02:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:02:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:02:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:02:54 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:02:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:03:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:08:14 PM> Loading user database...
+<5:08:14 PM> Listening for clients..
+<5:08:14 PM> Player list added
+<5:08:14 PM> League connected
+<5:08:16 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:08:22 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:08:43 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:08:47 PM> moon (129.116.33.222) has disconnected.
+<5:08:49 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:08:54 PM> Loading user database...
+<5:08:54 PM> Listening for clients..
+<5:08:54 PM> Player list added
+<5:08:54 PM> League connected
+<5:09:02 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:09:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:09:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:09:26 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:11:05 PM> Loading user database...
+<5:11:05 PM> Listening for clients..
+<5:11:05 PM> Player list added
+<5:11:05 PM> League connected
+<5:11:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:11:33 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:12:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:12:12 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:12:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:12:29 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:15:43 PM> moon (129.116.33.222) has disconnected.
+<5:16:45 PM>  () has disconnected.
+<5:17:15 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<7:53:40 PM> moon->Main: .sg
+<7:53:40 PM> Server->Main: moon is already in the game ixdl14

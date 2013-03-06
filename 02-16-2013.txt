@@ -1,0 +1,158 @@
+<12:32:42 AM> moon2 (129.116.33.222) has disconnected.
+<5:43:19 PM> Loading user database...
+<5:43:19 PM> Listening for clients..
+<5:43:19 PM> Player list added
+<5:43:19 PM> League connected
+<5:43:27 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:45:34 PM>  () has disconnected.
+<5:45:42 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<5:45:49 PM> whd.Mark->Main: hi
+<5:47:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:47:49 PM> whd.Mark->Staff Chat: how come
+<5:47:51 PM> whd.Mark->Staff Chat: i cant see main
+<5:49:19 PM> ixmike88->Staff Chat: ?
+<5:57:56 PM> ixmike88->Main: .out
+<5:57:56 PM> Server->ixmike88: You are not in a game.
+<6:25:51 PM> whd.Mark (24.247.146.240) has disconnected.
+<6:25:52 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<6:25:54 PM> whd.Mark (24.247.146.240) has disconnected.
+<6:26:06 PM>  () has disconnected.
+<6:26:14 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<6:55:40 PM> whd.Mark->Main: .out
+<6:55:40 PM> Server->whd.Mark: You are not in a game.
+<6:58:34 PM> whd.Mark->Main: .stats moon
+<6:58:34 PM> Server->Main: moon(Voucher) :: [Rating: 749 | Rank: 19/19] :: [Record: 2-8 (20%) | Streak: -2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:53:32 PM> moon->Main: .compare ixmike88
+<10:53:32 PM> Server->moon: moon (749) / ixmike88(1130): Together: 2/4 Against: 0/4
+<10:53:57 PM> moon->Main: whd.Mark
+<10:54:00 PM> moon->Main: hi
+<10:55:43 PM> moon->Main: .vouch moon3
+<10:55:43 PM> Server->moon: moon3 does not have a forum account.
+<10:55:47 PM> moon->Main: .vouch moon4
+<10:55:47 PM> Server->moon: moon4 does not have a forum account.
+<10:55:49 PM> moon->Main: .vouch moon5
+<10:55:49 PM> Server->moon: moon5 does not have a forum account.
+<10:57:33 PM> moon3 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:57:36 PM> moon3->Main: test
+<10:57:36 PM> Server->moon3: You are not vouched
+<10:57:42 PM> moon->Main: .vouch moon3
+<10:57:42 PM> Server->moon: moon3 does not have a forum account.
+<10:57:43 PM> moon->Main: ixmike88
+<10:57:49 PM> moon->Main: reproduced
+<10:58:03 PM> moon->Main: i think your client and your bot are accessing the db differently
+<10:58:04 PM> moon->Main: or something
+<10:58:20 PM> moon->Main: like the bot has an older version that doesnt update immediately
+<10:58:33 PM> moon4 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:58:38 PM> moon->Main: .vouch moon4
+<10:58:38 PM> Server->moon: moon4 does not have a forum account.
+<10:58:52 PM> moon5 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:58:57 PM> moon->Main: .vouch moon5
+<10:58:57 PM> Server->moon: moon5 does not have a forum account.
+<10:59:22 PM> moon1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:59:28 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:00:22 PM> moon1->Main: test
+<11:00:26 PM> moon->Main: .vouch moon3
+<11:00:26 PM> Server->moon: moon3 does not have a forum account.
+<11:03:10 PM> ixmike88->Main: ?
+<11:03:11 PM> ixmike88->Main: what od u mean
+<11:03:33 PM>  () has disconnected.
+<11:03:59 PM> ixmike88->Main: whats the bug
+<11:04:24 PM> ixmike88->Main: .vouch moon3
+<11:04:24 PM> Server->ixmike88: moon3 does not have a forum account.
+<11:04:30 PM> moon->Main: .vouch moon3
+<11:04:30 PM> Server->moon: moon3 does not have a forum account.
+<11:05:47 PM> Loading user database...
+<11:05:47 PM> Listening for clients..
+<11:05:47 PM> Player list added
+<11:05:47 PM> League connected
+<11:05:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<11:05:52 PM> ixmike88->Main: .vouch moon3
+<11:05:52 PM> Server->Main: ixmike88 has vouched moon3.
+<11:05:54 PM> moon1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:05:57 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:06:14 PM> moon5 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:06:14 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:06:14 PM> moon3 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:06:14 PM> moon4 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:06:14 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<11:07:05 PM> moon6 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:07:14 PM> moon->Main: .vouch moon6
+<11:07:14 PM> Server->Main: moon has vouched moon6.
+<11:08:25 PM> moon7 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:08:30 PM> moon7->Main: test
+<11:08:30 PM> Server->moon7: You are not vouched
+<11:08:36 PM> moon->Main: .vouch moon7
+<11:08:36 PM> Server->Main: moon has vouched moon7.
+<11:09:57 PM> moon->Main: .vouch moon8
+<11:09:57 PM> Server->Main: moon has vouched moon8.
+<11:10:25 PM>  () has disconnected.
+<11:10:44 PM> moon8 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:10:47 PM> moon8->Main: est
+<11:11:51 PM> moon->Main: .vouch moon9
+<11:11:51 PM> Server->Main: moon has vouched moon9.
+<11:12:16 PM> moon9 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:12:23 PM> moon9->Main: test
+<11:12:31 PM> moon->Main: .sg
+<11:12:31 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<11:12:35 PM> ixmike88->Main: '
+<11:12:38 PM> moon9->Main: .s ixdl22
+<11:12:38 PM> Server->Main: [ixdl22] moon9 has joined the game
+<11:12:41 PM> ixmike88->Main: .s
+<11:12:41 PM> Server->Main: [ixdl22] ixmike88 has joined the game
+<11:12:43 PM> moon8->Main: .s ixdl22
+<11:12:43 PM> Server->Main: [ixdl22] moon8 has joined the game
+<11:13:00 PM> moon6->Main: .s ixdl22
+<11:13:00 PM> Server->Main: [ixdl22] moon6 has joined the game
+<11:13:04 PM> moon3->Main: .s ixdl22
+<11:13:04 PM> Server->Main: [ixdl22] moon3 has joined the game
+<11:13:12 PM> moon2->Main: .s ixdl22
+<11:13:12 PM> Server->Main: [ixdl22] moon2 has joined the game
+<11:13:15 PM> moon->Main: .s ixdl22
+<11:13:19 PM> moon5->Main: .s ixdl22
+<11:13:19 PM> Server->moon5: You are not vouched
+<11:13:43 PM> moon->Main: .vouch moon5
+<11:13:43 PM> Server->Main: moon has vouched moon5.
+<11:13:49 PM> moon5->Main: .s ixdl22
+<11:13:49 PM> Server->Main: [ixdl22] moon5 has joined the game
+<11:14:08 PM> moon1->Main: .s ixdl22
+<11:14:08 PM> Server->Main: [ixdl22] moon1 has joined the game
+<11:14:18 PM> moon4->Main: .s ixdl22
+<11:14:18 PM> Server->moon4: You are not vouched
+<11:14:29 PM> moon->Main: .vouch moon4
+<11:14:29 PM> Server->Main: moon has vouched moon4.
+<11:14:31 PM> moon4->Main: .s ixdl22
+<11:14:31 PM> Server->Main: [ixdl22] moon4 has joined the game
+<11:14:31 PM> Server->Main: [ixdl22] Game is full. moon can type .confirm to start the game.
+<11:14:36 PM> moon->Main: .cs
+<11:14:36 PM> Server->Main: [ixdl22] [Radiant: moon, moon9, ixmike88, moon8, moon6] [4879] | [Dire: moon3, moon2, moon5, moon1, moon4] [5000]
+<11:14:36 PM> Server->ixdl22: [ixdl22] [Radiant: moon, moon9, ixmike88, moon8, moon6] [4879] | [Dire: moon3, moon2, moon5, moon1, moon4] [5000]
+<11:14:41 PM> moon->Main: .r radiant
+<11:14:41 PM> Server->ixdl22: moon has resulted radiant.
+<11:14:42 PM> moon4->Main: .r radiant
+<11:14:42 PM> Server->ixdl22: moon4 has resulted radiant.
+<11:14:49 PM> ixmike88->Main: .r dire
+<11:14:49 PM> Server->ixdl22: ixmike88 has resulted dire.
+<11:15:11 PM> moon8->Main: .r radiant
+<11:15:11 PM> Server->ixdl22: moon8 has resulted radiant.
+<11:15:12 PM> moon6->Main: .r radiant
+<11:15:12 PM> Server->ixdl22: moon6 has resulted radiant.
+<11:15:13 PM> moon3->Main: .r radiant
+<11:15:13 PM> Server->ixdl22: moon3 has resulted radiant.
+<11:15:15 PM> moon9->Main: .r radiant
+<11:15:15 PM> Server->ixdl22: moon9 has resulted radiant.
+<11:15:15 PM> Server->Main: The Radiant have won the game!
+<11:15:15 PM> Server->Main: [ixdl22] Radiant: moon[+40], moon9[+35], ixmike88[+32], moon8[+35], moon6[+35]
+<11:15:15 PM> Server->Main: [ixdl22] Dire: moon3[-35], moon2[-35], moon5[-35], moon1[-35], moon4[-35]
+<11:15:38 PM> moon->Main: meh i'll figure out a faster way to do this later
+<11:15:44 PM> moon2 (129.116.33.222) has disconnected.
+<11:15:44 PM> moon9 (129.116.33.222) has disconnected.
+<11:15:44 PM> moon3 (129.116.33.222) has disconnected.
+<11:15:45 PM> moon6 (129.116.33.222) has disconnected.
+<11:15:45 PM> moon8 (129.116.33.222) has disconnected.
+<11:15:45 PM> moon5 (129.116.33.222) has disconnected.
+<11:15:46 PM> moon4 (129.116.33.222) has disconnected.
+<11:15:46 PM> moon1 (129.116.33.222) has disconnected.
+<11:15:51 PM> moon7 (129.116.33.222) has disconnected.
+<11:17:12 PM> ixmike88->Main: ?
+<11:17:14 PM> ixmike88->Main: least it went well
+<11:34:16 PM> whd.Mark (24.247.146.240) has disconnected.

@@ -1,0 +1,34 @@
+<1:49:21 AM> 129.116.33.222 connected
+<9:57:39 AM> 99.7.74.79 connected
+<9:57:44 AM> 99.7.74.79 connected
+<9:57:49 AM> 99.7.74.79 connected
+<9:58:01 AM> 99.7.74.79 connected
+<9:58:49 AM> ixmike88: .top
+<9:58:50 AM> ixmike88: ?
+<9:59:41 AM> moon: ?
+<10:00:20 AM> 99.7.74.79 connected
+<10:00:23 AM> 99.7.74.79 connected
+<10:01:20 AM> 99.7.74.79 connected
+<10:02:00 AM> NO PING: ixmike88(99.7.74.79)
+<10:05:23 AM> Loading user database...
+<10:05:23 AM> Listening for clients..
+<10:05:23 AM> Player list added
+<10:05:23 AM> League connected
+<10:05:34 AM> 99.7.74.79 connected
+<10:05:50 AM> 129.116.33.222 connected
+<10:06:38 AM> 99.7.74.79 connected
+<10:07:03 AM> NO PING: ixmike88(99.7.74.79)
+<10:07:09 AM> 99.7.74.79 connected
+<10:07:31 AM> 99.7.74.79 connected
+<10:08:03 AM> NO PING: ixmike88(99.7.74.79)
+<10:08:28 AM> 99.7.74.79 connected
+<10:09:39 AM> 99.7.74.79 connected
+<10:10:01 AM> 99.7.74.79 connected
+<10:11:10 AM> 99.7.74.79 connected
+<10:11:32 AM> 99.7.74.79 connected
+<10:12:03 AM> NO PING: ixmike88(99.7.74.79)
+<10:12:55 AM> 99.7.74.79 connected
+<10:13:56 AM> 99.7.74.79 connected
+<10:14:18 AM> 99.7.74.79 connected
+<9:55:12 PM> 129.116.33.222 connected
+<10:02:25 PM> 129.116.33.222 connected

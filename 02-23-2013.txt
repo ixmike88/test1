@@ -1,0 +1,324 @@
+<12:00:02 AM> ixmike88->Main: .games
+<12:00:50 AM> ixmike88->Main: .games
+<12:01:07 AM> ixmike88->Main: .games
+<12:01:41 AM> ixmike88->Main: .games
+<12:02:31 AM> Loading user database...
+<12:02:31 AM> Player list added
+<12:02:31 AM> League connected
+<12:02:31 AM> Listening for clients..
+<12:02:31 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:03:04 AM> ixmike88->Main: .games
+<12:03:39 AM> ixmike88->Main: .cg 1
+<12:03:39 AM> Server->Main: ixmike88 has drawn ixdl1
+<12:03:39 AM> Server->Main: [ixdl1] Game has been drawn.
+<12:03:44 AM> ixmike88->Main: .cg 2
+<12:03:44 AM> ixmike88->Main: .games
+<12:03:44 AM> Server->ixmike88: No games available.
+<12:04:04 AM> ixmike88->Main: .lp
+<12:04:04 AM> Server->ixmike88: No pending games.
+<12:04:04 AM> ixmike88->Main: .sg
+<12:04:04 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:04:04 AM> ixmike88->Main: .s
+<12:04:04 AM> ixmike88->Main: .fake kzz s
+<12:04:04 AM> Server->Main: [ixdl3] kzz has joined the game (2/10)
+<12:04:29 AM> ixmike88->Main: .fake whd.mark s
+<12:04:29 AM> Server->Main: [ixdl3] whd.Mark has joined the game (3/10)
+<12:04:29 AM> ixmike88->Main: .fake f4l s
+<12:04:29 AM> Server->Main: [ixdl3] F4L has joined the game (4/10)
+<12:04:34 AM> ixmike88->Main: .fake shaang s
+<12:04:34 AM> Server->Main: [ixdl3] Shaang has joined the game (5/10)
+<12:04:34 AM> ixmike88->Main: .fake anacletus s
+<12:04:34 AM> Server->Main: [ixdl3] Anacletus has joined the game (6/10)
+<12:04:39 AM> ixmike88->Main: .fake moon9 s
+<12:04:39 AM> Server->Main: [ixdl3] moon9 has joined the game (7/10)
+<12:04:39 AM> ixmike88->Main: .fake moon8 s
+<12:04:39 AM> Server->Main: [ixdl3] moon8 has joined the game (8/10)
+<12:04:44 AM> ixmike88->Main: .fake test s
+<12:04:44 AM> Server->test: You are not vouched
+<12:04:44 AM> ixmike88->Main: .fake anacletus s
+<12:04:49 AM> ixmike88->Main: .fake jgsc s
+<12:04:49 AM> Server->Main: [ixdl3] jgsc has joined the game (9/10)
+<12:04:49 AM> ixmike88->Main: .fake zieth s
+<12:04:49 AM> Server->Main: [ixdl3] Zieth has joined the game (10/10)
+<12:04:49 AM> Server->Main: [ixdl3] Game is full. ixmike88 can type .confirm to start the game.
+<12:04:54 AM> ixmike88->Main: .confirm
+<12:04:54 AM> Server->Main: [ixdl3] [Radiant: gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] [5338] | [Dire: gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] [5339]
+<12:04:54 AM> Server->ixdl3: [ixdl3] [Radiant: gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] [5338] | [Dire: gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] [5339]
+<12:11:44 AM> Loading user database...
+<12:11:44 AM> Player list added
+<12:11:44 AM> League connected
+<12:11:44 AM> Listening for clients..
+<12:11:49 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:12:19 AM> ixmike88->Main: .l;p
+<12:12:19 AM> Server->ixmike88: No pending games.
+<12:12:19 AM> ixmike88->Main: .lp
+<12:12:19 AM> Server->ixmike88: No pending games.
+<12:12:19 AM> ixmike88->Main: .cg 3
+<12:12:19 AM> Server->Main: ixmike88 has drawn ixdl3
+<12:12:19 AM> Server->Main: [ixdl3] Game has been drawn.
+<12:12:19 AM> ixmike88->Main: .sg
+<12:12:19 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:12:24 AM> ixmike88->Main: .fake kzz s
+<12:12:24 AM> Server->Main: [ixdl4] kzz has joined the game (2/10)
+<12:12:24 AM> ixmike88->Main: .fake f4l s
+<12:12:24 AM> Server->Main: [ixdl4] F4L has joined the game (3/10)
+<12:12:24 AM> ixmike88->Main: .fake moon8 s
+<12:12:24 AM> Server->Main: [ixdl4] moon8 has joined the game (4/10)
+<12:12:29 AM> ixmike88->Main: .fake moon9 s
+<12:12:29 AM> Server->Main: [ixdl4] moon9 has joined the game (5/10)
+<12:12:29 AM> ixmike88->Main: .fake whd.mark s
+<12:12:29 AM> Server->Main: [ixdl4] whd.Mark has joined the game (6/10)
+<12:12:29 AM> ixmike88->Main: .fake f4l s
+<12:12:29 AM> ixmike88->Main: .fake anacletus s
+<12:12:29 AM> Server->Main: [ixdl4] Anacletus has joined the game (7/10)
+<12:12:34 AM> ixmike88->Main: .fake shaang s
+<12:12:34 AM> Server->Main: [ixdl4] Shaang has joined the game (8/10)
+<12:12:34 AM> ixmike88->Main: .fake jgsc s
+<12:12:34 AM> Server->Main: [ixdl4] jgsc has joined the game (9/10)
+<12:12:34 AM> ixmike88->Main: .fake duckhunt s
+<12:12:34 AM> Server->Main: [ixdl4] duckhunt has joined the game (10/10)
+<12:12:34 AM> Server->Main: [ixdl4] Game is full. ixmike88 can type .confirm to start the game.
+<12:12:39 AM> ixmike88->Main: .cf
+<12:12:39 AM> Server->Main: [ixdl4] [Radiant: ixmike88, kzz, moon8, Anacletus, jgsc] [5304] | [Dire: whd.Mark, F4L, Shaang, moon9, duckhunt] [5303]
+<12:12:39 AM> Server->ixdl4: [ixdl4] [Radiant: ixmike88, kzz, moon8, Anacletus, jgsc] [5304] | [Dire: whd.Mark, F4L, Shaang, moon9, duckhunt] [5303]
+<12:12:44 AM> ixmike88->Main: .stats kzz
+<12:12:44 AM> Server->ixmike88: kzz(Member) :: [Rating: 1066 | Rank: 5/32] :: [Record: 5-4 (55%) | Streak: -1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:12:49 AM> ixmike88->Main: .stats moon8
+<12:12:49 AM> Server->ixmike88: moon8(Member) :: [Rating: 1035 | Rank: 6/32] :: [Record: 1-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:12:49 AM> ixmike88->Main: .stats jgsc
+<12:12:49 AM> Server->ixmike88: jgsc(Member) :: [Rating: 1013 | Rank: 11/32] :: [Record: 4-5 (44%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:12:49 AM> ixmike88->Main: .stats duckhunt
+<12:12:49 AM> Server->ixmike88: duckhunt(Member) :: [Rating: 965 | Rank: 23/32] :: [Record: 3-4 (42%) | Streak: -2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:12:54 AM> ixmike88->Main: .stats whd.mark
+<12:12:54 AM> Server->ixmike88: whd.Mark(Admin) :: [Rating: 1130 | Rank: 2/32] :: [Record: 6-2 (75%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 8.7] :: [Voucher: ixmike88]
+<7:26:46 PM> Loading user database...
+<7:26:46 PM> Player list added
+<7:26:46 PM> League connected
+<7:26:46 PM> Listening for clients..
+<7:27:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:27:16 PM> ixmike88->Main: .games
+<7:27:16 PM> Server->ixmike88: Active Games: ixdl4[1155]
+<7:27:16 PM> ixmike88->Main: .info 1
+<7:27:16 PM> ixmike88->Main: .info 2
+<7:27:16 PM> Server->ixmike88: [ixdl2] Game Type: Start Game | Players: [Radiant (5282): ixmike88, whd.Mark, Felony, duckhunt, Anacletus] | [Dire: (5287): kzz, F4L, jgsc, Zieth, Shaang] | [Winner: Draw]
+<7:27:16 PM> ixmike88->Main: .info 3
+<7:27:16 PM> Server->ixmike88: [ixdl3] Game Type: Start Game | Players: [Radiant (5338): gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] | [Dire: (5339): gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player, gameServer.Player] | [Winner: Draw]
+<7:27:21 PM> ixmike88->Main: .info 1
+<7:27:26 PM> ixmike88->Main: .mr 4 1
+<7:27:26 PM> Server->Main: ixmike88 has resulted ixdl4
+<7:27:26 PM> Server->Main: The Radiant have won the game!
+<7:27:26 PM> Server->Main: [ixdl4] Radiant: ixmike88[+35], kzz[+35], moon8[+35], Anacletus[+35], jgsc[+35]
+<7:27:26 PM> Server->Main: [ixdl4] Dire: whd.Mark[-35], F4L[-35], Shaang[-35], moon9[-35], duckhunt[-35]
+<7:27:26 PM> ixmike88->Main: .stats
+<7:27:26 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1197 | Rank: 1/32] :: [Record: 9-4 (69%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:27:31 PM> ixmike88->Main: .vg 4
+<7:27:36 PM> ixmike88->Main: .lp
+<7:27:36 PM> Server->ixmike88: No pending games.
+<7:27:36 PM> ixmike88->Main: .voidgame 4
+<7:28:05 PM> Loading user database...
+<7:28:05 PM> Player list added
+<7:28:05 PM> League connected
+<7:28:05 PM> Listening for clients..
+<7:28:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:30:00 PM> ixmike88->Main: .voidgame 4
+<7:30:31 PM> Loading user database...
+<7:30:31 PM> Player list added
+<7:30:31 PM> League connected
+<7:30:31 PM> Listening for clients..
+<7:30:31 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:30:45 PM> ixmike88->Main: .vg 4
+<7:32:25 PM> ixmike88->Main: .vouch misha
+<7:32:25 PM> Server->ixmike88: misha does not have a forum account.
+<7:33:23 PM> ixmike88->Main: .vg 4
+<7:34:34 PM> ixmike88->Main: .vg 4
+<7:34:47 PM> ixmike88->Main: .vg 4
+<7:34:59 PM> ixmike88->Main: .vg 4
+<7:35:25 PM> Loading user database...
+<7:35:25 PM> Player list added
+<7:35:25 PM> League connected
+<7:35:25 PM> Listening for clients..
+<7:35:25 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:35:30 PM> ixmike88->Main: .stats duckhunt
+<7:35:30 PM> Server->ixmike88: duckhunt(Member) :: [Rating: 930 | Rank: 31/32] :: [Record: 3-5 (37%) | Streak: -3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:35:35 PM> ixmike88->Main: .vg 4
+<7:35:58 PM> Loading user database...
+<7:35:58 PM> Player list added
+<7:35:58 PM> League connected
+<7:35:58 PM> Listening for clients..
+<7:35:58 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:35:58 PM> ixmike88->Main: .vg 4
+<7:36:12 PM> Loading user database...
+<7:36:12 PM> Player list added
+<7:36:12 PM> League connected
+<7:36:12 PM> Listening for clients..
+<7:36:17 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:36:22 PM> ixmike88->Main: .vg 4
+<7:36:32 PM> ixmike88->Main: .vg 4
+<7:36:43 PM> Server->Main: ixmike88 has voided ixdl4 voided.
+<7:36:53 PM> ixmike88->Main: .stats
+<7:36:53 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1092 | Rank: 4/32] :: [Record: 9-1 (90%) | Streak: -3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:37:27 PM> Loading user database...
+<7:37:27 PM> Player list added
+<7:37:27 PM> League connected
+<7:37:27 PM> Listening for clients..
+<7:37:32 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:37:32 PM> ixmike88->Main: .lp
+<7:37:32 PM> Server->ixmike88: No pending games.
+<7:37:32 PM> ixmike88->Main: .sg
+<7:37:32 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<7:37:32 PM> ixmike88->Main: .fake kzz s
+<7:37:32 PM> Server->Main: [ixdl5] kzz has joined the game (2/10)
+<7:37:32 PM> ixmike88->Main: .fake whd,.,mark s
+<7:37:32 PM> Server->whd,.,mark: You are not vouched
+<7:37:37 PM> ixmike88->Main: .fake whd.mark s
+<7:37:37 PM> Server->Main: [ixdl5] whd.Mark has joined the game (3/10)
+<7:37:37 PM> ixmike88->Main: .fake duckhunt s
+<7:37:37 PM> Server->Main: [ixdl5] duckhunt has joined the game (4/10)
+<7:37:42 PM> ixmike88->Main: .fake moon2 s
+<7:37:42 PM> Server->Main: [ixdl5] moon2 has joined the game (5/10)
+<7:37:42 PM> ixmike88->Main: .fake test s
+<7:37:42 PM> Server->test: You are not vouched
+<7:37:42 PM> ixmike88->Main: .fake jgsc s
+<7:37:42 PM> Server->Main: [ixdl5] jgsc has joined the game (6/10)
+<7:37:47 PM> ixmike88->Main: .fake moon s
+<7:37:47 PM> Server->Main: [ixdl5] moon has joined the game (7/10)
+<7:37:47 PM> ixmike88->Main: .fake shaang s
+<7:37:47 PM> Server->Main: [ixdl5] Shaang has joined the game (8/10)
+<7:37:47 PM> ixmike88->Main: .fake f4l s
+<7:37:47 PM> Server->Main: [ixdl5] F4L has joined the game (9/10)
+<7:37:52 PM> ixmike88->Main: .fake kzz s
+<7:37:52 PM> ixmike88->Main: .fake moon9 s
+<7:37:52 PM> Server->Main: [ixdl5] moon9 has joined the game (10/10)
+<7:37:52 PM> Server->Main: [ixdl5] Game is full. ixmike88 can type .confirm to start the game.
+<7:37:57 PM> ixmike88->Main: .cf
+<7:37:57 PM> Server->Main: [ixdl5] [Radiant: whd.Mark, Shaang, ixmike88, kzz, moon] [5218] | [Dire: F4L, moon9, duckhunt, moon2, jgsc] [5220]
+<7:37:57 PM> Server->ixdl5: [ixdl5] [Radiant: whd.Mark, Shaang, ixmike88, kzz, moon] [5218] | [Dire: F4L, moon9, duckhunt, moon2, jgsc] [5220]
+<7:38:02 PM> ixmike88->ixdl5: .mr 5 1
+<7:38:02 PM> Server->Main: ixmike88 has resulted ixdl5
+<7:38:02 PM> Server->Main: The Radiant have won the game!
+<7:38:02 PM> Server->Main: [ixdl5] Radiant: whd.Mark[+35], Shaang[+35], ixmike88[+35], kzz[+35], moon[+35]
+<7:38:02 PM> Server->Main: [ixdl5] Dire: F4L[-35], moon9[-35], duckhunt[-35], moon2[-35], jgsc[-35]
+<7:38:07 PM> ixmike88->Main: .stats
+<7:38:07 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1127 | Rank: 4/32] :: [Record: 10-1 (90%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:38:12 PM> ixmike88->Main: .stats whd.mark
+<7:38:12 PM> Server->ixmike88: whd.Mark(Admin) :: [Rating: 1235 | Rank: 1/32] :: [Record: 7-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 8.5] :: [Voucher: ixmike88]
+<7:38:32 PM> Loading user database...
+<7:38:32 PM> Player list added
+<7:38:32 PM> League connected
+<7:38:32 PM> Listening for clients..
+<7:38:32 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:38:37 PM> ixmike88->Main: .vg 5
+<7:38:37 PM> Server->Main: ixmike88 has voided ixdl5.
+<7:38:37 PM> ixmike88->Main: .stats
+<7:38:37 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1092 | Rank: 5/32] :: [Record: 10-0 (100%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:38:42 PM> ixmike88->Main: .stats whd.mark
+<7:38:42 PM> Server->ixmike88: whd.Mark(Admin) :: [Rating: 1200 | Rank: 1/32] :: [Record: 7--1 (116%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 8.5] :: [Voucher: ixmike88]
+<7:39:37 PM> ixmike88->Main: ..stats moon9
+<7:39:42 PM> ixmike88->Main: .stats moon9
+<7:39:42 PM> Server->ixmike88: moon9(Member) :: [Rating: 1105 | Rank: 5/32] :: [Record: 1--2 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: moon]
+<7:52:50 PM> Loading user database...
+<7:52:50 PM> Player list added
+<7:52:50 PM> League connected
+<7:52:50 PM> Listening for clients..
+<7:52:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:52:55 PM> ixmike88->Main: .lp
+<7:52:55 PM> Server->ixmike88: No pending games.
+<7:53:00 PM> ixmike88->Main: .stats f4l
+<7:53:00 PM> Server->ixmike88: F4L(Admin) :: [Rating: 1172 | Rank: 2/32] :: [Record: 6-2 (75%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:53:05 PM> ixmike88->Main: .stats kzz
+<7:53:05 PM> Server->ixmike88: kzz(Member) :: [Rating: 996 | Rank: 20/32] :: [Record: 7-0 (100%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:53:05 PM> ixmike88->Main: .sg
+<7:53:05 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<7:53:10 PM> ixmike88->Main: .fake moon9 s
+<7:53:10 PM> Server->Main: [ixdl6] moon9 has joined the game (2/10)
+<7:53:10 PM> ixmike88->Main: .fake whd.mark s
+<7:53:10 PM> Server->Main: [ixdl6] whd.Mark has joined the game (3/10)
+<7:53:10 PM> ixmike88->Main: .fake f4l s
+<7:53:10 PM> Server->Main: [ixdl6] F4L has joined the game (4/10)
+<7:53:15 PM> ixmike88->Main: .fake shaang s
+<7:53:15 PM> Server->Main: [ixdl6] Shaang has joined the game (5/10)
+<7:53:30 PM> ixmike88->Main: .fake jgsc s
+<7:53:30 PM> Server->Main: [ixdl6] jgsc has joined the game (6/10)
+<7:53:30 PM> ixmike88->Main: .fake duckhunt s
+<7:53:30 PM> Server->Main: [ixdl6] duckhunt has joined the game (7/10)
+<7:53:35 PM> ixmike88->Main: .fake moon8 s
+<7:53:35 PM> Server->Main: [ixdl6] moon8 has joined the game (8/10)
+<7:53:40 PM> ixmike88->Main: .fake felony s
+<7:53:40 PM> Server->Main: [ixdl6] Felony has joined the game (9/10)
+<7:53:40 PM> ixmike88->Main: .fake moon s
+<7:53:40 PM> Server->Main: [ixdl6] moon has joined the game (10/10)
+<7:53:40 PM> Server->Main: [ixdl6] Game is full. ixmike88 can type .confirm to start the game.
+<7:53:40 PM> ixmike88->Main: .lp
+<7:53:40 PM> Server->ixmike88: [ixdl6] [Players: (10) ixmike88(1092), moon9(1105), whd.Mark(1200), F4L(1172), Shaang(1141), jgsc(943), duckhunt(1035), moon8(965), Felony(997), moon(789)]
+<7:53:45 PM> ixmike88->Main: .cf
+<7:53:45 PM> Server->Main: [ixdl6] [Radiant: whd.Mark, Shaang, ixmike88, Felony, moon] [5219] | [Dire: F4L, moon9, duckhunt, moon8, jgsc] [5220]
+<7:53:45 PM> Server->ixdl6: [ixdl6] [Radiant: whd.Mark, Shaang, ixmike88, Felony, moon] [5219] | [Dire: F4L, moon9, duckhunt, moon8, jgsc] [5220]
+<7:53:50 PM> ixmike88->ixdl6: .mr 6 1
+<7:53:50 PM> Server->Main: ixmike88 has resulted ixdl6
+<7:53:50 PM> Server->Main: The Radiant have won the game!
+<7:53:50 PM> Server->Main: [ixdl6] Radiant: whd.Mark[+35], Shaang[+35], ixmike88[+35], Felony[+35], moon[+35]
+<7:53:50 PM> Server->Main: [ixdl6] Dire: F4L[-35], moon9[-35], duckhunt[-35], moon8[-35], jgsc[-35]
+<7:53:55 PM> ixmike88->Main: .lp
+<7:53:55 PM> Server->ixmike88: No pending games.
+<7:54:10 PM> ixmike88->Main: .stats
+<7:54:10 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1127 | Rank: 4/32] :: [Record: 11-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:54:10 PM> ixmike88->Main: .stats felony
+<7:54:10 PM> Server->ixmike88: Felony(Member) :: [Rating: 1032 | Rank: 9/32] :: [Record: 5-4 (55%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:54:15 PM> ixmike88->Main: .stats jgsc
+<7:54:15 PM> Server->ixmike88: jgsc(Member) :: [Rating: 908 | Rank: 31/32] :: [Record: 5-3 (62%) | Streak: -1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:54:15 PM> ixmike88->Main: .vg 6
+<7:54:15 PM> Server->Main: ixmike88 has voided ixdl6.
+<7:54:20 PM> ixmike88->Main: .stats
+<7:54:20 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1092 | Rank: 5/32] :: [Record: 11--1 (110%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:54:20 PM> ixmike88->Main: .stats jgsc
+<7:54:20 PM> Server->ixmike88: jgsc(Member) :: [Rating: 943 | Rank: 29/32] :: [Record: 5-2 (71%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:56:55 PM> Loading user database...
+<7:56:55 PM> Player list added
+<7:56:55 PM> League connected
+<7:56:55 PM> Listening for clients..
+<7:57:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:57:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:57:10 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:04:37 PM> Loading user database...
+<8:04:37 PM> Player list added
+<8:04:37 PM> League connected
+<8:04:37 PM> Listening for clients..
+<8:04:37 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:04:37 PM> ixmike88->Main: .lp
+<8:04:37 PM> Server->ixmike88: No pending games.
+<8:04:37 PM> ixmike88->Main: .sg
+<8:04:37 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:04:42 PM> ixmike88->Main: .fake kzz s
+<8:04:42 PM> Server->Main: [ixdl7] kzz has joined the game (2/10)
+<8:04:42 PM> ixmike88->Main: .fake f4l s
+<8:04:42 PM> Server->Main: [ixdl7] F4L has joined the game (3/10)
+<8:04:42 PM> ixmike88->Main: .fake shaang s
+<8:04:42 PM> Server->Main: [ixdl7] Shaang has joined the game (4/10)
+<8:04:47 PM> ixmike88->Main: .fake whd.mark s
+<8:04:47 PM> Server->Main: [ixdl7] whd.Mark has joined the game (5/10)
+<8:04:47 PM> ixmike88->Main: .fake moon9 s
+<8:04:47 PM> Server->Main: [ixdl7] moon9 has joined the game (6/10)
+<8:04:52 PM> ixmike88->Main: .fake moon8 s
+<8:04:52 PM> Server->Main: [ixdl7] moon8 has joined the game (7/10)
+<8:07:37 PM> ixmike88->Main: .fake moon 7
+<8:08:12 PM> ixmike88->Main: .fake jgsc s
+<8:08:12 PM> Server->Main: [ixdl7] jgsc has joined the game (8/10)
+<8:08:12 PM> ixmike88->Main: .fake duckhunt s
+<8:08:12 PM> Server->Main: [ixdl7] duckhunt has joined the game (9/10)
+<8:08:17 PM> ixmike88->Main: .fake felony s
+<8:08:17 PM> Server->Main: [ixdl7] Felony has joined the game (10/10)
+<8:08:17 PM> Server->Main: [ixdl7] Game is full. ixmike88 can type .confirm to start the game.
+<8:08:22 PM> ixmike88->Main: .cf
+<8:08:22 PM> Server->Main: [ixdl7] [Radiant: whd.Mark, ixmike88, duckhunt, Felony, kzz] [5320] | [Dire: F4L, Shaang, moon9, moon8, jgsc] [5326]
+<8:08:22 PM> Server->ixdl7: [ixdl7] [Radiant: whd.Mark, ixmike88, duckhunt, Felony, kzz] [5320] | [Dire: F4L, Shaang, moon9, moon8, jgsc] [5326]
+<8:08:22 PM> ixmike88->ixdl7: .mr 7 1
+<8:08:22 PM> Server->Main: ixmike88 has resulted ixdl7
+<8:08:22 PM> Server->Main: The Radiant have won the game!
+<8:08:22 PM> Server->Main: [ixdl7] Radiant: whd.Mark[+35], ixmike88[+35], duckhunt[+35], Felony[+35], kzz[+35]
+<8:08:22 PM> Server->Main: [ixdl7] Dire: F4L[-35], Shaang[-35], moon9[-35], moon8[-35], jgsc[-35]
+<8:08:42 PM> Loading user database...
+<8:08:42 PM> Player list added
+<8:08:42 PM> League connected
+<8:08:42 PM> Listening for clients..
+<8:08:57 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:09:26 PM> ixmike88->Main: .vg 7

@@ -1,0 +1,1846 @@
+<12:00:15 AM> Listening for clients..
+<12:00:15 AM> Loading user database...
+<12:00:15 AM> Player list added
+<12:00:15 AM> League connected
+<12:00:16 AM> 99.7.74.79 connected
+<12:01:41 AM> Listening for clients..
+<12:01:41 AM> Loading user database...
+<12:01:41 AM> Player list added
+<12:01:41 AM> League connected
+<12:01:43 AM> 99.7.74.79 connected
+<12:02:14 AM> Loading user database...
+<12:02:14 AM> Listening for clients..
+<12:02:14 AM> Player list added
+<12:02:14 AM> League connected
+<12:02:16 AM> 99.7.74.79 connected
+<12:02:50 AM> 99.7.74.79 connected
+<12:04:56 AM> 99.7.74.79 connected
+<12:05:07 AM> 99.7.74.79 connected
+<12:05:28 AM> 99.7.74.79 connected
+<12:05:32 AM> 99.7.74.79 connected
+<12:06:26 AM> 99.7.74.79 connected
+<12:06:31 AM> 99.7.74.79 connected
+<12:06:42 AM> 99.7.74.79 connected
+<2:02:18 AM> 67.1.29.36 connected
+<2:02:32 AM> 67.1.29.36 connected
+<2:02:38 AM> username: ?
+<2:02:39 AM> username: huh
+<2:02:51 AM> Loading user database...
+<2:02:51 AM> Listening for clients..
+<2:02:51 AM> Player list added
+<2:02:51 AM> League connected
+<2:02:55 AM> 99.7.74.79 connected
+<2:02:56 AM> 67.1.29.36 connected
+<2:02:57 AM> 165.154.103.86 connected
+<2:03:16 AM> 165.154.103.86 connected
+<2:03:22 AM> 129.116.33.222 connected
+<2:03:32 AM> 129.116.33.222 connected
+<2:03:38 AM> 129.116.33.222 connected
+<2:03:41 AM> 24.212.164.142 connected
+<2:03:42 AM> Invalid packet: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 155
+<2:03:45 AM> moon: holy shit stand alone client
+<2:03:46 AM> 165.154.103.86 connected
+<2:04:11 AM> ixmike88: .vouch moon
+<2:04:11 AM> ixmike88 has vouched moon.
+<2:04:12 AM> ixmike88: .stats moon
+<2:04:12 AM> moon(Member) :: [Rating: 1000 | Rank: 1/3] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:04:13 AM> moon: test
+<2:04:16 AM> 165.154.103.86 connected
+<2:04:21 AM> ixmike88: .vouch f4l
+<2:04:21 AM> ixmike88 has vouched F4L.
+<2:04:22 AM> moon: dope
+<2:04:23 AM> 76.176.16.138 connected
+<2:04:24 AM> 165.154.103.86 connected
+<2:04:25 AM> F4L: ?
+<2:04:28 AM> F4L: wasnt i already vouched
+<2:04:28 AM> febby: test
+<2:04:29 AM> 99.7.74.79 connected
+<2:04:30 AM> 99.7.74.79 connected
+<2:04:30 AM> febby: test
+<2:04:31 AM> test: sdf
+<2:04:31 AM> test: dfs
+<2:04:33 AM> febby: test
+<2:04:35 AM> 76.176.16.138 connected
+<2:04:36 AM> febby: test
+<2:04:39 AM> moon: different obv
+<2:04:42 AM> febby: test
+<2:04:42 AM> 76.176.16.138 connected
+<2:04:44 AM> ixmike88: i deleted it
+<2:04:46 AM> ixmike88: .vouch duckhunt
+<2:04:46 AM> ixmike88 has vouched duckhunt.
+<2:04:47 AM> ixmike88: .vouch febby
+<2:04:47 AM> ixmike88 has vouched Febby.
+<2:04:49 AM> febby: test
+<2:04:49 AM> F4L: oh
+<2:04:58 AM> 24.212.164.142 connected
+<2:04:59 AM> moon: .sg
+<2:04:59 AM> moon has opened signups for a ixmike Dota League game! Mode is CM.
+<2:05:07 AM> 24.212.164.142 connected
+<2:05:13 AM> 24.212.164.142 connected
+<2:05:22 AM> duckhunt: .s ixdl1
+<2:05:22 AM> [ixdl1] duckhunt has joined the game
+<2:05:24 AM> ixmike88: .vouch shaang
+<2:05:24 AM> ixmike88 has vouched Shaang.
+<2:05:30 AM> F4L: .s
+<2:05:30 AM> [ixdl1] F4L has joined the game
+<2:05:39 AM> moon: holy shit it hides commands
+<2:05:42 AM> moon: you're fucking legit michael
+<2:05:44 AM> ixmike88: ty
+<2:05:44 AM> ixmike88: .s
+<2:05:44 AM> [ixdl1] ixmike88 has joined the game
+<2:05:47 AM> ixmike88: .help
+<2:05:47 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:05:48 AM> Shaang: .s
+<2:05:48 AM> [ixdl1] Shaang has joined the game
+<2:05:51 AM> ixmike88: test esverythihng plz
+<2:05:57 AM> moon: .fakesign
+<2:06:02 AM> ixmike88: .fakesign
+<2:06:02 AM> moon: .fakesign test
+<2:06:03 AM> F4L: make me a admin
+<2:06:04 AM> Shaang: .compare lsamerican fiend4life
+<2:06:04 AM> lsamerican not found
+<2:06:07 AM> moon: .abort
+<2:06:07 AM> moon has aborted ixdl1.
+<2:06:08 AM> moon: .sg
+<2:06:08 AM> moon has opened signups for a ixmike Dota League game! Mode is CM.
+<2:06:12 AM> ixmike88: .promote f4l
+<2:06:12 AM> F4L has been promoted to Voucher by ixmike88
+<2:06:14 AM> ixmike88: .promote f4l
+<2:06:14 AM> F4L has been promoted to Moderator by ixmike88
+<2:06:15 AM> ixmike88: .promote ftl
+<2:06:19 AM> moon: leader please
+<2:06:20 AM> ixmike88: /kick f4l
+<2:06:22 AM> moon: .abort
+<2:06:22 AM> moon has aborted ixdl1.
+<2:06:25 AM> moon: .cl febby
+<2:06:25 AM> moon has issued a challenge to Febby! Type .sign to enter.
+<2:06:26 AM> 67.1.29.36 connected
+<2:06:30 AM> F4L: dear
+<2:06:31 AM> F4L: .stats
+<2:06:31 AM> F4L(Moderator) :: [Rating: 1000 | Rank: 1/7] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:06:33 AM> duckhunt: .sign
+<2:06:33 AM> [ixdl1] duckhunt has joined the game
+<2:06:36 AM> F4L: .fake moon .out
+<2:06:46 AM> moon: .fake moon out
+<2:06:56 AM> moon: do /'s work
+<2:06:56 AM> F4L: need admin i think
+<2:06:57 AM> ixmike88: u gota be admin
+<2:06:58 AM> moon: /abort
+<2:07:00 AM> duckhunt: .help
+<2:07:00 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:07:04 AM> febby: how do u close ur pm
+<2:07:05 AM> moon: ?abort
+<2:07:08 AM> moon: `abort
+<2:07:08 AM> F4L: mouse 3
+<2:07:08 AM> ixmike88: mosue3
+<2:07:10 AM> ixmike88: or esc
+<2:07:14 AM> moon: test
+<2:07:16 AM> ixmike88: dsc
+<2:07:21 AM> febby: ok
+<2:07:35 AM> febby: .s
+<2:07:36 AM> moon: .kick duckhunt
+<2:07:36 AM> febby: .s
+<2:07:38 AM> ixmike88: .reload f4l
+<2:07:40 AM> ixmike88: .stats f4l
+<2:07:40 AM> F4L(Admin) :: [Rating: 1000 | Rank: 1/7] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:07:42 AM> moon: am i supposed to be able to kic kfrom game
+<2:07:43 AM> febby: .stats
+<2:07:43 AM> Febby(Member) :: [Rating: 1000 | Rank: 1/7] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:07:44 AM> ixmike88: yas
+<2:07:46 AM> moon: .forbid duckhunt
+<2:07:48 AM> moon: cant
+<2:07:49 AM> ixmike88:  .forbid
+<2:07:52 AM> F4L: .fake moon .out
+<2:07:53 AM> moon: didnt stick
+<2:07:54 AM> F4L: ?
+<2:07:56 AM> moon: .lp
+<2:07:56 AM> [ixdl1] [Players: (3) (C) moon (1000), (C) Febby (1000), duckhunt(1000)]
+<2:07:59 AM> F4L: .fake moon .abort
+<2:08:00 AM> moon: .forbid febby
+<2:08:02 AM> F4L: hmm
+<2:08:03 AM> ixmike88: oh
+<2:08:03 AM> ixmike88: cl
+<2:08:04 AM> ixmike88: u cant in cl
+<2:08:04 AM> F4L: fake doesnt work
+<2:08:06 AM> moon: oh
+<2:08:06 AM> moon: .abort
+<2:08:08 AM> ixmike88: what are u doing
+<2:08:09 AM> moon: .dodge
+<2:08:09 AM> [ixdl1] moon has dodged the challenge!
+<2:08:10 AM> moon: .sg
+<2:08:10 AM> moon has opened signups for a ixmike Dota League game! Mode is CM.
+<2:08:14 AM> moon: i was testing cl
+<2:08:15 AM> F4L: .fake moon .sg
+<2:08:17 AM> Shaang: .s
+<2:08:17 AM> [ixdl1] Shaang has joined the game
+<2:08:17 AM> ixmike88: i mean f4l
+<2:08:17 AM> moon: apparently im dumb
+<2:08:17 AM> F4L: ?
+<2:08:19 AM> duckhunt: .s ixdl1
+<2:08:19 AM> [ixdl1] duckhunt has joined the game
+<2:08:21 AM> ixmike88: .s
+<2:08:21 AM> [ixdl1] ixmike88 has joined the game
+<2:08:22 AM> F4L: i did .fake moon .sg
+<2:08:24 AM> moon: .forbid shaang
+<2:08:24 AM> moon has forbidden Shaang from ixdl1
+<2:08:24 AM> [ixdl1] Shaang has signed out
+<2:08:26 AM> ixmike88: he was in a game already
+<2:08:31 AM> moon: .commands
+<2:08:31 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:08:31 AM> F4L: im aware
+<2:08:32 AM> F4L: .lp
+<2:08:32 AM> [ixdl1] [Players: (3) moon(1000), duckhunt(1000), ixmike88(1000)]
+<2:08:35 AM> ixmike88: why would fake work then
+<2:08:36 AM> duckhunt: .games
+<2:08:36 AM> Pending Games: ixdl1(3/10) 
+<2:08:36 AM> F4L: .fake moon abort
+<2:08:36 AM> moon has aborted ixdl1.
+<2:08:40 AM> F4L: nvm it works
+<2:08:42 AM> duckhunt: .lp
+<2:08:43 AM> F4L: .fake moon .sg
+<2:08:44 AM> moon: thats a lie
+<2:08:46 AM> moon: i didnt type .abort
+<2:08:47 AM> F4L: .fake moon sg
+<2:08:47 AM> moon has opened signups for a ixmike Dota League game! Mode is CM.
+<2:08:48 AM> moon: someone moda aborted
+<2:08:48 AM> duckhunt: whats fake sign?
+<2:08:49 AM> ixmike88: .s
+<2:08:49 AM> [ixdl1] ixmike88 has joined the game
+<2:08:50 AM> febby: .sg
+<2:08:52 AM> ixmike88: .vouch a
+<2:08:52 AM> a does not have a forum account.
+<2:08:52 AM> moon: oh
+<2:08:54 AM> ixmike88: ofmg
+<2:08:54 AM> febby: .startgame
+<2:08:55 AM> F4L: u need to do commands without the period
+<2:08:55 AM> moon:  fake
+<2:08:56 AM> moon: .fake
+<2:08:57 AM> febby: .sg
+<2:08:58 AM> F4L: for fake
+<2:08:59 AM> febby: ?
+<2:09:04 AM> febby: u cant have two games at once?
+<2:09:06 AM> febby: i cant .sg
+<2:09:06 AM> moon: .commands
+<2:09:06 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:09:08 AM> ixmike88: .out
+<2:09:08 AM> [ixdl1] ixmike88 has signed out
+<2:09:08 AM> F4L: .sg
+<2:09:08 AM> ixmike88: .sg
+<2:09:11 AM> ixmike88: its broken
+<2:09:13 AM> febby: oh
+<2:09:13 AM> ixmike88: .lp
+<2:09:13 AM> [ixdl1] [Players: (1) moon(1000)]
+<2:09:15 AM> ixmike88: it should
+<2:09:17 AM> moon: .abort
+<2:09:17 AM> moon has aborted ixdl1.
+<2:09:18 AM> ixmike88: .sg
+<2:09:18 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:09:19 AM> moon: .sg
+<2:09:20 AM> ixmike88: .fake moon sg
+<2:09:22 AM> moon: .cl f4l
+<2:09:23 AM> F4L: ?
+<2:09:23 AM> ixmike88: somethings broken
+<2:09:25 AM> ixmike88: beta test guys
+<2:09:25 AM> F4L: legit.
+<2:09:25 AM> moon: .cl febby
+<2:09:30 AM> moon: .s
+<2:09:30 AM> [ixdl1] moon has joined the game
+<2:09:41 AM> febby: did u implement my idea of elo limit game
+<2:09:45 AM> F4L: .vouch cunt
+<2:09:45 AM> cunt does not have a forum account.
+<2:09:45 AM> duckhunt: .teams
+<2:09:47 AM> F4L: ?
+<2:09:48 AM> ixmike88: .vouch live
+<2:09:48 AM> ixmike88 has vouched Live.
+<2:09:50 AM> moon: .above 1500
+<2:09:50 AM> ixmike88: .vouch felony
+<2:09:50 AM> ixmike88 has vouched Felony.
+<2:09:52 AM> moon: or something
+<2:09:53 AM> ixmike88: .vouch anacletus
+<2:09:53 AM> ixmike88 has vouched Anacletus.
+<2:09:53 AM> febby: like .sg 1000 and only 1000 above can play
+<2:09:54 AM> F4L: .fake felony s
+<2:09:54 AM> [ixdl1] Felony has joined the game
+<2:09:54 AM> ixmike88: .vouch kzz
+<2:09:54 AM> ixmike88 has vouched kzz.
+<2:09:55 AM> ixmike88: .s
+<2:10:00 AM> F4L: .fake anacletus s
+<2:10:00 AM> [ixdl1] Anacletus has joined the game
+<2:10:01 AM> ixmike88: i had that in my older bots
+<2:10:04 AM> ixmike88: .fake felony sign
+<2:10:05 AM> F4L: .fake live s
+<2:10:05 AM> [ixdl1] Live has joined the game
+<2:10:06 AM> ixmike88: .fake live sign
+<2:10:07 AM> ixmike88: .lp
+<2:10:07 AM> [ixdl1] [Players: (5) ixmike88(1000), moon(1000), Felony(1000), Anacletus(1000), Live(1000)]
+<2:10:08 AM> F4L: .fake kzz s
+<2:10:08 AM> [ixdl1] kzz has joined the game
+<2:10:10 AM> F4L: .s
+<2:10:10 AM> [ixdl1] F4L has joined the game
+<2:10:11 AM> ixmike88: ill add it
+<2:10:12 AM> febby: .s
+<2:10:12 AM> [ixdl1] Febby has joined the game
+<2:10:14 AM> ixmike88: .fake duckhunt s
+<2:10:14 AM> [ixdl1] duckhunt has joined the game
+<2:10:16 AM> ixmike88: .fake shaang s
+<2:10:16 AM> [ixdl1] Shaang has joined the game
+<2:10:16 AM> [ixdl1] Game is full. ixmike88 can type .confirm to start the game.
+<2:10:17 AM> ixmike88: .lp
+<2:10:17 AM> [ixdl1] [Players: (10) ixmike88(1000), moon(1000), Felony(1000), Anacletus(1000), Live(1000), kzz(1000), F4L(1000), Febby(1000), duckhunt(1000), Shaang(1000)]
+<2:10:18 AM> ixmike88: .cf
+<2:10:18 AM> [ixdl1] [Radiant: ixmike88, moon, Felony, Anacletus, Live] [5000] | [Dire: kzz, F4L, Febby, duckhunt, Shaang] [5000]
+<2:10:18 AM> [ixdl1] [Radiant: ixmike88, moon, Felony, Anacletus, Live] [5000] | [Dire: kzz, F4L, Febby, duckhunt, Shaang] [5000]
+<2:10:20 AM> moon: holy hsit
+<2:10:21 AM> 67.1.29.36 connected
+<2:10:22 AM> Shaang: ?
+<2:10:23 AM> moon: different lobby
+<2:10:25 AM> 108.6.69.200 connected
+<2:10:29 AM> febby: ?
+<2:10:29 AM> Shaang: brockli went ham and called grandgrant a sideseat gamer LMAO
+<2:10:29 AM> F4L: ?
+<2:10:31 AM> moon: .r radiant
+<2:10:32 AM> febby: this is so neat
+<2:10:35 AM> F4L: mike
+<2:10:36 AM> febby: where
+<2:10:37 AM> febby: where
+<2:10:38 AM> moon: i cant change my vote
+<2:10:39 AM> febby: where
+<2:10:41 AM> moon: it grey's it out
+<2:10:43 AM> ixmike88: u get 1 vote.
+<2:10:49 AM> F4L: ur buttons are broke
+<2:10:51 AM> F4L: on resize
+<2:10:53 AM> ixmike88: theyre docked improperly
+<2:10:56 AM> ixmike88: i tried.
+<2:11:00 AM> Shaang: .r radiant
+<2:11:01 AM> F4L: dock them to
+<2:11:03 AM> F4L: not dock
+<2:11:06 AM> ixmike88: aNCHOR
+<2:11:07 AM> F4L: anchor just to the right
+<2:11:09 AM> F4L: it should work
+<2:11:19 AM> moon: test
+<2:11:24 AM> febby: .r dire
+<2:11:29 AM> F4L: or right/bottom
+<2:11:34 AM> F4L: maybe right/bottom
+<2:11:38 AM> febby: ?
+<2:11:39 AM> 99.7.74.79 connected
+<2:11:41 AM> 99.7.74.79 connected
+<2:11:44 AM> febby: taht shits so unnoticeable
+<2:11:53 AM> ixmike88: wha tis
+<2:11:53 AM> febby: cnat u make it blink instead of have a * infront of the channle name
+<2:11:55 AM> duckhunt: it should all be GUI
+<2:11:58 AM> ixmike88: pms blink
+<2:11:59 AM> ixmike88: channels have *
+<2:11:59 AM> moon: i want my tab shortcuts to work
+<2:12:01 AM> duckhunt: chat commands are only for IRC
+<2:12:04 AM> moon: test
+<2:12:06 AM> F4L: ?
+<2:12:14 AM> duckhunt: chat commands suck
+<2:12:22 AM> ixmike88: u can double click a pendin ggame to sign it
+<2:12:23 AM> duckhunt: hm
+<2:12:31 AM> ixmike88: .cg 1
+<2:12:31 AM> ixmike88 has drawn ixdl1
+<2:12:31 AM> [ixdl1] Game has been drawn.
+<2:12:32 AM> ixmike88: .sg
+<2:12:32 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:12:33 AM> ixmike88: .s
+<2:12:36 AM> ixmike88: .fake moon sg
+<2:12:36 AM> moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 3 to enter.
+<2:12:39 AM> ixmike88: .fake shaang sg
+<2:12:39 AM> Shaang has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 4 to enter.
+<2:12:39 AM> duckhunt: it should all be GUI
+<2:12:41 AM> ixmike88: .fake febby sg
+<2:12:41 AM> Febby has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 5 to enter.
+<2:12:45 AM> duckhunt: no reason for chat commands when you can have buttons
+<2:12:50 AM> duckhunt: and dropdowns
+<2:12:51 AM> ixmike88: u cna do everything in gui
+<2:12:55 AM> moon: scrolling is borked in game lobbies
+<2:12:55 AM> ixmike88: except sg
+<2:12:55 AM> moon: michael
+<2:12:57 AM> F4L: u can right click games
+<2:13:01 AM> F4L: double click*
+<2:13:03 AM> F4L: to join them etc
+<2:13:04 AM> duckhunt: check stats?
+<2:13:05 AM> ixmike88: n its not
+<2:13:07 AM> ixmike88: not that
+<2:13:10 AM> ixmike88: .fa
+<2:13:10 AM> ixmike88 has aborted ixdl2.
+<2:13:11 AM> ixmike88: .fa
+<2:13:11 AM> ixmike88 has aborted ixdl3.
+<2:13:11 AM> ixmike88: .fa
+<2:13:11 AM> ixmike88 has aborted ixdl4.
+<2:13:11 AM> ixmike88: .f
+<2:13:12 AM> ixmike88: .fa
+<2:13:12 AM> ixmike88 has aborted ixdl5.
+<2:13:14 AM> ixmike88: .sg
+<2:13:14 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:13:16 AM> ixmike88: double click on pending
+<2:13:17 AM> ixmike88: to s
+<2:13:17 AM> moon: .s
+<2:13:17 AM> [ixdl2] moon has joined the game
+<2:13:20 AM> moon: .out
+<2:13:20 AM> [ixdl2] moon has signed out
+<2:13:21 AM> duckhunt: .s ixdl2
+<2:13:21 AM> [ixdl2] duckhunt has joined the game
+<2:13:21 AM> F4L: .s ixdl2
+<2:13:21 AM> [ixdl2] F4L has joined the game
+<2:13:21 AM> moon: .s ixdl2
+<2:13:21 AM> [ixdl2] moon has joined the game
+<2:13:22 AM> F4L: .s ixdl2
+<2:13:31 AM> 108.6.69.200 connected
+<2:13:34 AM> moon: i want tab shortcuts to work. but i'll take it
+<2:13:37 AM> duckhunt: chat should only be for chat, everything else should be GUI
+<2:13:42 AM> ixmike88: in time u cunt
+<2:13:50 AM> F4L: what if u make a button
+<2:13:51 AM> moon: tahts at me huh
+<2:13:51 AM> duckhunt: suggestions bitch
+<2:13:53 AM> ixmike88: both
+<2:13:54 AM> F4L: for .sign .out
+<2:13:59 AM> F4L: next to the pending games
+<2:14:06 AM> F4L: then u click the game u want to sign and click sign
+<2:14:13 AM> duckhunt: na
+<2:14:15 AM> duckhunt: right click on game
+<2:14:19 AM> ixmike88: thats slower than double clicking it.
+<2:14:20 AM> duckhunt: then it should give options
+<2:14:24 AM> moon: double click to sign
+<2:14:25 AM> moon: is fine
+<2:14:25 AM> F4L: well after u sign
+<2:14:26 AM> febby: can u release it after i get the money from c9
+<2:14:27 AM> moon: how do i out
+<2:14:29 AM> F4L: u need an out button
+<2:14:29 AM> moon: .s ixdl2
+<2:14:29 AM> ixmike88:  .out
+<2:14:36 AM> ixmike88: ya
+<2:14:38 AM> ixmike88: i got class again this week
+<2:14:42 AM> ixmike88: so i dont got much tijme
+<2:14:47 AM> duckhunt: right click on game, then it should be sign, listplayers, and mod stuff if ur a mod
+<2:14:48 AM> moon: wanna do my crypto homework
+<2:14:49 AM> 108.6.69.200 connected
+<2:14:55 AM> ixmike88: .help
+<2:14:55 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:14:59 AM> febby: .sign
+<2:14:59 AM> [ixdl2] Febby has joined the game
+<2:15:00 AM> febby: .out
+<2:15:00 AM> [ixdl2] Febby has signed out
+<2:15:01 AM> febby: .sign
+<2:15:01 AM> [ixdl2] Febby has joined the game
+<2:15:02 AM> febby: .out
+<2:15:02 AM> [ixdl2] Febby has signed out
+<2:15:03 AM> 108.6.69.200 connected
+<2:15:04 AM> febby: .ping
+<2:15:06 AM> ixmike88: LMAO.
+<2:15:07 AM> moon: do i autosign out of i dc
+<2:15:11 AM> 129.116.33.222 connected
+<2:15:12 AM> 108.6.69.200 connected
+<2:15:15 AM> moon: .lp
+<2:15:15 AM> [ixdl2] [Players: (4) ixmike88(1000), duckhunt(1000), F4L(1000), moon(1000)]
+<2:15:15 AM> ixmike88: no
+<2:15:20 AM> 108.6.69.200 connected
+<2:15:21 AM> F4L: maybe make a pool list
+<2:15:24 AM> F4L: that might be nice
+<2:15:30 AM> F4L: in the gui somewhere
+<2:15:31 AM> febby: .lp
+<2:15:31 AM> [ixdl2] [Players: (4) ixmike88(1000), duckhunt(1000), F4L(1000), moon(1000)]
+<2:15:38 AM> moon: for multiple game lobbies that;ll get complicated
+<2:15:40 AM> ixmike88: .fake felony s
+<2:15:40 AM> [ixdl2] Felony has joined the game
+<2:15:42 AM> ixmike88: .fake anacletus s
+<2:15:42 AM> [ixdl2] Anacletus has joined the game
+<2:15:43 AM> F4L: ?
+<2:15:44 AM> ixmike88: .fake live s
+<2:15:44 AM> [ixdl2] Live has joined the game
+<2:15:48 AM> duckhunt: do openID with steam
+<2:15:50 AM> ixmike88: .fake shaang s
+<2:15:50 AM> [ixdl2] Shaang has joined the game
+<2:15:50 AM> 108.6.69.200 connected
+<2:15:51 AM> F4L: well it just shows the pool for w/e game u have open
+<2:15:53 AM> duckhunt: instead of IPS
+<2:16:01 AM> moon: linking to steamid sounds legit
+<2:16:01 AM> ixmike88: .lp
+<2:16:01 AM> [ixdl2] [Players: (8) ixmike88(1000), duckhunt(1000), F4L(1000), moon(1000), Felony(1000), Anacletus(1000), Live(1000), Shaang(1000)]
+<2:16:06 AM> moon: but unnecessary
+<2:16:07 AM> duckhunt: not linking
+<2:16:10 AM> ixmike88: .fake duckhunt s
+<2:16:11 AM> duckhunt: using steam login
+<2:16:13 AM> ixmike88: .fake jgsc s
+<2:16:20 AM> 108.6.69.200 connected
+<2:16:21 AM> 108.6.69.200 connected
+<2:16:23 AM> moon: that's...
+<2:16:29 AM> duckhunt: openID
+<2:16:40 AM> duckhunt: no reason not to
+<2:16:45 AM> duckhunt: then you can grab avatars
+<2:16:51 AM> 108.6.69.200 connected
+<2:17:06 AM> duckhunt: and it stops multiple accounts
+<2:17:10 AM> ixmike88: whos not signed
+<2:17:12 AM> ixmike88: .top
+<2:17:12 AM> 1. ixmike88[1000] 2. Anacletus[1000] 3. Felony[1000] 4. Live[1000] 5. Shaang[1000] 6. Febby[1000] 7. duckhunt[1000] 8. F4L[1000] 9. moon[1000] 10. Server[1000] 
+<2:17:21 AM> 108.6.69.200 connected
+<2:17:21 AM> ixmike88: .fake moon s
+<2:17:29 AM> 108.6.69.200 connected
+<2:17:30 AM> ixmike88: .vouch ush
+<2:17:30 AM> ixmike88 has vouched ush.
+<2:17:30 AM> 67.1.29.36 connected
+<2:17:31 AM> ixmike88: .fake jgsc s
+<2:17:35 AM> ixmike88: .vouch jgsc
+<2:17:35 AM> ixmike88 has vouched jgsc.
+<2:17:39 AM> ixmike88: .fake jgsc s
+<2:17:39 AM> [ixdl2] jgsc has joined the game
+<2:17:42 AM> duckhunt: .s ixdl2
+<2:17:43 AM> duckhunt: .s ixdl2
+<2:17:43 AM> duckhunt: .s ixdl2
+<2:17:46 AM> moon: .promote moon
+<2:17:51 AM> moon: .commands
+<2:17:51 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:17:51 AM> jgsc: .promite jgsc
+<2:17:54 AM> ixmike88: .promote moon
+<2:17:54 AM> moon has been promoted to Voucher by ixmike88
+<2:18:06 AM> ixmike88: .lp
+<2:18:06 AM> [ixdl2] [Players: (9) ixmike88(1000), duckhunt(1000), F4L(1000), moon(1000), Felony(1000), Anacletus(1000), Live(1000), Shaang(1000), jgsc(1000)]
+<2:18:09 AM> ixmike88: .fake ush sign
+<2:18:09 AM> [ixdl2] ush has joined the game
+<2:18:09 AM> [ixdl2] Game is full. ixmike88 can type .confirm to start the game.
+<2:18:11 AM> ixmike88: .cf
+<2:18:11 AM> [ixdl2] [Radiant: ixmike88, duckhunt, F4L, moon, Felony] [5000] | [Dire: Anacletus, Live, Shaang, jgsc, ush] [5000]
+<2:18:11 AM> [ixdl2] [Radiant: ixmike88, duckhunt, F4L, moon, Felony] [5000] | [Dire: Anacletus, Live, Shaang, jgsc, ush] [5000]
+<2:18:13 AM> moon: test
+<2:18:14 AM> moon: test
+<2:18:14 AM> moon: tes
+<2:18:14 AM> moon: te
+<2:18:14 AM> moon: st
+<2:18:14 AM> ixmike88: whats broken
+<2:18:15 AM> moon: est
+<2:18:15 AM> moon: set
+<2:18:15 AM> moon: s
+<2:18:15 AM> moon: et
+<2:18:15 AM> moon: se
+<2:18:16 AM> moon: t
+<2:18:16 AM> moon: se
+<2:18:16 AM> moon: ts
+<2:18:16 AM> moon: et
+<2:18:16 AM> moon: sw
+<2:18:16 AM> moon: e
+<2:18:16 AM> moon: ts
+<2:18:17 AM> moon: et
+<2:18:17 AM> moon: s
+<2:18:17 AM> moon: te
+<2:18:17 AM> moon: s
+<2:18:17 AM> moon: et
+<2:18:17 AM> moon: s
+<2:18:18 AM> moon: et
+<2:18:18 AM> moon: se
+<2:18:18 AM> moon: t
+<2:18:18 AM> moon: s
+<2:18:18 AM> moon: t
+<2:18:18 AM> moon: se
+<2:18:18 AM> moon: t
+<2:18:18 AM> jgsc: holy shit
+<2:18:19 AM> moon: st
+<2:18:19 AM> moon: s
+<2:18:19 AM> moon: et
+<2:18:19 AM> moon: s
+<2:18:20 AM> ixmike88: i see
+<2:18:25 AM> jgsc: thats broken
+<2:18:26 AM> jgsc: cant see shit
+<2:18:41 AM> duckhunt: http://www.dotnetopenauth.net/
+<2:18:48 AM> duckhunt: i cant type
+<2:18:54 AM> duckhunt: i cant type in the game chat
+<2:19:02 AM> duckhunt: asdf
+<2:19:23 AM> moon: .r draw
+<2:19:23 AM> duckhunt: http://www.dotnetopenauth.net/
+<2:19:34 AM> moon: its a scrolling issue
+<2:19:41 AM> moon: and the buttons are wonky
+<2:19:42 AM> ixmike88: .modresult 2 1
+<2:19:42 AM> ixmike88 has resulted ixdl2
+<2:19:42 AM> The Radiant have won the game!
+<2:19:42 AM> [ixdl2] Radiant: ixmike88[+35], duckhunt[+35], F4L[+35], moon[+35], Felony[+35]
+<2:19:42 AM> [ixdl2] Dire: Anacletus[-35], Live[-35], Shaang[-35], jgsc[-35], ush[-35]
+<2:20:21 AM> moon: .stats
+<2:20:21 AM> moon(Voucher) :: [Rating: 1035 | Rank: 1/13] :: [Record: 1-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:20:33 AM> ixmike88: .compare moon
+<2:20:33 AM> ixmike88 (1035) / moon(1035): Together: 1/0 Against: 0/0
+<2:20:36 AM> moon: i think you could probably make the response to commands privately shown
+<2:20:40 AM> ixmike88: ya
+<2:20:41 AM> moon: but idk what that does
+<2:20:41 AM> ixmike88: that was a suggestion
+<2:20:55 AM> ixmike88: .info 2
+<2:20:55 AM> [ixdl2] Game Type: Start Game | Players: [Radiant (5000): ixmike88, duckhunt, F4L, moon, Felony] | [Dire: (5000): Anacletus, Live, Shaang, jgsc, ush] | [Winner: Radiant]
+<2:20:56 AM> moon: it doesnt really do much other than clear the channel of clutter
+<2:21:04 AM> moon: it's weird not being able to see who statses me
+<2:21:10 AM> moon: .stats ixmike88
+<2:21:10 AM> ixmike88(Admin) :: [Rating: 1035 | Rank: 1/13] :: [Record: 1-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:21:20 AM> moon: .sg
+<2:21:20 AM> moon has opened signups for a ixmike Dota League game! Mode is CM.
+<2:21:23 AM> ixmike88: .s
+<2:21:23 AM> [ixdl3] ixmike88 has joined the game
+<2:21:36 AM> jgsc: .s
+<2:21:36 AM> [ixdl3] jgsc has joined the game
+<2:21:40 AM> moon: .commands
+<2:21:40 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:21:41 AM> jgsc: .compare moon
+<2:21:41 AM> jgsc (965) / moon(1035): Together: 0/0 Against: 0/1
+<2:21:41 AM> ixmike88: .out
+<2:21:41 AM> [ixdl3] ixmike88 has signed out
+<2:21:41 AM> ixmike88: .sg
+<2:21:41 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 4 to enter.
+<2:21:43 AM> ixmike88: .out
+<2:21:43 AM> ixmike88 has aborted ixdl4.
+<2:21:45 AM> moon: .games
+<2:21:45 AM> Pending Games: ixdl3(2/10) 
+<2:21:50 AM> ixmike88: .s
+<2:21:50 AM> [ixdl3] ixmike88 has joined the game
+<2:21:52 AM> ixmike88: .out
+<2:21:52 AM> [ixdl3] ixmike88 has signed out
+<2:21:52 AM> ixmike88: .sg
+<2:21:52 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 4 to enter.
+<2:21:53 AM> ixmike88: .out
+<2:21:53 AM> ixmike88 has aborted ixdl4.
+<2:21:54 AM> ixmike88: .sg
+<2:21:54 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 4 to enter.
+<2:21:55 AM> moon: .reload
+<2:21:57 AM> ixmike88: .fake shaang sg
+<2:21:57 AM> Shaang has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 5 to enter.
+<2:22:03 AM> moon: .s 5
+<2:22:07 AM> ixmike88: ?
+<2:22:07 AM> moon: .abort
+<2:22:07 AM> moon has aborted ixdl3.
+<2:22:09 AM> moon: .s 5
+<2:22:09 AM> [ixdl5] moon has joined the game
+<2:22:12 AM> ixmike88: .out
+<2:22:12 AM> ixmike88 has aborted ixdl4.
+<2:22:12 AM> ixmike88: .sg
+<2:22:12 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 3 to enter.
+<2:22:17 AM> moon: .out
+<2:22:17 AM> [ixdl5] moon has signed out
+<2:22:19 AM> jgsc: .o
+<2:22:19 AM> moon: .s 4
+<2:22:20 AM> ixmike88: ..fa 5
+<2:22:20 AM> jgsc: .s 3
+<2:22:20 AM> [ixdl3] jgsc has joined the game
+<2:22:21 AM> ixmike88: .fa 5
+<2:22:21 AM> ixmike88 has aborted ixdl5.
+<2:22:23 AM> moon: .s
+<2:22:23 AM> [ixdl3] moon has joined the game
+<2:22:23 AM> ixmike88: .fake cush sg
+<2:22:28 AM> ixmike88:  i see the bug
+<2:22:48 AM> jgsc: .cmds
+<2:22:49 AM> ixmike88: .fa
+<2:22:49 AM> ixmike88 has aborted ixdl3.
+<2:22:49 AM> ixmike88: .fa
+<2:22:51 AM> jgsc: .cmd
+<2:22:51 AM> ixmike88: .fa
+<2:22:52 AM> ixmike88: .fa
+<2:22:52 AM> jgsc: .commands
+<2:22:52 AM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<2:22:53 AM> ixmike88: .fa
+<2:23:01 AM> jgsc: .report
+<2:23:03 AM> ixmike88: .sg
+<2:23:03 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:23:05 AM> jgsc: .report moon
+<2:23:05 AM> ixmike88: .reload
+<2:23:06 AM> ixmike88: .lp
+<2:23:06 AM> [ixdl3] [Players: (1) ixmike88(1035)]
+<2:23:07 AM> ixmike88: .games
+<2:23:07 AM> Pending Games: ixdl3(1/10) 
+<2:23:08 AM> ixmike88: .s
+<2:23:08 AM> [ixdl3] ixmike88 has joined the game
+<2:23:09 AM> ixmike88: .lp
+<2:23:09 AM> [ixdl3] [Players: (2) ixmike88(1035), ixmike88(1035)]
+<2:23:10 AM> ixmike88: .reload
+<2:23:11 AM> ixmike88: .s
+<2:23:11 AM> [ixdl3] ixmike88 has joined the game
+<2:23:11 AM> ixmike88: .lp
+<2:23:11 AM> [ixdl3] [Players: (3) ixmike88(1035), ixmike88(1035), ixmike88(1035)]
+<2:23:17 AM> jgsc: .s
+<2:23:17 AM> [ixdl3] jgsc has joined the game
+<2:23:17 AM> jgsc: .s
+<2:23:19 AM> jgsc: .s
+<2:23:19 AM> moon: thats a bug huh
+<2:23:21 AM> ixmike88: ya
+<2:23:26 AM> ixmike88: if ur eload while theyre pending
+<2:23:39 AM> ixmike88: .fa
+<2:23:39 AM> ixmike88 has aborted ixdl3.
+<2:23:40 AM> ixmike88: .lp
+<2:23:46 AM> jgsc: .challenge moon
+<2:23:46 AM> jgsc has issued a challenge to moon! Type .sign to enter.
+<2:23:50 AM> ixmike88: .s
+<2:23:50 AM> [ixdl3] ixmike88 has joined the game
+<2:23:59 AM> F4L: well im going to bed
+<2:24:26 AM> ixmike88: ?
+<2:24:29 AM> ixmike88: no oen appreciated the staff chat
+<2:24:30 AM> ixmike88: what the hell
+<2:24:36 AM> F4L: i did
+<2:24:36 AM> ixmike88: ?
+<2:24:44 AM> F4L: ?
+<2:24:47 AM> F4L: i said somthing a while ago
+<2:24:51 AM> F4L: u must reconnected
+<2:24:53 AM> F4L: i said this is legit.
+<2:24:56 AM> ixmike88: o ya
+<2:24:59 AM> ixmike88: ?
+<2:25:01 AM> ixmike88: whos got suggestions
+<2:25:16 AM> duckhunt: #1 suggestion: use steam login
+<2:25:35 AM> ixmike88: hows that work exactly
+<2:25:39 AM> ixmike88: can u make a forum out of that?
+<2:25:41 AM> duckhunt: openID is easy as fuck
+<2:25:44 AM> duckhunt: and yes
+<2:26:06 AM> ixmike88: i got a lot of interconnected shit
+<2:26:08 AM> ixmike88: bweteen the server and ipb
+<2:26:10 AM> ixmike88: for access and stuff
+<2:26:15 AM> ixmike88: .vouch sefuids
+<2:26:15 AM> sefuids does not have a forum account.
+<2:26:16 AM> duckhunt: you can still use the server
+<2:26:18 AM> ixmike88: and shit liek thjat
+<2:26:23 AM> ixmike88: id have to remake shit
+<2:26:24 AM> ixmike88: i eman
+<2:26:24 AM> duckhunt: when they click create account
+<2:26:30 AM> duckhunt: it takes them to steam
+<2:26:33 AM> duckhunt: they login
+<2:26:38 AM> duckhunt: and it sends info back to you.
+<2:26:58 AM> ixmike88: .fa
+<2:26:58 AM> ixmike88 has aborted ixdl3.
+<2:26:59 AM> ixmike88: .sg
+<2:26:59 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:26:59 AM> duckhunt: and you use ur mysql the same way
+<2:27:01 AM> ixmike88: .fake cush sign
+<2:27:03 AM> ixmike88: .fake ush sign
+<2:27:03 AM> [ixdl3] ush has joined the game
+<2:27:05 AM> ixmike88: .fake shaang sign
+<2:27:05 AM> [ixdl3] Shaang has joined the game
+<2:27:07 AM> ixmike88: .fake febby sign
+<2:27:07 AM> [ixdl3] Febby has joined the game
+<2:27:09 AM> ixmike88: .fake moon sign
+<2:27:10 AM> duckhunt: its even better cause then you dont have to worry about forum bots
+<2:27:10 AM> ixmike88: .fake f4l sign
+<2:27:10 AM> [ixdl3] F4L has joined the game
+<2:27:11 AM> jgsc: .s
+<2:27:13 AM> ixmike88: .stats moon
+<2:27:13 AM> moon(Voucher) :: [Rating: 1035 | Rank: 1/13] :: [Record: 1-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:27:20 AM> jgsc: .s
+<2:27:22 AM> jgsc: .sign
+<2:27:24 AM> ixmike88: .fake jgsc sign
+<2:27:26 AM> jgsc: .o
+<2:27:26 AM> [ixdl3] jgsc has signed out
+<2:27:27 AM> ixmike88: .reload jgsc
+<2:27:27 AM> jgsc: .s
+<2:27:27 AM> [ixdl3] jgsc has joined the game
+<2:27:31 AM> ixmike88: .fake moon out
+<2:27:31 AM> [ixdl3] moon has signed out
+<2:27:33 AM> ixmike88: .fake moon s
+<2:27:33 AM> [ixdl3] moon has joined the game
+<2:27:33 AM> ixmike88: .lp
+<2:27:33 AM> [ixdl3] [Players: (7) ixmike88(1035), ush(965), Shaang(965), Febby(1000), F4L(1035), jgsc(965), moon(1035)]
+<2:27:40 AM> duckhunt: i have a php openid for steam done if u want it
+<2:27:48 AM> ixmike88: ill look into it later
+<2:28:04 AM> jgsc: .aoe
+<2:28:13 AM> ixmike88: .fake fuckhunt
+<2:28:15 AM> ixmike88: .fake duckhunt s
+<2:28:15 AM> [ixdl3] duckhunt has joined the game
+<2:28:17 AM> ixmike88: .fake shaang s
+<2:28:18 AM> jgsc: is there an annoying sound button
+<2:28:20 AM> ixmike88: not yet
+<2:28:25 AM> ixmike88: im guna have siresn and shit.
+<2:28:28 AM> jgsc: youre the best
+<2:28:36 AM> ixmike88: .fake live sign
+<2:28:36 AM> [ixdl3] Live has joined the game
+<2:28:38 AM> ixmike88: .fake felony sign
+<2:28:38 AM> [ixdl3] Felony has joined the game
+<2:28:38 AM> [ixdl3] Game is full. ixmike88 can type .confirm to start the game.
+<2:28:39 AM> ixmike88: .cf
+<2:28:39 AM> [ixdl3] [Radiant: ixmike88, ush, Shaang, Febby, F4L] [5000] | [Dire: jgsc, moon, duckhunt, Live, Felony] [5035]
+<2:28:39 AM> [ixdl3] [Radiant: ixmike88, ush, Shaang, Febby, F4L] [5000] | [Dire: jgsc, moon, duckhunt, Live, Felony] [5035]
+<2:28:46 AM> F4L: .r draw
+<2:28:58 AM> ixmike88: .swap f4l anacletus
+<2:28:58 AM> [ixdl3] F4L has been swapped out for Anacletus
+<2:29:02 AM> F4L: .modresult 3 radiant
+<2:29:02 AM> F4L has resulted ixdl3
+<2:29:02 AM> The Radiant have won the game!
+<2:29:02 AM> [ixdl3] Radiant: ixmike88[+34], ush[+35], Shaang[+35], Febby[+35], Anacletus[+35]
+<2:29:02 AM> [ixdl3] Dire: jgsc[-34], moon[-35], duckhunt[-35], Live[-34], Felony[-35]
+<2:29:08 AM> ixmike88: huh
+<2:29:09 AM> ixmike88: i was testing soemthign
+<2:29:14 AM> F4L: ?
+<2:29:18 AM> F4L: my ixdl3 chat is still there
+<2:29:20 AM> F4L: after its result
+<2:29:26 AM> ixmike88: thats cuz i swapped u out and u fucked i tup
+<2:29:30 AM> F4L: oh
+<2:29:33 AM> F4L: welp.
+<2:29:38 AM> ixmike88: swaps broken sitll
+<2:29:42 AM> ixmike88: its upposed to remov eu from the chat
+<2:29:45 AM> ixmike88: but its got major issues or something
+<2:30:05 AM> 99.7.74.79 connected
+<2:30:07 AM> ixmike88: .sg
+<2:30:07 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:30:12 AM> ixmike88: .fake duckhunt sign
+<2:30:12 AM> [ixdl4] duckhunt has joined the game
+<2:30:13 AM> ixmike88: .fake moon sign
+<2:30:13 AM> [ixdl4] moon has joined the game
+<2:30:15 AM> F4L: well im going to sleep
+<2:30:15 AM> jgsc: .s
+<2:30:15 AM> [ixdl4] jgsc has joined the game
+<2:30:16 AM> ixmike88: .fake jgsc sign
+<2:30:17 AM> ixmike88: .fake f4l sign
+<2:30:17 AM> [ixdl4] F4L has joined the game
+<2:30:19 AM> F4L: ttyl
+<2:30:19 AM> ixmike88: .fake shaang sing
+<2:30:22 AM> ixmike88: .fake shaang sign
+<2:30:22 AM> [ixdl4] Shaang has joined the game
+<2:30:25 AM> ixmike88: .fake f4l sign
+<2:30:29 AM> ixmike88: .fake anacletus sign
+<2:30:29 AM> [ixdl4] Anacletus has joined the game
+<2:30:30 AM> ixmike88: .fake live sign
+<2:30:30 AM> [ixdl4] Live has joined the game
+<2:30:31 AM> ixmike88: .fake febby sign
+<2:30:31 AM> [ixdl4] Febby has joined the game
+<2:30:33 AM> ixmike88: .fake moon sign
+<2:30:42 AM> ixmike88: .fake live sign
+<2:30:44 AM> ixmike88: .fake ush sign
+<2:30:44 AM> [ixdl4] ush has joined the game
+<2:30:44 AM> [ixdl4] Game is full. ixmike88 can type .confirm to start the game.
+<2:30:48 AM> ixmike88: .lp
+<2:30:48 AM> [ixdl4] [Players: (10) ixmike88(1069), duckhunt(1000), moon(1000), jgsc(931), F4L(1035), Shaang(1000), Anacletus(1000), Live(931), Febby(1035), ush(1000)]
+<2:30:49 AM> ixmike88: .top
+<2:30:49 AM> 1. ixmike88[1069] 2. F4L[1035] 3. Febby[1035] 4. ush[1000] 5. kzz[1000] 6. Anacletus[1000] 7. Felony[1000] 8. Shaang[1000] 9. duckhunt[1000] 10. moon[1000] 
+<2:30:54 AM> ixmike88: .bot
+<2:30:54 AM> 13. jgsc[931] 12. Live[931] 11. ush[1000] 10. kzz[1000] 9. Anacletus[1000] 8. Felony[1000] 7. Shaang[1000] 6. duckhunt[1000] 5. moon[1000] 4. Server[1000] 
+<2:30:55 AM> jgsc: are you fake signing them
+<2:30:56 AM> ixmike88: ya
+<2:30:59 AM> jgsc: ok making sure
+<2:31:00 AM> ixmike88: .cf
+<2:31:00 AM> [ixdl4] [Radiant: ixmike88, duckhunt, moon, jgsc, Shaang] [5000] | [Dire: F4L, Anacletus, Live, Febby, ush] [5001]
+<2:31:00 AM> [ixdl4] [Radiant: ixmike88, duckhunt, moon, jgsc, Shaang] [5000] | [Dire: F4L, Anacletus, Live, Febby, ush] [5001]
+<2:31:03 AM> ixmike88: fds
+<2:31:07 AM> jgsc: test
+<2:31:08 AM> jgsc: test
+<2:31:17 AM> ixmike88: .swap jgsc felony
+<2:31:17 AM> [ixdl4] jgsc has been swapped out for Felony
+<2:31:18 AM> febby: .r radiant
+<2:31:22 AM> ixmike88: did ur game chat close
+<2:31:24 AM> jgsc: yes
+<2:31:26 AM> 165.154.103.86 connected
+<2:31:38 AM> ixmike88: .swap felony jgsc
+<2:31:38 AM> [ixdl4] Felony has been swapped out for jgsc
+<2:31:41 AM> ixmike88: are u here
+<2:31:42 AM> jgsc: itsb ack
+<2:32:07 AM> ixmike88: .swap febby felony
+<2:32:07 AM> [ixdl4] Febby has been swapped out for Felony
+<2:32:35 AM> ixmike88: .swap felony febby
+<2:32:35 AM> [ixdl4] Felony has been swapped out for Febby
+<2:32:40 AM> 99.7.74.79 connected
+<2:32:42 AM> ixmike88: .swap ixmike88 felony
+<2:32:42 AM> [ixdl4] ixmike88 has been swapped out for Felony
+<2:32:45 AM> 99.7.74.79 connected
+<2:32:53 AM> ixmike88: .swap felony ixmike88
+<2:32:53 AM> [ixdl4] Felony has been swapped out for ixmike88
+<2:33:16 AM> jgsc: you can also try adding that swap message in the game chat
+<2:33:21 AM> jgsc: but thats minor
+<2:33:22 AM> jgsc: shit
+<2:33:35 AM> ixmike88: noted
+<2:33:43 AM> ixmike88: .traunt felony
+<2:33:47 AM> ixmike88: .truant moon
+<2:33:47 AM> [ixdl4] ixmike88 has truanted moon.
+<2:33:51 AM> jgsc: .truant
+<2:33:51 AM> .truant <name>
+<2:33:52 AM> ixmike88: .fake febby truant moon
+<2:33:52 AM> [ixdl4] Febby has truanted moon.
+<2:33:54 AM> jgsc: .truant felony
+<2:33:57 AM> ixmike88: .fake shaang truant moon
+<2:33:57 AM> [ixdl4] Shaang has truanted moon.
+<2:33:58 AM> ixmike88: .fake a turant moon
+<2:34:00 AM> ixmike88: .fake a truant moon
+<2:34:03 AM> ixmike88: .fake duckhunt truant moon
+<2:34:03 AM> [ixdl4] duckhunt has truanted moon.
+<2:34:05 AM> jgsc: .truant moon
+<2:34:05 AM> [ixdl4] jgsc has truanted moon.
+<2:34:06 AM> ixmike88: .fake f4l truant moon
+<2:34:06 AM> moon has been declared truant.
+<2:34:06 AM> Server has removed 70 rating from moon.
+<2:34:06 AM> [ixdl4] Game has been drawn.
+<2:35:33 AM> ixmike88: .vouch whd.mark
+<2:35:33 AM> ixmike88 has vouched whd.Mark.
+<2:35:35 AM> ixmike88: .promote whd.mark
+<2:35:35 AM> Not enough access
+<2:36:17 AM> ixmike88: ?
+<2:36:18 AM> ixmike88: alright
+<2:36:31 AM> ixmike88: i appreciate all of yalls assistance
+<2:36:36 AM> ixmike88: it has been mentally noted
+<2:37:43 AM> ixmike88: ?
+<2:37:48 AM> 76.176.16.138 connected
+<2:38:08 AM> moon: huh
+<2:38:10 AM> moon: i got truanted
+<2:38:23 AM> moon: .stats
+<2:38:23 AM> moon(Voucher) :: [Rating: 930 | Rank: 6/14] :: [Record: 1-1 (50%) | Streak: -1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:40:04 AM> ixmike88: .sg
+<2:40:04 AM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:40:06 AM> ixmike88: .fake moon s
+<2:40:06 AM> [ixdl5] moon has joined the game
+<2:40:07 AM> ixmike88: .fake duckhunt s
+<2:40:07 AM> [ixdl5] duckhunt has joined the game
+<2:40:08 AM> ixmike88: .fake f4l s
+<2:40:08 AM> [ixdl5] F4L has joined the game
+<2:40:09 AM> ixmike88: .fake febby s
+<2:40:09 AM> [ixdl5] Febby has joined the game
+<2:40:11 AM> ixmike88: .fake shaang s
+<2:40:11 AM> [ixdl5] Shaang has joined the game
+<2:40:13 AM> jgsc: .s
+<2:40:13 AM> [ixdl5] jgsc has joined the game
+<2:40:28 AM> ixmike88: .fake live s
+<2:40:28 AM> [ixdl5] Live has joined the game
+<2:40:29 AM> ixmike88: .fake felony 
+<2:40:32 AM> ixmike88: .fake felony s
+<2:40:32 AM> [ixdl5] Felony has joined the game
+<2:40:34 AM> ixmike88: .fake anacletus s
+<2:40:34 AM> [ixdl5] Anacletus has joined the game
+<2:40:34 AM> [ixdl5] Game is full. ixmike88 can type .confirm to start the game.
+<2:40:36 AM> ixmike88: .cf
+<2:40:36 AM> [ixdl5] [Radiant: ixmike88, moon, duckhunt, F4L, jgsc] [4965] | [Dire: Febby, Shaang, Live, Felony, Anacletus] [4966]
+<2:40:36 AM> [ixdl5] [Radiant: ixmike88, moon, duckhunt, F4L, jgsc] [4965] | [Dire: Febby, Shaang, Live, Felony, Anacletus] [4966]
+<2:40:53 AM> ixmike88: fdsdsf
+<2:40:53 AM> ixmike88: ds
+<2:40:54 AM> ixmike88: f
+<2:40:54 AM> ixmike88: fds
+<2:40:54 AM> ixmike88: sdf
+<2:40:54 AM> ixmike88: sdf
+<2:40:54 AM> ixmike88: d
+<2:40:54 AM> ixmike88: s
+<2:40:55 AM> ixmike88: dd
+<2:40:55 AM> ixmike88: d
+<2:40:55 AM> ixmike88: d
+<2:40:55 AM> ixmike88: d
+<2:40:55 AM> jgsc: are elo points just added
+<2:40:55 AM> ixmike88: d
+<2:40:55 AM> ixmike88: d
+<2:40:56 AM> ixmike88: d
+<2:40:56 AM> ixmike88: d
+<2:40:56 AM> ixmike88: d
+<2:40:56 AM> ixmike88: d
+<2:40:56 AM> ixmike88: d
+<2:40:57 AM> ixmike88: d
+<2:40:58 AM> ixmike88: ?
+<2:41:00 AM> ixmike88: huh
+<2:41:00 AM> jgsc: or suppsoe to be average
+<2:41:06 AM> ixmike88: where
+<2:41:08 AM> ixmike88: the teams sort
+<2:41:12 AM> jgsc: ixmike88, moon, duckhunt, F4L, jgsc] [4965] | [Dire: Febby, Shaang, Live, Felony, Anacletus] [4966]
+<2:41:17 AM> ixmike88: thats their total
+<2:41:21 AM> jgsc: ok
+<2:43:17 AM> febby: .r dire
+<2:44:06 AM> 99.7.74.79 connected
+<2:44:07 AM> ixmike88: sdf
+<2:44:07 AM> ixmike88: sfd
+<2:44:07 AM> ixmike88: fds
+<2:44:07 AM> ixmike88: sdf
+<2:44:08 AM> ixmike88: fsd
+<2:44:08 AM> ixmike88: fsd
+<2:44:08 AM> ixmike88: dfs
+<2:44:08 AM> ixmike88: fds
+<2:44:08 AM> ixmike88: fds
+<2:44:08 AM> ixmike88: d
+<2:44:09 AM> ixmike88: fs
+<2:44:09 AM> ixmike88: sdf
+<2:44:09 AM> ixmike88: fds
+<2:44:09 AM> ixmike88: fsd
+<2:44:09 AM> ixmike88: fds
+<2:44:09 AM> ixmike88: f
+<2:44:09 AM> ixmike88: ds
+<2:44:09 AM> ixmike88: sfd
+<2:44:17 AM> ixmike88: fdsfsdsdf
+<2:44:17 AM> ixmike88: f
+<2:44:17 AM> ixmike88: ds
+<2:44:17 AM> ixmike88: sdf
+<2:44:17 AM> ixmike88: sfd
+<2:44:18 AM> ixmike88: fsd
+<2:44:18 AM> ixmike88: fsd
+<2:44:18 AM> ixmike88: fd
+<2:44:18 AM> ixmike88: s
+<2:44:18 AM> ixmike88: fsd
+<2:44:18 AM> ixmike88: fds
+<2:44:19 AM> ixmike88: sfd
+<2:44:19 AM> ixmike88: sfd
+<2:44:19 AM> ixmike88: sfd
+<2:44:19 AM> ixmike88: sdf
+<2:44:21 AM> ixmike88: sdf
+<2:44:21 AM> ixmike88: ds
+<2:44:21 AM> ixmike88: d
+<2:44:21 AM> ixmike88: dfs
+<2:44:22 AM> ixmike88: fds
+<2:44:22 AM> ixmike88: fds
+<2:44:23 AM> ixmike88: fdsfdsfsdfsd
+<2:44:23 AM> ixmike88: fsd
+<2:44:23 AM> ixmike88: fsd
+<2:44:23 AM> ixmike88: sfd
+<2:44:23 AM> ixmike88: fd
+<2:44:23 AM> ixmike88: fsd
+<2:44:24 AM> ixmike88: fds
+<2:44:24 AM> ixmike88: fds
+<2:44:24 AM> ixmike88: d
+<2:44:24 AM> ixmike88: sdf
+<2:44:24 AM> ixmike88: sdf
+<2:44:25 AM> ixmike88: sd
+<2:44:25 AM> ixmike88: ds
+<2:44:26 AM> ixmike88: sdf
+<2:45:22 AM> 99.7.74.79 connected
+<2:45:24 AM> ixmike88: sd
+<2:45:25 AM> ixmike88: fsd
+<2:45:29 AM> ixmike88: dfsfdsfsd
+<2:45:29 AM> ixmike88: dfs
+<2:45:29 AM> ixmike88: fds
+<2:45:29 AM> ixmike88: fds
+<2:45:30 AM> ixmike88: fsd
+<2:45:30 AM> ixmike88: fds
+<2:45:30 AM> ixmike88: fds
+<2:45:30 AM> ixmike88: fds
+<2:45:30 AM> ixmike88: fds
+<2:45:36 AM> moon: .r radiant
+<2:45:37 AM> ixmike88: dsf
+<2:45:37 AM> ixmike88: fds
+<2:45:37 AM> ixmike88: fds
+<2:45:37 AM> ixmike88: fds
+<2:45:38 AM> ixmike88: fds
+<2:45:38 AM> ixmike88: sfd
+<2:45:38 AM> ixmike88: fsd
+<2:45:38 AM> ixmike88: fsd
+<2:45:38 AM> ixmike88: fds
+<2:45:39 AM> ixmike88: fsd
+<2:45:39 AM> ixmike88: sdf
+<2:45:43 AM> ixmike88: fsd
+<2:45:43 AM> ixmike88: sdf
+<2:45:43 AM> ixmike88: fsd
+<2:45:44 AM> ixmike88: fsd
+<2:45:44 AM> ixmike88: sfd
+<2:45:44 AM> ixmike88: fds
+<2:45:44 AM> ixmike88: fds
+<2:45:44 AM> ixmike88: fds
+<2:45:45 AM> ixmike88: fdsfsd
+<2:45:45 AM> ixmike88: dfs
+<2:45:45 AM> ixmike88: dfs
+<2:45:49 AM> ixmike88: fds
+<2:45:49 AM> ixmike88: fsd
+<2:45:49 AM> ixmike88: fds
+<2:45:49 AM> ixmike88: fsd
+<2:45:49 AM> ixmike88: fsd
+<2:45:51 AM> ixmike88: sdffds
+<2:45:51 AM> ixmike88: fds
+<2:45:52 AM> ixmike88: sfd
+<2:45:52 AM> ixmike88: fsd
+<2:45:52 AM> ixmike88: fds
+<2:45:52 AM> ixmike88: fds
+<2:45:52 AM> ixmike88: fds
+<2:45:53 AM> ixmike88: dfs
+<2:45:53 AM> ixmike88: dsf
+<2:45:53 AM> ixmike88: sfd
+<2:45:53 AM> ixmike88: fds
+<2:45:53 AM> ixmike88: fds
+<2:45:54 AM> ixmike88: f
+<2:45:54 AM> ixmike88: ds
+<2:45:54 AM> ixmike88: sdf
+<2:45:54 AM> ixmike88: fs
+<2:45:54 AM> ixmike88: sdf
+<2:45:54 AM> ixmike88: dsf
+<2:45:55 AM> ixmike88: fsd
+<2:45:55 AM> ixmike88: fsd
+<2:45:55 AM> ixmike88: fs
+<2:45:55 AM> ixmike88: d
+<2:45:55 AM> ixmike88: sfd
+<2:45:55 AM> ixmike88: fds
+<2:45:56 AM> ixmike88: sdf
+<2:45:56 AM> ixmike88: sfd
+<2:45:56 AM> ixmike88: fsd
+<2:45:56 AM> ixmike88: fds
+<2:45:56 AM> ixmike88: fsd
+<2:45:56 AM> ixmike88: fds
+<2:52:12 AM> 99.7.74.79 connected
+<2:52:14 AM> ixmike88: sdf
+<2:52:14 AM> ixmike88: fsd
+<2:52:14 AM> ixmike88: fsd
+<2:52:14 AM> ixmike88: fds
+<2:52:14 AM> ixmike88: sfd
+<2:52:15 AM> ixmike88: f
+<2:52:15 AM> ixmike88: ds
+<2:52:15 AM> ixmike88: fsd
+<2:52:15 AM> ixmike88: fds
+<2:52:15 AM> ixmike88: fsd
+<2:52:15 AM> ixmike88: fds
+<2:52:16 AM> ixmike88: fds
+<2:52:16 AM> ixmike88: fds
+<2:52:16 AM> ixmike88: fsd
+<2:52:16 AM> ixmike88: fds
+<2:52:16 AM> ixmike88: fds
+<2:52:16 AM> ixmike88: fds
+<2:52:17 AM> ixmike88: fds
+<2:52:17 AM> ixmike88: fds
+<2:52:17 AM> ixmike88: fsd
+<2:52:20 AM> ixmike88: df
+<2:52:20 AM> ixmike88: fds
+<2:52:21 AM> ixmike88: fsd
+<2:52:21 AM> ixmike88: fds
+<2:52:21 AM> ixmike88: sdf
+<2:52:21 AM> ixmike88: fsd
+<2:52:21 AM> ixmike88: dfs
+<2:52:21 AM> ixmike88: dfs
+<2:52:22 AM> ixmike88: s
+<2:52:22 AM> ixmike88: fd
+<2:52:22 AM> ixmike88: sfd
+<2:52:22 AM> ixmike88: sdf
+<2:52:22 AM> ixmike88: fsd
+<2:52:22 AM> ixmike88: sfd
+<2:52:23 AM> ixmike88: fsd
+<2:52:23 AM> ixmike88: fsd
+<2:52:23 AM> ixmike88: fsd
+<2:52:23 AM> ixmike88: sfd
+<2:52:27 AM> jgsc: fg
+<2:52:27 AM> jgsc: fg
+<2:52:27 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: gf
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:28 AM> jgsc: fg
+<2:52:29 AM> jgsc: fg
+<2:52:29 AM> jgsc: fggf
+<2:52:29 AM> jgsc: fg
+<2:52:30 AM> jgsc: fg
+<2:52:30 AM> jgsc: fg
+<2:52:30 AM> jgsc: fg
+<2:52:30 AM> jgsc: fg
+<2:52:31 AM> jgsc: d
+<2:52:31 AM> jgsc: d
+<2:52:31 AM> jgsc: d
+<2:52:31 AM> jgsc: d
+<2:52:36 AM> jgsc: wtf
+<2:52:37 AM> jgsc: fd
+<2:52:37 AM> jgsc: df
+<2:52:37 AM> jgsc: df
+<2:52:37 AM> jgsc: df
+<2:52:37 AM> jgsc: d
+<2:52:38 AM> jgsc: f
+<2:52:38 AM> jgsc: df
+<2:52:38 AM> jgsc: df
+<2:52:38 AM> jgsc: df
+<2:52:38 AM> jgsc: df
+<2:52:38 AM> jgsc: df
+<2:52:39 AM> jgsc: df
+<2:52:39 AM> jgsc: df
+<2:52:39 AM> jgsc: d
+<2:52:39 AM> jgsc: f
+<2:52:39 AM> jgsc: df
+<2:52:39 AM> jgsc: f
+<2:52:39 AM> jgsc: f
+<2:52:40 AM> jgsc: d
+<2:52:40 AM> jgsc: f
+<2:52:40 AM> jgsc: df
+<2:52:40 AM> jgsc: df
+<2:52:40 AM> jgsc: df
+<2:52:40 AM> jgsc: d
+<2:52:41 AM> jgsc: fdf
+<2:52:42 AM> jgsc: dfd
+<2:52:42 AM> jgsc: f
+<2:52:42 AM> jgsc: df
+<2:52:43 AM> jgsc: df
+<2:52:43 AM> jgsc: d
+<2:52:43 AM> jgsc: fd
+<2:52:43 AM> jgsc: f
+<2:52:44 AM> jgsc: d
+<2:52:45 AM> jgsc: d
+<2:52:56 AM> 99.7.74.79 connected
+<2:52:57 AM> ixmike88: sdf
+<2:52:57 AM> ixmike88: fsd
+<2:52:58 AM> ixmike88: fds
+<2:52:58 AM> ixmike88: sdf
+<2:52:58 AM> ixmike88: dfs
+<2:52:58 AM> ixmike88: fds
+<2:52:58 AM> ixmike88: d
+<2:52:58 AM> ixmike88: fs
+<2:52:58 AM> ixmike88: dsf
+<2:52:58 AM> ixmike88: dfs
+<2:52:59 AM> ixmike88: f
+<2:52:59 AM> ixmike88: ds
+<2:52:59 AM> ixmike88: fsd
+<2:52:59 AM> ixmike88: fds
+<2:52:59 AM> ixmike88: fsd
+<2:52:59 AM> ixmike88: dfs
+<2:52:59 AM> ixmike88: f
+<2:53:00 AM> ixmike88: ds
+<2:53:00 AM> ixmike88: fsd
+<2:53:02 AM> 99.7.74.79 connected
+<2:53:04 AM> ixmike88: sdfdsf
+<2:53:04 AM> ixmike88: fds
+<2:53:04 AM> ixmike88: sdf
+<2:53:04 AM> ixmike88: df
+<2:53:04 AM> ixmike88: sdf
+<2:53:04 AM> ixmike88: fsd
+<2:53:05 AM> ixmike88: dfs
+<2:53:05 AM> ixmike88: sdf
+<2:53:05 AM> ixmike88: sdf
+<2:53:05 AM> ixmike88: sdf
+<2:53:05 AM> ixmike88: s
+<2:53:05 AM> ixmike88: df
+<2:53:05 AM> ixmike88: dsf
+<2:53:06 AM> ixmike88: fsd
+<2:53:06 AM> ixmike88: s
+<2:53:06 AM> ixmike88: fd
+<2:53:06 AM> ixmike88: sfd
+<2:53:06 AM> ixmike88: sfd
+<2:53:06 AM> ixmike88: fsd
+<2:53:06 AM> ixmike88: sfd
+<2:53:07 AM> ixmike88: dfs
+<2:53:08 AM> jgsc: cant see shit unelss if i keep typing
+<2:53:11 AM> jgsc: d
+<2:53:11 AM> jgsc: d
+<2:53:12 AM> jgsc: d
+<2:53:12 AM> jgsc: d
+<2:53:12 AM> jgsc: d
+<2:53:12 AM> jgsc: d
+<2:53:13 AM> jgsc: d
+<2:53:13 AM> jgsc: d
+<2:53:13 AM> jgsc: d
+<2:53:13 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:14 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:15 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:16 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:17 AM> jgsc: d
+<2:53:18 AM> jgsc: d
+<2:53:18 AM> jgsc: d
+<2:53:18 AM> jgsc: d
+<2:53:18 AM> jgsc: d
+<2:53:18 AM> jgsc: d
+<2:53:19 AM> jgsc: d
+<2:53:19 AM> jgsc: d
+<2:53:19 AM> jgsc: d
+<2:53:19 AM> jgsc: d
+<2:53:19 AM> jgsc: d
+<2:53:20 AM> jgsc: d
+<2:53:20 AM> jgsc: d
+<2:53:29 AM> 99.7.74.79 connected
+<2:55:23 AM> 99.7.74.79 connected
+<2:55:24 AM> ixmike88: sdf
+<2:55:24 AM> ixmike88: dsf
+<2:55:24 AM> ixmike88: fds
+<2:55:29 AM> ixmike88: dsffds
+<2:55:29 AM> ixmike88: fds
+<2:55:30 AM> ixmike88: sdf
+<2:55:30 AM> ixmike88: fds
+<2:55:30 AM> ixmike88: sfd
+<2:55:30 AM> ixmike88: sd
+<2:55:30 AM> ixmike88: f
+<2:55:30 AM> ixmike88: sfd
+<2:55:30 AM> ixmike88: sdf
+<2:55:51 AM> 99.7.74.79 connected
+<2:55:52 AM> ixmike88: sdfdfs
+<2:55:52 AM> ixmike88: d
+<2:55:52 AM> ixmike88: fs
+<2:55:53 AM> ixmike88: dfs
+<2:55:53 AM> ixmike88: dfs
+<2:55:53 AM> ixmike88: dsf
+<2:55:53 AM> ixmike88: f
+<2:55:53 AM> ixmike88: ds
+<2:55:53 AM> ixmike88: dsf
+<2:55:53 AM> ixmike88: fds
+<2:55:54 AM> ixmike88: fds
+<2:55:54 AM> ixmike88: dfs
+<2:55:54 AM> ixmike88: fds
+<2:55:54 AM> ixmike88: sdf
+<2:55:54 AM> ixmike88: fds
+<2:56:00 AM> ixmike88: sdf
+<2:56:00 AM> ixmike88: fds
+<2:56:00 AM> ixmike88: fds
+<2:56:00 AM> ixmike88: sdf
+<2:56:00 AM> ixmike88: fd
+<2:56:01 AM> ixmike88: fds
+<2:56:01 AM> ixmike88: dfs
+<2:56:01 AM> ixmike88: fds
+<2:56:42 AM> febby: .stats
+<2:56:42 AM> Febby(Member) :: [Rating: 1035 | Rank: 2/14] :: [Record: 1-0 (100%) | Streak: 1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:56:45 AM> febby: .lp
+<2:56:45 AM> [ixdl5] Radiant: ixmike88, moon, duckhunt, F4L, jgsc [4965] | Dire: Febby, Shaang, Live, Felony, Anacletus [4966]
+<2:56:46 AM> febby: .sg
+<2:56:46 AM> Febby is already in the game ixdl5
+<2:57:01 AM> 99.7.74.79 connected
+<2:58:27 AM> 99.7.74.79 connected
+<2:58:30 AM> ixmike88: dsfds
+<2:58:31 AM> ixmike88: fds
+<2:58:31 AM> ixmike88: fsd
+<2:58:31 AM> ixmike88: fds
+<2:58:31 AM> ixmike88: dfs
+<2:58:31 AM> ixmike88: fds
+<2:58:31 AM> ixmike88: fsd
+<2:58:32 AM> ixmike88: sdf
+<2:58:32 AM> ixmike88: sfd
+<2:58:32 AM> ixmike88: fsd
+<2:58:32 AM> ixmike88: fsd
+<2:58:32 AM> ixmike88: fsd
+<2:58:38 AM> ixmike88: sdf
+<2:58:38 AM> ixmike88: fds
+<2:58:38 AM> ixmike88: fds
+<2:58:39 AM> ixmike88: fs
+<2:58:39 AM> ixmike88: d
+<2:58:39 AM> ixmike88: fds
+<2:58:39 AM> ixmike88: dfs
+<2:58:39 AM> ixmike88: s
+<2:58:40 AM> ixmike88: dfs
+<2:58:40 AM> ixmike88: fsd
+<2:58:40 AM> ixmike88: dsf
+<2:58:40 AM> ixmike88: fds
+<2:58:40 AM> ixmike88: fds
+<2:58:41 AM> ixmike88: dfs
+<2:58:41 AM> ixmike88: fsd
+<2:59:26 AM> 99.7.74.79 connected
+<2:59:31 AM> ixmike88: sdf
+<2:59:31 AM> ixmike88: dsf
+<2:59:31 AM> ixmike88: fds
+<2:59:32 AM> ixmike88: fds
+<2:59:32 AM> ixmike88: dfs
+<2:59:32 AM> ixmike88: dfs
+<2:59:32 AM> ixmike88: dfs
+<2:59:32 AM> ixmike88: dfs
+<2:59:32 AM> ixmike88: f
+<2:59:33 AM> ixmike88: d
+<2:59:33 AM> ixmike88: ds
+<2:59:33 AM> ixmike88: fds
+<2:59:33 AM> ixmike88: fds
+<2:59:33 AM> ixmike88: d
+<2:59:36 AM> ixmike88: sf
+<2:59:59 AM> 99.7.74.79 connected
+<3:00:12 AM> 99.7.74.79 connected
+<3:01:38 AM> 99.7.74.79 connected
+<3:01:41 AM> ixmike88: f
+<3:01:41 AM> ixmike88: dsf
+<3:01:41 AM> ixmike88: dfs
+<3:01:41 AM> ixmike88: fds
+<3:01:41 AM> ixmike88: dfs
+<3:01:41 AM> ixmike88: fds
+<3:01:42 AM> ixmike88: d
+<3:01:42 AM> ixmike88: fs
+<3:01:42 AM> ixmike88: sdf
+<3:01:42 AM> ixmike88: ds
+<3:01:42 AM> ixmike88: fds
+<3:01:42 AM> ixmike88: ds
+<3:01:42 AM> ixmike88: sd
+<3:01:43 AM> ixmike88: ds
+<3:01:43 AM> ixmike88: fds
+<3:01:43 AM> ixmike88: f
+<3:01:43 AM> ixmike88: ds
+<3:01:57 AM> 99.7.74.79 connected
+<3:01:58 AM> ixmike88: fsd
+<3:01:58 AM> ixmike88: fds
+<3:01:58 AM> ixmike88: fsd
+<3:01:58 AM> ixmike88: dsf
+<3:01:58 AM> ixmike88: fds
+<3:01:58 AM> ixmike88: sfd
+<3:01:59 AM> ixmike88: dfsdsfdsf
+<3:01:59 AM> ixmike88: dsf
+<3:01:59 AM> ixmike88: fds
+<3:01:59 AM> ixmike88: fds
+<3:01:59 AM> ixmike88: sd
+<3:02:00 AM> ixmike88: f
+<3:02:00 AM> ixmike88: fds
+<3:02:00 AM> ixmike88: dfs
+<3:02:00 AM> ixmike88: fds
+<3:02:00 AM> ixmike88: fsd
+<3:02:00 AM> ixmike88: fds
+<3:02:01 AM> ixmike88: fsd
+<3:02:34 AM> 99.7.74.79 connected
+<2:52:20 PM> 99.7.74.79 connected
+<2:52:20 PM> System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at gameServer.League.SetUserInGame(String name, User u) in e:\chat client\trunk\Server\gameServer\League.cs:line 161
+<4:58:13 PM> 129.116.33.222 connected
+<4:58:22 PM> 129.116.33.222 connected
+<4:58:34 PM> moon: .r radiant
+<4:58:43 PM> moon: .commands
+<4:58:43 PM> Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, help - More information can be found at www.ixdl.com
+<4:58:52 PM> moon: .modresult 5 radiant
+<4:58:58 PM> moon: wel
+<5:28:26 PM> 129.116.33.222 connected
+<5:28:37 PM> 129.116.33.222 connected
+<5:28:44 PM> moon: .r radiant
+<5:29:09 PM> 129.116.33.222 connected
+<5:29:10 PM> moon: .r radiant
+<5:29:12 PM> 129.116.33.222 connected
+<5:29:13 PM> moon: .r radiant
+<5:29:14 PM> 129.116.33.222 connected
+<5:29:15 PM> moon: .r radiant
+<6:24:43 PM> ixmike88: .games
+<6:24:43 PM> Active Games: ixdl5[944]
+<6:24:47 PM> ixmike88: .info 5
+<6:24:47 PM> [ixdl5] Game Type: Start Game | Players: [Radiant (4965): ixmike88, moon, duckhunt, F4L, jgsc] | [Dire: (4966): Febby, Shaang, Live, Felony, Anacletus] | In Progress: (944 minutes)
+<6:24:49 PM> 99.7.74.79 connected
+<6:48:54 PM> 99.7.74.79 connected
+<6:48:57 PM> 99.7.74.79 connected
+<6:48:58 PM> test: sdf
+<6:49:18 PM> test: sdf
+<6:49:19 PM> test: test
+<6:49:53 PM> Loading user database...
+<6:49:53 PM> Listening for clients..
+<6:49:53 PM> Player list added
+<6:49:53 PM> League connected
+<6:49:56 PM> 99.7.74.79 connected
+<6:50:04 PM> test: dsf
+<6:50:33 PM> test: sdf
+<6:51:03 PM> test: fds
+<6:51:29 PM> test: dfs
+<6:52:15 PM> test: sdf
+<6:52:20 PM> You are not vouched
+<6:52:27 PM> test: fgd
+<6:52:30 PM> You are not vouched
+<6:52:34 PM> test: dsf
+<6:52:34 PM> You are not vouched
+<6:52:34 PM> test: sdf
+<6:52:34 PM> You are not vouched
+<6:52:36 PM> test: /test s
+<6:52:37 PM> test: /kick dfs
+<6:52:42 PM> test: /kick test
+<6:52:54 PM> 99.7.74.79 connected
+<6:52:58 PM> ixmike88: .demote test
+<6:52:59 PM> ixmike88: .demote test
+<7:03:32 PM> 99.7.74.79 connected
+<7:03:36 PM> 99.7.74.79 connected
+<7:03:38 PM> 99.7.74.79 connected
+<7:03:41 PM> 99.7.74.79 connected
+<7:03:42 PM> 99.7.74.79 connected
+<7:03:42 PM> 99.7.74.79 connected
+<7:03:49 PM> 99.7.74.79 connected
+<7:03:51 PM> 99.7.74.79 connected
+<7:04:09 PM> 99.7.74.79 connected
+<7:04:39 PM> 99.7.74.79 connected
+<7:05:13 PM> 99.7.74.79 connected
+<7:08:45 PM> ixmike88: sfd
+<7:08:47 PM> 99.7.74.79 connected
+<7:09:01 PM> 99.7.74.79 connected
+<7:09:25 PM> 99.7.74.79 connected
+<7:23:31 PM> Loading user database...
+<7:23:31 PM> Listening for clients..
+<7:23:31 PM> Player list added
+<7:23:31 PM> League connected
+<7:23:32 PM> 99.7.74.79 connected
+<7:23:39 PM> 99.7.74.79 connected
+<7:23:42 PM> 99.7.74.79 connected
+<7:26:55 PM> 99.7.74.79 connected
+<7:29:45 PM> 99.7.74.79 connected
+<7:29:49 PM> 99.7.74.79 connected
+<7:29:57 PM> 99.7.74.79 connected
+<7:29:57 PM> 99.7.74.79 connected
+<7:30:26 PM> 99.7.74.79 connected
+<7:30:34 PM> 99.7.74.79 connected
+<7:30:36 PM> 99.7.74.79 connected
+<7:30:48 PM> 99.7.74.79 connected
+<7:30:49 PM> 99.7.74.79 connected
+<7:43:55 PM> ixmike88: .swap felony ush
+<7:43:55 PM> [ixdl5] Felony has been swapped out for ush
+<7:43:57 PM> 99.7.74.79 connected
+<7:46:53 PM> Loading user database...
+<7:46:53 PM> Listening for clients..
+<7:46:53 PM> Player list added
+<7:46:53 PM> League connected
+<7:47:01 PM> 99.7.74.79 connected
+<7:47:06 PM> ixmike88: .swap ush felony
+<7:47:18 PM> ixmike88: .swap ush felony
+<7:49:50 PM> Loading user database...
+<7:49:50 PM> Listening for clients..
+<7:49:50 PM> Player list added
+<7:49:50 PM> League connected
+<7:49:51 PM> 99.7.74.79 connected
+<7:49:55 PM> ixmike88: .swap ush felony
+<7:49:57 PM> ixmike88: dsf
+<7:50:03 PM> ixmike88: .swap ush felony
+<7:50:21 PM> ixmike88: .swap ush felony
+<8:00:16 PM> Loading user database...
+<8:00:16 PM> Listening for clients..
+<8:00:16 PM> Player list added
+<8:00:16 PM> League connected
+<8:00:19 PM> Listening for clients..
+<8:00:19 PM> Loading user database...
+<8:00:19 PM> Player list added
+<8:00:19 PM> League connected
+<8:00:42 PM> 99.7.74.79 connected
+<8:03:05 PM> ixmike88: .reload ush
+<8:03:22 PM> Loading user database...
+<8:03:22 PM> Listening for clients..
+<8:03:22 PM> Player list added
+<8:03:22 PM> League connected
+<8:03:24 PM> 99.7.74.79 connected
+<8:03:28 PM> ixmike88: .swap ush felony
+<8:03:44 PM> Loading user database...
+<8:03:44 PM> Listening for clients..
+<8:03:44 PM> Player list added
+<8:03:44 PM> League connected
+<8:04:09 PM> 99.7.74.79 connected
+<8:04:13 PM> ixmike88: .swap ush felony
+<8:06:01 PM> 99.7.74.79 connected
+<8:06:07 PM> ixmike88: .swap ush felony
+<8:06:35 PM> ixmike88: .swap ush felony
+<8:10:01 PM> 99.7.74.79 connected
+<8:10:48 PM> 99.7.74.79 connected
+<8:10:52 PM> ixmike88: .reload felony
+<8:10:57 PM> 99.7.74.79 connected
+<8:11:11 PM> ixmike88: .swap ush felony
+<8:11:54 PM> [ixdl5] ush has been swapped out for Felony
+<8:12:50 PM> Loading user database...
+<8:12:50 PM> Listening for clients..
+<8:12:50 PM> Player list added
+<8:12:50 PM> League connected
+<8:13:06 PM> 99.7.74.79 connected
+<8:13:08 PM> ixmike88: .swap felony ush
+<8:13:08 PM> [ixdl5] Felony has been swapped out for ush
+<8:13:33 PM> 99.7.74.79 connected
+<8:13:50 PM> ixmike88: .swap felony ush
+<8:13:52 PM> ixmike88: .swap ush felony
+<8:13:52 PM> [ixdl5] ush has been swapped out for Felony
+<8:14:00 PM> ixmike88: .swap felony ush
+<8:14:00 PM> [ixdl5] Felony has been swapped out for ush
+<8:14:11 PM> ixmike88: .swap f4l felony
+<8:14:11 PM> [ixdl5] F4L has been swapped out for Felony
+<8:14:18 PM> ixmike88: .swap jgsc moon
+<8:14:21 PM> ixmike88: .swap f4l moon
+<8:14:28 PM> ixmike88: .swap moon f4l
+<8:14:28 PM> [ixdl5] moon has been swapped out for F4L
+<8:18:16 PM> ixmike88: .swap f4l moon
+<8:18:16 PM> [ixdl5] F4L has been swapped out for moon
+<8:18:23 PM> ixmike88: .swap f4l live
+<8:18:32 PM> ixmike88: .swap f4l live
+<8:43:35 PM> Loading user database...
+<8:43:35 PM> Listening for clients..
+<8:43:35 PM> Player list added
+<8:43:35 PM> League connected
+<8:43:37 PM> 99.7.74.79 connected
+<8:43:42 PM> ixmike88: .swap live f4l
+<8:43:42 PM> [ixdl5] Live has been swapped out for F4L
+<8:43:55 PM> 99.7.74.79 connected
+<8:44:03 PM> ixmike88: .swap f4l live
+<8:44:03 PM> [ixdl5] F4L has been swapped out for Live
+<8:44:38 PM> 99.7.74.79 connected
+<8:44:44 PM> ixmike88: .swap live f4l
+<8:44:44 PM> [ixdl5] Live has been swapped out for F4L
+<8:45:59 PM> 99.7.74.79 connected
+<8:46:09 PM> ixmike88: .swap f4l live
+<8:46:09 PM> [ixdl5] F4L has been swapped out for Live
+<8:46:11 PM> ixmike88: .swap live f4l
+<8:46:11 PM> [ixdl5] Live has been swapped out for F4L
+<8:46:15 PM> ixmike88: .swap ush live
+<8:46:16 PM> [ixdl5] ush has been swapped out for Live
+<8:46:17 PM> ixmike88: .swap live ush
+<8:46:17 PM> [ixdl5] Live has been swapped out for ush
+<8:46:20 PM> ixmike88: .swap jgsc live
+<8:46:20 PM> [ixdl5] jgsc has been swapped out for Live
+<8:46:23 PM> ixmike88: .swap felony jgsc
+<8:46:23 PM> [ixdl5] Felony has been swapped out for jgsc
+<8:46:28 PM> ixmike88: .swap anacletus kzz
+<8:46:28 PM> [ixdl5] Anacletus has been swapped out for kzz
+<8:46:33 PM> ixmike88: .swap moon anacletus
+<8:46:33 PM> [ixdl5] moon has been swapped out for Anacletus
+<8:46:46 PM> ixmike88: .cg 5
+<8:46:46 PM> ixmike88 has drawn ixdl5
+<8:46:46 PM> [ixdl5] Game has been drawn.
+<8:46:49 PM> ixmike88: .sg
+<8:46:49 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:46:50 PM> ixmike88: .fake kzz sign
+<8:46:50 PM> [ixdl6] kzz has joined the game
+<8:46:53 PM> ixmike88: .fake anacletus sign
+<8:46:53 PM> [ixdl6] Anacletus has joined the game
+<8:46:54 PM> ixmike88: .fake live sign
+<8:46:54 PM> [ixdl6] Live has joined the game
+<8:46:56 PM> ixmike88: .fake felony sign
+<8:46:56 PM> [ixdl6] Felony has joined the game
+<8:46:57 PM> ixmike88: .fake f4l sign
+<8:46:57 PM> [ixdl6] F4L has joined the game
+<8:46:58 PM> ixmike88: .fake moon sign
+<8:46:58 PM> [ixdl6] moon has joined the game
+<8:47:00 PM> ixmike88: .fake whd.mark sign
+<8:47:00 PM> [ixdl6] whd.Mark has joined the game
+<8:47:03 PM> ixmike88: .fake shaang sign
+<8:47:03 PM> [ixdl6] Shaang has joined the game
+<8:47:05 PM> ixmike88: .fake duckhunt sign
+<8:47:05 PM> [ixdl6] duckhunt has joined the game
+<8:47:05 PM> [ixdl6] Game is full. ixmike88 can type .confirm to start the game.
+<8:47:06 PM> ixmike88: .lp
+<8:47:06 PM> [ixdl6] [Players: (10) ixmike88(1069), kzz(1000), Anacletus(1000), Live(931), Felony(1000), F4L(1035), moon(930), whd.Mark(1000), Shaang(1000), duckhunt(1000)]
+<8:47:07 PM> ixmike88: .cf
+<8:47:07 PM> [ixdl6] [Radiant: ixmike88, kzz, Anacletus, Felony, moon] [4999] | [Dire: Live, F4L, whd.Mark, Shaang, duckhunt] [4966]
+<8:47:07 PM> [ixdl6] [Radiant: ixmike88, kzz, Anacletus, Felony, moon] [4999] | [Dire: Live, F4L, whd.Mark, Shaang, duckhunt] [4966]
+<8:47:17 PM> ixmike88: gdf
+<8:49:23 PM> ixmike88: .cg 6
+<8:49:23 PM> ixmike88 has drawn ixdl6
+<8:49:24 PM> [ixdl6] Game has been drawn.
+<8:49:24 PM> ixmike88: .sg
+<8:49:24 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:49:27 PM> ixmike88: .fake kzz sg
+<8:49:27 PM> kzz has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 8 to enter.
+<8:49:30 PM> ixmike88: .fake whd.mark sg
+<8:49:30 PM> whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 9 to enter.
+<8:49:33 PM> ixmike88: .out
+<8:49:33 PM> ixmike88 has aborted ixdl7.
+<8:49:33 PM> ixmike88: .sg
+<8:49:33 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 7 to enter.
+<8:49:40 PM> ixmike88: .fake kzz out
+<8:49:40 PM> kzz has aborted ixdl8.
+<8:49:42 PM> ixmike88: .fake kzz sg
+<8:49:42 PM> kzz has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 8 to enter.
+<8:49:59 PM> ixmike88: .fake f4l sg
+<8:49:59 PM> F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 10 to enter.
+<8:50:05 PM> ixmike88: .out
+<8:50:05 PM> ixmike88 has aborted ixdl7.
+<8:50:07 PM> ixmike88: .fake f4l out
+<8:50:07 PM> F4L has aborted ixdl10.
+<8:50:09 PM> ixmike88: .sg
+<8:50:09 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 7 to enter.
+<8:50:11 PM> ixmike88: .fake f4l sg
+<8:50:11 PM> F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 10 to enter.
+<8:50:15 PM> ixmike88: .fake whd.mark out
+<8:50:15 PM> whd.Mark has aborted ixdl9.
+<8:50:18 PM> ixmike88: .out
+<8:50:18 PM> ixmike88 has aborted ixdl7.
+<8:50:20 PM> ixmike88: .fake whd.mark sg
+<8:50:20 PM> whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 7 to enter.
+<8:50:23 PM> ixmike88: .fake ixmike88 sg
+<8:50:23 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 9 to enter.
+<8:51:20 PM> ixmike88: .lp
+<8:51:20 PM> [ixdl9] [Players: (1) ixmike88(1069)]
+<8:51:32 PM> ixmike88: .fake shaang s
+<8:51:32 PM> [ixdl10] Shaang has joined the game
+<8:51:45 PM> ixmike88: .fa
+<8:51:45 PM> ixmike88 has aborted ixdl10.
+<8:51:49 PM> ixmike88: .sg
+<8:51:49 PM> ixmike88 is already in the game ixdl9
+<8:51:53 PM> ixmike88: .fake f4l sg
+<8:51:53 PM> F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 10 to enter.
+<8:52:01 PM> ixmike88: .fake shaang s 7
+<8:52:01 PM> [ixdl7] Shaang has joined the game
+<8:52:02 PM> ixmike88: .lp
+<8:52:02 PM> [ixdl9] [Players: (1) ixmike88(1069)]
+<8:52:04 PM> ixmike88: .info 7
+<8:52:04 PM> [ixdl7] [Players: (2) whd.Mark(1000), Shaang(1000)]
+<9:06:10 PM> ixmike88: .fa
+<9:06:10 PM> ixmike88 has aborted ixdl10.
+<9:06:11 PM> ixmike88: .fa
+<9:06:11 PM> ixmike88 has aborted ixdl8.
+<9:06:11 PM> ixmike88: .fa
+<9:06:11 PM> ixmike88 has aborted ixdl9.
+<9:06:12 PM> ixmike88: .sg
+<9:06:12 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 8 to enter.
+<9:06:16 PM> ixmike88: .fake whd.mark sg
+<9:06:16 PM> whd.Mark is already in the game ixdl7
+<9:06:18 PM> ixmike88: .fake f4l sg
+<9:06:18 PM> F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 9 to enter.
+<9:06:25 PM> ixmike88: .fake kzz sg
+<9:06:25 PM> kzz has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 10 to enter.
+<9:06:28 PM> ixmike88: .fa
+<9:06:28 PM> ixmike88 has aborted ixdl10.
+<9:06:33 PM> ixmike88: .fa 7
+<9:06:33 PM> ixmike88 has aborted ixdl7.
+<9:06:34 PM> ixmike88: .sg
+<9:06:34 PM> ixmike88 is already in the game ixdl8
+<9:06:38 PM> ixmike88: .fake kzz sg
+<9:06:38 PM> kzz has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 7 to enter.
+<9:06:40 PM> ixmike88: .fakewhd.mark sg
+<9:06:42 PM> ixmike88: .fake whd.mark sg
+<9:06:42 PM> whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 10 to enter.
+<9:06:44 PM> ixmike88: .fa
+<9:06:44 PM> ixmike88 has aborted ixdl10.
+<9:07:22 PM> ixmike88: .games
+<9:07:22 PM> Pending Games: ixdl9(1/10), ixdl8(1/10), ixdl7(1/10) 
+<9:07:23 PM> ixmike88: .fa
+<9:07:23 PM> ixmike88 has aborted ixdl9.
+<9:07:24 PM> ixmike88: .games
+<9:07:24 PM> Pending Games: ixdl8(1/10), ixdl7(1/10) 
+<9:07:25 PM> ixmike88: .sg
+<9:07:25 PM> ixmike88 is already in the game ixdl8
+<9:07:28 PM> ixmike88: .fa
+<9:07:28 PM> ixmike88 has aborted ixdl8.
+<9:07:28 PM> ixmike88: .fa
+<9:07:28 PM> ixmike88 has aborted ixdl7.
+<9:07:29 PM> ixmike88: .sg
+<9:07:29 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<9:07:30 PM> ixmike88: .lp
+<9:07:30 PM> [ixdl7] [Players: (1) ixmike88(1069)]
+<9:07:32 PM> ixmike88: .fake whd.mark sg
+<9:07:32 PM> whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 8 to enter.
+<9:08:16 PM> Loading user database...
+<9:08:16 PM> Listening for clients..
+<9:08:16 PM> Player list added
+<9:08:16 PM> League connected
+<9:08:18 PM> 99.7.74.79 connected
+<9:08:20 PM> ixmike88: .sg
+<9:08:20 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<9:08:22 PM> ixmike88: .out
+<9:08:22 PM> ixmike88 has aborted ixdl7.
+<9:08:23 PM> ixmike88: .cl moon
+<9:08:23 PM> ixmike88 has issued a challenge to moon! Type .sign to enter.
+<9:08:24 PM> ixmike88: .fakesign
+<9:08:27 PM> ixmike88: .fa
+<9:08:27 PM> ixmike88 has aborted ixdl7.
+<9:08:28 PM> ixmike88: .sg
+<9:08:28 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<9:08:29 PM> ixmike88: .lp
+<9:08:29 PM> [ixdl7] [Players: (1) ixmike88(1069)]
+<9:08:30 PM> ixmike88: .fake moon s
+<9:08:30 PM> [ixdl7] moon has joined the game
+<9:08:31 PM> ixmike88: .lp
+<9:08:31 PM> [ixdl7] [Players: (2) ixmike88(1069), moon(930)]
+<9:08:32 PM> ixmike88: .out
+<9:08:32 PM> ixmike88 has aborted ixdl7.
+<9:27:49 PM> 129.116.33.222 connected
+<9:27:55 PM> 129.116.33.222 connected
+<9:28:01 PM> ixmike88: ?
+<9:28:01 PM> ixmike88: huh
+<9:28:02 PM> ixmike88: ur here
+<9:28:08 PM> moon: i am
+<9:28:12 PM> ixmike88: whers ur icon
+<9:28:13 PM> ixmike88: .stats
+<9:28:13 PM> ixmike88(Admin) :: [Rating: 1069 | Rank: 1/14] :: [Record: 2-0 (100%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<9:28:15 PM> ixmike88: .stats moon
+<9:28:15 PM> moon(Voucher) :: [Rating: 930 | Rank: 14/14] :: [Record: 1-1 (50%) | Streak: -1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<9:28:19 PM> moon: idk
+<9:28:21 PM> moon: i think thats on you
+<9:28:22 PM> ixmike88: do u see it
+<9:28:23 PM> moon: nope
+<9:28:32 PM> ixmike88: oh
+<9:28:32 PM> ixmike88: uir a voucher
+<9:28:32 PM> moon: staff chat though
+<9:28:36 PM> moon: did this have a scrolling bug too
+<9:28:42 PM> moon: test
+<9:28:42 PM> moon: te
+<9:28:43 PM> moon: st
+<9:28:43 PM> moon: est
+<9:28:43 PM> moon: s
+<9:28:43 PM> moon: et
+<9:28:43 PM> moon: s
+<9:28:43 PM> moon: t
+<9:28:43 PM> moon: se
+<9:28:44 PM> moon: ts
+<9:28:44 PM> moon: te
+<9:28:44 PM> moon: es
+<9:28:44 PM> moon: te
+<9:28:44 PM> moon: t
+<9:28:44 PM> moon: se
+<9:28:45 PM> moon: t
+<9:28:45 PM> moon: ests
+<9:28:45 PM> moon: et
+<9:28:45 PM> moon: set
+<9:28:45 PM> moon: s
+<9:28:46 PM> moon: t
+<9:28:46 PM> moon: se
+<9:28:46 PM> moon: t
+<9:28:46 PM> moon: es
+<9:28:46 PM> moon: t
+<9:28:46 PM> moon: est
+<9:28:47 PM> moon: se
+<9:28:47 PM> moon: t
+<9:28:47 PM> moon: se
+<9:28:47 PM> moon: ts
+<9:28:47 PM> moon: et
+<9:28:47 PM> moon: se
+<9:28:48 PM> moon: t
+<9:28:48 PM> moon: st
+<9:28:48 PM> moon: s
+<9:28:48 PM> moon: te
+<9:28:57 PM> moon: staff chat scrolling bug too
+<9:41:54 PM> ixmike88: no
+<9:41:58 PM> ixmike88: i fixed it in my version
+<9:42:06 PM> ixmike88: i just didnt change the version number
+<9:46:55 PM> 99.7.74.79 connected
+<9:46:57 PM> ixmike88: fgd
+<9:47:55 PM> 99.7.74.79 connected
+<9:48:00 PM> ixmike88: ?
+<9:48:00 PM> ixmike88: alright.
+<9:48:01 PM> ixmike88: updated.
+<9:48:05 PM> ixmike88: igot u that one guy
+<9:55:00 PM> moon: storm trooper helmet though
+<9:56:09 PM> 67.1.29.36 connected
+<9:56:14 PM> 67.1.29.36 connected
+<10:03:55 PM> ixmike88: ?
+<10:03:56 PM> ixmike88: ayo
+<10:11:20 PM> moon: ?
+<10:12:09 PM> F4L: sdfgh
+<10:12:09 PM> F4L: sdfg
+<10:12:10 PM> F4L: sdfg
+<10:12:10 PM> F4L: sdfg
+<10:12:10 PM> F4L: sdfg
+<10:12:10 PM> F4L: dfsg
+<10:12:11 PM> F4L: dfg
+<10:12:11 PM> F4L: sdfg
+<10:12:11 PM> F4L: sdfdf
+<10:12:11 PM> F4L: fd
+<10:12:11 PM> F4L: 345
+<10:12:11 PM> F4L: g
+<10:12:12 PM> F4L: etrg
+<10:12:12 PM> F4L: weg
+<10:12:12 PM> F4L: sdf
+<10:12:12 PM> F4L: g35
+<10:12:12 PM> F4L: g
+<10:12:13 PM> F4L: sdfg
+<10:12:13 PM> F4L: sdfg
+<10:12:13 PM> F4L: 234
+<10:12:13 PM> F4L: te
+<10:12:13 PM> F4L: gds
+<10:12:14 PM> F4L: fg
+<10:12:14 PM> F4L: 234t
+<10:12:14 PM> F4L: g
+<10:12:14 PM> F4L: dfgv
+<10:12:14 PM> F4L: 34
+<10:12:15 PM> F4L: df
+<10:12:19 PM> F4L: dfgsdfg
+<10:12:19 PM> F4L: 345
+<10:12:19 PM> F4L: etr
+<10:12:19 PM> F4L: ds
+<10:12:20 PM> F4L: g
+<10:12:20 PM> F4L: 45g
+<10:12:20 PM> F4L: egh
+<10:12:20 PM> F4L: sg
+<10:12:20 PM> F4L: w45g
+<10:12:21 PM> F4L: 5
+<10:12:21 PM> F4L: gge
+<10:12:21 PM> F4L: s4g
+<10:12:21 PM> F4L: sg
+<10:12:22 PM> F4L: 435g
+<10:12:22 PM> F4L: 54g
+<10:12:22 PM> F4L: 5
+<10:12:22 PM> F4L: 45gs45
+<10:12:22 PM> F4L: 45
+<10:12:23 PM> F4L: g45
+<10:12:23 PM> F4L: g45s
+<10:12:23 PM> F4L: g5g
+<10:12:23 PM> F4L: w45sg
+<10:12:24 PM> F4L: 5g
+<10:12:24 PM> F4L: dsg
+<10:12:24 PM> F4L: dfh
+<10:12:24 PM> F4L: dfh
+<10:12:24 PM> F4L: sdgh
+<10:12:25 PM> F4L: sgdh
+<10:12:25 PM> F4L: sgfh
+<10:12:25 PM> F4L: s
+<10:12:25 PM> F4L: gh
+<10:12:25 PM> F4L: g
+<10:12:26 PM> F4L: hsg
+<10:12:26 PM> F4L: hs
+<10:12:26 PM> F4L: h
+<10:12:26 PM> F4L: gh
+<10:12:27 PM> moon: he fixed it
+<10:12:29 PM> moon: this isnt updated yet
+<10:12:30 PM> F4L: broken.
+<10:12:37 PM> F4L: ic

@@ -1,0 +1,33 @@
+<10:53:13 PM> Loading user database...
+<10:53:23 PM> Listening for clients..
+<10:53:33 PM> Player list added
+<10:53:43 PM> League connected
+<10:53:53 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:54:03 PM> ixmike88->Main: .sg
+<10:54:13 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<10:54:23 PM> ixmike88->Main: .fake kzz s
+<10:54:33 PM> Server->Main: [ixdl2] kzz has joined the game
+<10:54:43 PM> ixmike88->Main: .fake whd.mark s
+<10:54:53 PM> Server->Main: [ixdl2] whd.Mark has joined the game
+<10:55:03 PM> ixmike88->Main: .fake f4l s
+<10:55:13 PM> Server->Main: [ixdl2] F4L has joined the game
+<10:55:24 PM> ixmike88->Main: .fake felony s
+<10:55:34 PM> Server->Main: [ixdl2] Felony has joined the game
+<10:55:44 PM> ixmike88->Main: .fake jgsc s
+<10:55:54 PM> Server->Main: [ixdl2] jgsc has joined the game
+<10:56:04 PM> ixmike88->Main: .fake duckhunt s
+<10:56:14 PM> Server->Main: [ixdl2] duckhunt has joined the game
+<10:56:24 PM> ixmike88->Main: .fake anacletus s
+<10:56:34 PM> Server->Main: [ixdl2] Anacletus has joined the game
+<10:56:44 PM> ixmike88->Main: .fake zieth s
+<10:56:54 PM> Server->Main: [ixdl2] Zieth has joined the game
+<10:57:04 PM> ixmike88->Main: .fake shaang s
+<10:57:14 PM> Server->Main: [ixdl2] Shaang has joined the game
+<10:57:24 PM> Server->Main: [ixdl2] Game is full. ixmike88 can type .confirm to start the game.
+<10:57:34 PM> ixmike88->Main: .cf
+<10:57:44 PM> Server->Main: [ixdl2] [Radiant: ixmike88, whd.Mark, Felony, duckhunt, Anacletus] [5282] | [Dire: kzz, F4L, jgsc, Zieth, Shaang] [5287]
+<10:57:54 PM> Server->ixdl2: [ixdl2] [Radiant: ixmike88, whd.Mark, Felony, duckhunt, Anacletus] [5282] | [Dire: kzz, F4L, jgsc, Zieth, Shaang] [5287]
+<10:58:04 PM> ixmike88->Main: asdf
+<11:07:04 PM> ixmike88->ixdl2: asdf
+<11:09:14 PM> ixmike88->Main: .fake moon9 sg
+<11:09:24 PM> Server->Main: moon9 has opened signups for a ixmike Dota League game! Mode is CM.

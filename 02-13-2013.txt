@@ -1,0 +1,647 @@
+<12:31:13 AM>  () has disconnected.
+<12:31:17 AM> Anacletus (168.28.136.37) (BC:5F:F4:45:7F:A5) has connected.
+<12:31:22 AM> ixmike88->Main: ?
+<12:31:24 AM> ixmike88->Main: howd u connect
+<12:31:30 AM> Anacletus->Main: I hit connect
+<12:31:32 AM> ixmike88->Main: ?
+<12:31:35 AM> ixmike88->Main: ur vesions up to date?
+<12:31:40 AM> Anacletus->Main: I just updated
+<12:31:45 AM> ixmike88->Main: with the updater?
+<12:31:51 AM> ixmike88->Main: or download
+<12:31:52 AM> Anacletus->Main: I just clicked the client and it auto-updated
+<12:31:57 AM> Anacletus->Main: then I restarted it
+<12:31:58 AM> ixmike88->Main: ?
+<12:31:59 AM> Anacletus->Main: and here I am
+<12:32:04 AM> ixmike88->Main: odd.
+<12:32:14 AM> ixmike88->Main: do u see the setting sbutton
+<12:32:21 AM> Anacletus->Main: yes
+<12:32:23 AM> ixmike88->Main: nice.
+<12:32:25 AM> ixmike88->Main: .promote Anacletus
+<12:32:25 AM> Server->Main: Anacletus has been promoted to Voucher by ixmike88
+<12:32:30 AM> ixmike88->Main: /kick Anacletus
+<12:32:30 AM> Anacletus (168.28.136.37) has disconnected.
+<12:32:36 AM> Anacletus (168.28.136.37) (BC:5F:F4:45:7F:A5) has connected.
+<12:32:41 AM> ixmike88->Staff Chat: ayo.
+<12:32:41 AM> Anacletus->Main: what a face
+<12:32:51 AM> Anacletus->Main: auto connect?
+<12:33:00 AM> ixmike88->Main: ya
+<12:33:02 AM> ixmike88->Main: when u load the client
+<12:33:09 AM> ixmike88->Main: do u seet eh staff chat
+<12:33:21 AM> Anacletus->Main: yes
+<12:33:24 AM> Anacletus->Staff Chat: h
+<12:33:28 AM> Anacletus->Staff Chat: i
+<12:36:41 AM> ixmike88->Main: .sg
+<12:36:41 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:36:44 AM> ixmike88->Main: .fake Anacletus sign
+<12:36:44 AM> Server->Main: [ixdl15] Anacletus has joined the game
+<12:36:46 AM> ixmike88->Main: .fake febby sign
+<12:36:46 AM> Server->Main: [ixdl15] Febby has joined the game
+<12:36:48 AM> ixmike88->Main: fake kzz sign
+<12:36:49 AM> ixmike88->Main: .fake whd.mark sign
+<12:36:49 AM> Server->Main: [ixdl15] whd.Mark has joined the game
+<12:36:51 AM> ixmike88->Main: .fake kzz sign
+<12:36:51 AM> Server->Main: [ixdl15] kzz has joined the game
+<12:37:00 AM> ixmike88->Main: .lp
+<12:37:00 AM> Server->Main: [ixdl15] [Players: (5) ixmike88(1065), Anacletus(1029), Febby(965), whd.Mark(1102), kzz(1067)]
+<12:37:11 AM> ixmike88->Main: .fake felony s
+<12:37:11 AM> Server->Main: [ixdl15] Felony has joined the game
+<12:37:16 AM> ixmike88->Main: .fake f4l s
+<12:37:16 AM> Server->Main: [ixdl15] F4L has joined the game
+<12:37:17 AM> ixmike88->Main: .fake shaang s
+<12:37:17 AM> Server->Main: [ixdl15] Shaang has joined the game
+<12:37:19 AM> ixmike88->Main: .fake bulba123 s
+<12:37:19 AM> Server->Main: [ixdl15] bulba123 has joined the game
+<12:37:22 AM> ixmike88->Main: .fake jgsc s
+<12:37:22 AM> Server->Main: [ixdl15] jgsc has joined the game
+<12:37:22 AM> Server->Main: [ixdl15] Game is full. ixmike88 can type .confirm to start the game.
+<12:37:47 AM> Anacletus (168.28.136.37) has disconnected.
+<12:37:48 AM> Anacletus (168.28.136.37) (BC:5F:F4:45:7F:A5) has connected.
+<12:37:54 AM> ixmike88->Main: .cf
+<12:37:54 AM> Server->Main: [ixdl15] [Radiant: ixmike88, Anacletus, Febby, Felony, F4L] [5125] | [Dire: whd.Mark, kzz, Shaang, bulba123, jgsc] [5106]
+<12:37:54 AM> Server->ixdl15: [ixdl15] [Radiant: ixmike88, Anacletus, Febby, Felony, F4L] [5125] | [Dire: whd.Mark, kzz, Shaang, bulba123, jgsc] [5106]
+<12:38:26 AM> ixmike88->ixdl15: ?
+<12:42:15 AM> ixmike88->Main: .stats
+<12:42:15 AM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:42:46 AM> ixmike88->Main: ,cg 15
+<12:42:46 AM> Server->Main: ixmike88 has drawn ixdl15
+<12:42:46 AM> Server->Main: [ixdl15] Game has been drawn.
+<12:42:55 AM> ixmike88->Main: .sg
+<12:42:55 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:42:55 AM> ixmike88->Main: .out
+<12:42:55 AM> Server->Main: ixmike88 has aborted ixdl16.
+<12:42:56 AM> ixmike88 (99.7.74.79) has disconnected.
+<12:43:03 AM> Loading user database...
+<12:43:03 AM> Player list added
+<12:43:03 AM> League connected
+<12:43:10 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:43:12 AM> ixmike88->Main: .sg
+<12:43:12 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:44:04 AM> Anacletus (168.28.136.37) has disconnected.
+<12:44:06 AM>  () has disconnected.
+<12:44:11 AM> Anacletus (168.28.136.37) (BC:5F:F4:45:7F:A5) has connected.
+<12:44:20 AM> ixmike88->Main: .out
+<12:44:20 AM> Server->Main: ixmike88 has aborted ixdl16.
+<12:44:21 AM> ixmike88->Main: .sg
+<12:44:21 AM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<12:46:44 AM> ixmike88->Main: .out
+<12:46:44 AM> Server->Main: ixmike88 has aborted ixdl16.
+<12:47:13 AM> ixmike88->Main: .stats
+<12:47:13 AM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:47:17 AM> Anacletus->Main: .out
+<12:47:18 AM> Anacletus->Main: .sg
+<12:47:18 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:19 AM> Anacletus->Main: .out
+<12:47:19 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:21 AM> Anacletus->Main: .sg
+<12:47:21 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:21 AM> Anacletus->Main: .out
+<12:47:21 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:22 AM> Anacletus->Main: .sg
+<12:47:22 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:22 AM> Anacletus->Main: .out
+<12:47:22 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:23 AM> Anacletus->Main: .sg
+<12:47:23 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:23 AM> Anacletus->Main: .out
+<12:47:23 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:24 AM> Anacletus->Main: .sg
+<12:47:24 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:24 AM> Anacletus->Main: .out
+<12:47:24 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:24 AM> Anacletus->Main: .out
+<12:47:24 AM> Anacletus->Main: .sg
+<12:47:24 AM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<12:47:24 AM> Anacletus->Main: .sg
+<12:47:24 AM> Server->Anacletus: You are already in the game ixdl16
+<12:47:24 AM> Anacletus->Main: .sg
+<12:47:24 AM> Server->Anacletus: You are already in the game ixdl16
+<12:47:25 AM> Anacletus->Main: .sg
+<12:47:25 AM> Server->Anacletus: You are already in the game ixdl16
+<12:47:25 AM> Anacletus->Main: .sg
+<12:47:25 AM> Server->Anacletus: You are already in the game ixdl16
+<12:47:26 AM> Anacletus->Main: .sg
+<12:47:26 AM> Server->Anacletus: You are already in the game ixdl16
+<12:47:26 AM> Anacletus->Main: .out
+<12:47:26 AM> Server->Main: Anacletus has aborted ixdl16.
+<12:47:27 AM> Anacletus->Main: .out
+<12:47:27 AM> Anacletus->Main: .out
+<12:47:27 AM> Anacletus->Main: .out
+<12:47:41 AM> ixmike88->Main: .top
+<12:47:41 AM> Server->Main: 1. whd.Mark[1102] 2. kzz[1067] 3. ixmike88[1065] 4. Zieth[1035] 5. Felony[1034] 6. F4L[1032] 7. Anacletus[1029] 8. test[1000] 9. Shaang[1000] 10. Server[1000] 
+<12:48:08 AM> ixmike88 (99.7.74.79) has disconnected.
+<12:48:10 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:48:21 AM> ixmike88 (99.7.74.79) has disconnected.
+<12:48:23 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:53:15 AM> Anacletus (168.28.136.37) has disconnected.
+<9:09:44 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:51:03 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:51:05 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:51:09 PM> ixmike88->Main: sdf
+<6:51:12 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:51:17 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:51:37 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:51:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:51:59 PM> ixmike88->Main: sdf
+<6:52:02 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:52:24 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:52:27 PM> ixmike88->Main: sdf
+<6:52:28 PM> ixmike88->Main: sdf
+<6:52:29 PM> ixmike88->Main: sdf
+<6:52:30 PM> ixmike88->Main: sdf
+<6:52:32 PM> ixmike88->Main: cunt
+<6:52:32 PM> ixmike88->Main: 123
+<6:52:34 PM> ixmike88->Main: mike
+<6:52:36 PM> ixmike88->Main: moon
+<6:53:44 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:53:45 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:53:47 PM> ixmike88->Main: 123
+<6:53:49 PM> ixmike88->Main: cunt
+<6:53:50 PM> ixmike88->Main: asdf
+<6:53:50 PM> ixmike88->Main: ff
+<6:54:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:54:23 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:54:28 PM> ixmike88->Main: cunt
+<6:54:29 PM> ixmike88->Main: 123
+<6:54:33 PM> ixmike88->Main: cunt
+<6:54:34 PM> ixmike88->Main: asdf
+<6:54:38 PM> ixmike88->Main: cunt
+<6:54:39 PM> ixmike88->Main: dd
+<6:54:39 PM> ixmike88->Main: d
+<6:54:42 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:56:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:56:36 PM> ixmike88->Main: cunt
+<6:56:41 PM> ixmike88->Main: 123
+<6:56:42 PM> ixmike88->Main: 45
+<6:57:27 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:57:27 PM> NO PING: ixmike88(99.7.74.79)
+<6:58:52 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:59:06 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:59:17 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:59:18 PM> ixmike88->Main: cunt
+<6:59:19 PM> ixmike88->Main: asdf
+<6:59:24 PM> ixmike88->Main: nigger
+<6:59:27 PM> ixmike88->Main: bitch
+<6:59:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:02:46 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:02:47 PM> ixmike88->Main: cunt
+<7:02:47 PM> ixmike88->Main: 123
+<7:02:49 PM> ixmike88->Main: bitch
+<7:02:50 PM> ixmike88->Main: 44
+<7:03:13 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:04:04 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:04:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:04:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:04:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:04:33 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:05:28 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:05:28 PM> NO PING: ixmike88(99.7.74.79)
+<7:05:55 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:06:13 PM> ixmike88->Main: cunt
+<7:06:13 PM> ixmike88->Main: bitch
+<7:06:14 PM> ixmike88->Main: 123
+<7:06:17 PM> ixmike88->Main: asdf
+<7:07:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:07:51 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:07:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:08:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:08:02 PM> ixmike88->Main: asdf
+<7:08:02 PM> ixmike88->Main: cunt
+<7:08:03 PM> ixmike88->Main: bitch
+<7:08:03 PM> ixmike88->Main: 123
+<7:08:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:08:14 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:08:15 PM> ixmike88->Main: asdf
+<7:08:15 PM> ixmike88->Main: bithc
+<7:08:15 PM> ixmike88->Main: cnut
+<7:08:33 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:08:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:08:37 PM> ixmike88->Main: cunt
+<7:08:38 PM> ixmike88->Main: btich
+<7:08:39 PM> ixmike88->Main: nigger
+<7:11:09 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:11:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:11:30 PM> ixmike88->Main: cunt
+<7:11:32 PM> ixmike88->Main: bitch
+<7:11:33 PM> ixmike88->Main: nigger
+<7:11:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:11:43 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:11:45 PM> ixmike88->Main: cunt
+<7:11:45 PM> ixmike88->Main: biotch
+<7:11:46 PM> ixmike88->Main: nigger
+<7:12:49 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:13:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:13:15 PM> ixmike88->Main: cunt
+<7:13:15 PM> ixmike88->Main: bitch
+<7:13:17 PM> ixmike88->Main: df
+<7:14:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:14:08 PM> NO PING: ixmike88(99.7.74.79)
+<7:15:24 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:15:26 PM> ixmike88->Main: cunt
+<7:15:27 PM> ixmike88->Main: btic
+<7:15:27 PM> ixmike88->Main: nsdf
+<7:16:43 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:16:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:16:49 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:16:51 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:16:58 PM> ixmike88->Main: asdf
+<7:16:59 PM> ixmike88->Main: fds
+<7:17:00 PM> ixmike88->Main: ssss
+<7:18:06 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:18:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:18:20 PM> ixmike88->Main: cunt
+<7:18:21 PM> ixmike88->Main: 123
+<7:18:22 PM> ixmike88->Main: dasd
+<7:18:42 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:18:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:18:51 PM> ixmike88->Main: asdf
+<7:18:51 PM> ixmike88->Main: asdfd
+<7:18:51 PM> ixmike88->Main: asd
+<7:18:52 PM> ixmike88->Main: sad
+<7:19:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:23:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:23:50 PM> ixmike88->Main: asdf
+<7:23:51 PM> ixmike88->Main: asdf
+<7:23:54 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:23:55 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:23:56 PM> ixmike88->Main: cunt
+<7:23:56 PM> ixmike88->Main: 123
+<7:23:57 PM> ixmike88->Main: asdf
+<7:24:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:24:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:24:56 PM> ixmike88->Main: cunt
+<7:24:57 PM> ixmike88->Main: 123
+<7:24:58 PM> ixmike88->Main: asdf
+<7:25:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:25:21 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:25:22 PM> ixmike88->Main: cunt
+<7:25:22 PM> ixmike88->Main: 123
+<7:25:23 PM> ixmike88->Main: asdf
+<7:25:31 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:35:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:35:10 PM>  () has disconnected.
+<7:35:13 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:35:21 PM> test->Main: f
+<7:35:21 PM> test->Main: asd
+<7:35:21 PM> test->Main: sad
+<7:35:22 PM> test->Main: ads
+<7:35:22 PM> test->Main: asd
+<7:35:22 PM> test->Main: sad
+<7:35:22 PM> test->Main: ads
+<7:35:23 PM> test->Main: sad
+<7:35:34 PM> test->ixmike88: sdf
+<7:35:35 PM> test->ixmike88: sdf
+<7:35:35 PM> test->ixmike88: fds
+<7:35:38 PM> test->ixmike88: sfd
+<7:35:39 PM> test->ixmike88: sfd
+<7:35:40 PM> test->ixmike88: sdf
+<7:35:40 PM> test->ixmike88: dfs
+<7:35:40 PM> test->ixmike88: fds
+<7:35:42 PM> test->ixmike88: sdf
+<7:35:45 PM> test->ixmike88: sfd
+<7:36:06 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:36:48 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:36:51 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:36:53 PM> test (99.7.74.79) has disconnected.
+<7:37:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:38:33 PM>  () has disconnected.
+<7:38:39 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<7:38:44 PM> ixmike88->Main: hi
+<7:38:47 PM> whd.Mark->Main: hi
+<7:38:50 PM> whd.Mark->Main: nice
+<7:38:56 PM> whd.Mark->Main: .sg
+<7:38:56 PM> Server->Main: whd.Mark has opened signups for a ixmike Dota League game! Mode is CM.
+<7:38:59 PM> whd.Mark->Main: .out
+<7:38:59 PM> Server->Main: whd.Mark has aborted ixdl16.
+<7:39:07 PM> moon->Main: hi
+<7:39:18 PM> whd.Mark->Main: nice
+<7:39:21 PM> whd.Mark->Main: moon you rape
+<7:39:21 PM> ixmike88->Main: did the sound work
+<7:39:25 PM> whd.Mark->Main: ya lmao
+<7:39:28 PM> whd.Mark->Main: you had that on before
+<7:39:30 PM> ixmike88->Main: oh
+<7:39:31 PM> whd.Mark->Main: the buttons are all new
+<7:39:31 PM> ixmike88->Main: u saw it already
+<7:39:33 PM> whd.Mark->Main: nice im rank 1
+<7:39:33 PM> ixmike88->Main: ya
+<7:39:39 PM> ixmike88->Main: i added up and down arrow
+<7:39:43 PM> ixmike88->Main: for old msgs
+<7:39:53 PM> ixmike88->Main: and if u tab a  partial name itll do the whole thing
+<7:39:54 PM> moon->whd.mark: test
+<7:39:56 PM> whd.Mark->moon: hi
+<7:39:58 PM> ixmike88->Main: whd.Mark
+<7:39:59 PM> moon->ixmike88: test
+<7:39:59 PM> ixmike88->moon: whd.Mark
+<7:40:07 PM> whd.Mark->Main: ixmike88
+<7:40:09 PM> whd.Mark->Main: moon
+<7:40:17 PM> ixmike88->Main: i made stats privat etoo
+<7:40:19 PM> ixmike88->Main: .stats
+<7:40:19 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:40:20 PM> whd.Mark->Main: nice
+<7:40:23 PM> whd.Mark->Main: so all commands
+<7:40:26 PM> whd.Mark->Main: are private?
+<7:40:28 PM> whd.Mark->Main: .stats
+<7:40:28 PM> Server->whd.Mark: whd.Mark(Admin) :: [Rating: 1102 | Rank: 1/17] :: [Record: 4-1 (80%) | Streak: 4] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:40:28 PM> ixmike88->Main: no
+<7:40:29 PM> ixmike88->Main: stats is
+<7:40:32 PM> ixmike88->Main: ujntil i get a better gui
+<7:40:33 PM> ixmike88->Main: for it
+<7:40:36 PM> ixmike88->Main: instead of the txt
+<7:40:43 PM> whd.Mark->Main: nice
+<7:40:53 PM> ixmike88->Main: this is wha ti want to launch
+<7:40:56 PM> ixmike88->Main: i need a vps
+<7:40:57 PM> whd.Mark->Main: right here?
+<7:41:00 PM> whd.Mark->Main: ok
+<7:41:00 PM> ixmike88->Main: more or less
+<7:41:07 PM> whd.Mark->Main: we just need a cheap one you think?
+<7:41:09 PM> ixmike88->Main: im gunna continue updating it
+<7:41:12 PM> ixmike88->Main: but i think this is good
+<7:41:16 PM> ixmike88->Main: ya
+<7:41:18 PM> ixmike88->Main: w/e windows one
+<7:41:19 PM> moon->Main: oh is mark your "friend"
+<7:41:21 PM> whd.Mark->Main: vpsland?
+<7:41:23 PM> ixmike88->Main: i duno
+<7:41:24 PM> ixmike88->Main: .stats
+<7:41:24 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:24 PM> ixmike88->Main: .stats
+<7:41:24 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:24 PM> ixmike88->Main: .stats
+<7:41:24 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:24 PM> ixmike88->Main: .stats
+<7:41:24 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:25 PM> ixmike88->Main: .stats
+<7:41:25 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:25 PM> ixmike88->Main: .stats
+<7:41:25 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:25 PM> ixmike88->Main: .stats
+<7:41:25 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:25 PM> ixmike88->Main: .stats
+<7:41:25 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:25 PM> ixmike88->Main: .stats
+<7:41:25 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<7:41:29 PM> moon->Main: the friend yo uwere saying before
+<7:41:40 PM> moon->Main: freedns.afraid.com
+<7:41:47 PM> moon->Main: org
+<7:41:51 PM> moon->Main: freedns.afraid.org
+<7:41:53 PM> ixmike88->Main: the computational time
+<7:41:56 PM> ixmike88->Main: messes up the ping soemties
+<7:42:02 PM> ixmike88->Main: wonder if theres a bettr way
+<7:42:11 PM> whd.Mark->Main: dunno
+<7:42:16 PM> whd.Mark->Main: how frequent does that updaet
+<7:42:19 PM> ixmike88->Main: 20seconds
+<7:42:25 PM> whd.Mark->Main: -fake ixmike88 start
+<7:42:25 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<7:42:26 PM> moon->Main: .s
+<7:42:26 PM> Server->Main: [ixdl16] moon has joined the game
+<7:42:29 PM> whd.Mark->Main: .s ixdl16
+<7:42:29 PM> Server->Main: [ixdl16] whd.Mark has joined the game
+<7:42:31 PM> whd.Mark->Main: .s ixdl16
+<7:42:32 PM> whd.Mark->Main: .out
+<7:42:32 PM> Server->Main: [ixdl16] whd.Mark has signed out
+<7:42:34 PM> whd.Mark->Main: .sg
+<7:42:34 PM> Server->Main: whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 17 to enter.
+<7:42:39 PM> whd.Mark->Main: .out
+<7:42:39 PM> Server->Main: whd.Mark has aborted ixdl17.
+<7:42:48 PM> ixmike88->Main: .fake whd.mark s
+<7:42:48 PM> Server->Main: [ixdl16] whd.Mark has joined the game
+<7:42:50 PM> ixmike88->Main: .fake kzz s
+<7:42:50 PM> Server->Main: [ixdl16] kzz has joined the game
+<7:42:55 PM> ixmike88->Main: .fake shaang s
+<7:42:55 PM> Server->Main: [ixdl16] Shaang has joined the game
+<7:42:58 PM> ixmike88->Main: .fake febby s
+<7:42:58 PM> Server->Main: [ixdl16] Febby has joined the game
+<7:42:59 PM> ixmike88->Main: .fake jgsc s
+<7:42:59 PM> Server->Main: [ixdl16] jgsc has joined the game
+<7:43:02 PM> ixmike88->Main: .fake ancletus s
+<7:43:02 PM> Server->ancletus: You are not vouched
+<7:43:11 PM> ixmike88->Main: .fake anacletus s
+<7:43:11 PM> Server->Main: [ixdl16] Anacletus has joined the game
+<7:43:19 PM> whd.Mark->Main: i think vpsland will work fine
+<7:43:24 PM> ixmike88->Main: .fake f4l s
+<7:43:24 PM> Server->Main: [ixdl16] F4L has joined the game
+<7:43:27 PM> whd.Mark->Main: since its just a server
+<7:43:27 PM> ixmike88->Main: .fake felony s
+<7:43:27 PM> Server->Main: [ixdl16] Felony has joined the game
+<7:43:27 PM> Server->Main: [ixdl16] Game is full. ixmike88 can type .confirm to start the game.
+<7:43:33 PM> ixmike88->Main: .cf
+<7:43:33 PM> Server->Main: [ixdl16] [Radiant: ixmike88, moon, whd.Mark, Anacletus, Felony] [5000] | [Dire: kzz, Shaang, Febby, jgsc, F4L] [5001]
+<7:43:33 PM> Server->ixdl16: [ixdl16] [Radiant: ixmike88, moon, whd.Mark, Anacletus, Felony] [5000] | [Dire: kzz, Shaang, Febby, jgsc, F4L] [5001]
+<7:43:36 PM> moon->Main: .r radiant
+<7:43:36 PM> Server->ixdl16: moon has resulted radiant.
+<7:43:43 PM> whd.Mark->Main: how much memory does server use mike
+<7:43:52 PM> whd.Mark->Main: .r draw
+<7:43:52 PM> Server->ixdl16: whd.Mark has resulted draw.
+<7:44:05 PM> ixmike88->Main: um
+<7:44:05 PM> ixmike88->Main: 8mb
+<7:44:13 PM> whd.Mark->Main: lol
+<7:44:17 PM> whd.Mark->Main: ya
+<7:44:18 PM> whd.Mark->Main: cheapest vps
+<7:44:20 PM> whd.Mark->Main: will be fine
+<7:44:24 PM> ixmike88->Main: do u got  abetter name
+<7:44:25 PM> ixmike88->Main: than idxdl
+<7:44:26 PM> whd.Mark->Main: since we just using it for webhost and server
+<7:44:29 PM> whd.Mark->Main: ya whdl
+<7:44:32 PM> ixmike88->Main: rejected
+<7:44:34 PM> whd.Mark->Main: dang
+<7:44:37 PM> whd.Mark->Main: ok #2
+<7:44:42 PM> whd.Mark->Main: mdl
+<7:44:45 PM> whd.Mark->Main: ez
+<7:44:48 PM> whd.Mark->Main: mike dota league
+<7:44:58 PM> moon->Main: moon dota league
+<7:45:02 PM> whd.Mark->Main: mark dota league
+<7:45:07 PM> moon->Main: mmmdl
+<7:45:10 PM> whd.Mark->Main: ya
+<7:45:12 PM> whd.Mark->Main: MMMMMMMMM
+<7:45:23 PM> whd.Mark->Main: .staff
+<7:45:25 PM> whd.Mark->Main: dang
+<7:45:26 PM> whd.Mark->Main: .help
+<7:45:26 PM> Server->Main: Commands: stats, sg, sign, lp, out, abort, games, confirm, report, fakesign, fake, challenge, ready, pick, dodge, teams, moddraw, modresult, swap, top, bot, compare, reward, penalty, reload, info, promote, demote, forceabort, truant, warn, timeban, untimeban, help - More information can be found at www.ixdl.com
+<7:45:28 PM> ixmike88->Main: .timeban whd.Mark 20
+<7:45:28 PM> Server->Main: Usage: .timeban <name> <hours> <reason>
+<7:45:37 PM> ixmike88->Main: .timeban whd.mark 20 sucks
+<7:45:37 PM> Server->Main: whd.Mark has been timebanned by ixmike88 for 20 hours. Reason: sucks 
+<7:45:41 PM> whd.Mark->Main: :(
+<7:45:47 PM> whd.Mark->Main: .out
+<7:45:47 PM> Server->whd.Mark: You are timebanned for: 19 hours and 59 minutes. Reason: sucks 
+<7:45:50 PM> moon->Main: does it dc him
+<7:45:52 PM> ixmike88->Main: no
+<7:45:52 PM> whd.Mark->Main: no
+<7:45:54 PM> moon->Main: or just stops him from signign
+<7:45:54 PM> ixmike88->Main: he cant use comands
+<7:45:56 PM> whd.Mark->Main: i can still talk too
+<7:46:02 PM> moon->Main: do you got a mute command
+<7:46:04 PM> ixmike88->Main: ya
+<7:46:04 PM> moon->Main: think that needs a thing
+<7:46:05 PM> whd.Mark->Main: ya
+<7:46:06 PM> ixmike88->Main:  for admins
+<7:46:10 PM> ixmike88->Main: amnd mods i think
+<7:46:11 PM> ixmike88->Main:  /mute
+<7:46:24 PM> whd.Mark->Main: /mute ixmike88
+<7:46:27 PM> ixmike88->Main: dfc
+<7:46:27 PM> ixmike88->Main: sdf
+<7:46:27 PM> ixmike88->Main: fds
+<7:46:27 PM> ixmike88->Main: fds
+<7:46:30 PM> whd.Mark->Main: raped
+<7:46:30 PM> ixmike88->Main: /unmute ixmike88
+<7:46:35 PM> whd.Mark->Main: /unmute ixmike88
+<7:46:35 PM> ixmike88->Main: .out
+<7:46:36 PM> ixmike88->Main: .sg
+<7:46:36 PM> Server->ixmike88: You are already in the game ixdl16
+<7:46:36 PM> ixmike88->Main: .sg
+<7:46:36 PM> Server->ixmike88: You are already in the game ixdl16
+<7:46:37 PM> ixmike88->Main: .sg
+<7:46:37 PM> Server->ixmike88: You are already in the game ixdl16
+<7:46:42 PM> ixmike88->Main: cant even unmute msyelf
+<7:46:45 PM> ixmike88->Main: <7:46:27 PM> You are muted
+<7:46:46 PM> whd.Mark->Main: LMAO
+<7:46:50 PM> whd.Mark->Main: better hardcode that in
+<7:46:59 PM> ixmike88->Main: .utb whd.mark
+<7:46:59 PM> Server->Main: ixmike88 has untimebanned whd.Mark.
+<7:47:04 PM> ixmike88->Main: .warn whd.mark 15 dujmbass
+<7:47:04 PM> Server->Main: ixmike88 has added 15 warns to whd.Mark [15/10]
+<7:47:04 PM> Server->Main: whd.Mark has been timebanned by Server for 240 hours. Reason: Exceeded warns. 
+<7:47:06 PM> whd.Mark->Main: .modresult 16 1
+<7:47:06 PM> Server->whd.Mark: You are timebanned for: 9 days 23 hours and 59 minutes. Reason: Exceeded warns. 
+<7:47:08 PM> whd.Mark->Main: FUCK
+<7:47:18 PM> ixmike88->Main: .stats whd.mark
+<7:47:18 PM> Server->ixmike88: whd.Mark(Admin) :: [Rating: 1102 | Rank: 1/17] :: [Record: 4-1 (80%) | Streak: 4] :: [MVPs: 0 | Censures: 0] :: [Warns: 9] :: [Voucher: ixmike88]
+<7:47:18 PM> whd.Mark->Main: jesus man
+<7:47:21 PM> whd.Mark->Main: when do you wanna launch
+<7:47:25 PM> ixmike88->Main: duno
+<7:47:26 PM> ixmike88->Main: wehnevr uw ant
+<7:47:30 PM> whd.Mark->Main: ill get a server tonight if you want
+<7:47:31 PM> ixmike88->Main: ive got a ton of ideas
+<7:47:40 PM> ixmike88->Main: tuesdays and thursdays are my free days
+<7:47:49 PM> ixmike88->Main: aka tomorrow
+<7:47:58 PM> ixmike88->Main: .mr 16 1
+<7:48:03 PM> ixmike88->Main: .modreport 16 1
+<7:48:03 PM> Server->Main: ixmike88 has resulted ixdl16
+<7:48:03 PM> Server->Main: The Radiant have won the game!
+<7:48:03 PM> Server->Main: [ixdl16] Radiant: ixmike88[+33], moon[+39], whd.Mark[+32], Anacletus[+34], Felony[+34]
+<7:48:03 PM> Server->Main: [ixdl16] Dire: kzz[-36], Shaang[-35], Febby[-34], jgsc[-33], F4L[-35]
+<7:48:10 PM> whd.Mark->Main: 125gb of bandwidth
+<7:48:15 PM> whd.Mark->Main: gonna be enuff?
+<7:48:22 PM> ixmike88->Main: no idea
+<7:48:33 PM> ixmike88->Main: remember that other league
+<7:48:34 PM> whd.Mark->Main: i got tomm off too
+<7:48:39 PM> ixmike88->Main: we used like 650 gb a month
+<7:48:42 PM> whd.Mark->Main: LMAO
+<7:48:44 PM> whd.Mark->Main: and that was without
+<7:48:46 PM> whd.Mark->Main: chat client
+<7:48:48 PM> ixmike88->Main: ghost tho
+<7:48:49 PM> whd.Mark->Main: hosting 300 ppl
+<7:48:51 PM> whd.Mark->Main: yea
+<7:48:55 PM> ixmike88->Main: thats gotta be more
+<7:49:03 PM> whd.Mark->Main: yea it hosted games
+<7:49:11 PM> ixmike88->Main: well.
+<7:49:13 PM> ixmike88->Main: only one way to find out 
+<7:49:28 PM> whd.Mark->Main: 32mbit or 64mbit
+<7:49:30 PM> whd.Mark->Main: windows
+<7:49:37 PM> ixmike88->Main: 64 why not
+<7:49:43 PM> ixmike88->Main: iu wanted to do like a 10 man test
+<7:49:45 PM> ixmike88->Main: tos ee if naything breaks
+<7:49:47 PM> ixmike88->Main: i found a lot of bugs last itme
+<7:49:49 PM> ixmike88->Main: with like 6 people
+<7:50:43 PM> whd.Mark->Main: ya
+<7:51:02 PM> ixmike88->Main: wanna bring sly
+<7:52:15 PM> ixmike88->Main: are u abotu to go dota
+<7:53:03 PM> whd.Mark->Main: yea
+<7:53:05 PM> whd.Mark->Main: i told sly
+<7:53:09 PM> whd.Mark->Main: ok
+<7:53:10 PM> whd.Mark->Main: one min
+<7:53:19 PM> whd.Mark->Main: sly said he will help too
+<7:54:13 PM> whd.Mark->Main: ok
+<7:54:15 PM> whd.Mark->Main: i got server
+<7:54:33 PM> ixmike88->Main: u know the game chats
+<7:54:36 PM> ixmike88->Main: the private room
+<7:54:40 PM> ixmike88->Main: i wanted to add ally and all chat in thenre too
+<7:55:58 PM> whd.Mark->Main: ya
+<7:56:08 PM> ixmike88->Main: and soeome suggsedted
+<7:56:09 PM> whd.Mark->Main: can you do that
+<7:56:11 PM> ixmike88->Main: make the background and text and all that ui shit
+<7:56:15 PM> ixmike88->Main: all customizable color
+<7:56:16 PM> ixmike88->Main: s
+<7:56:17 PM> whd.Mark->Main: ya
+<7:56:19 PM> whd.Mark->Main: thatd be good
+<7:56:23 PM> whd.Mark->Main: mike i gave you login info
+<7:56:26 PM> whd.Mark->Main: so server will be tere
+<7:56:27 PM> ixmike88->Main: ?
+<7:56:27 PM> whd.Mark->Main: when its maed
+<7:56:28 PM> ixmike88->Main: huh already
+<7:56:59 PM> ixmike88->Main: do u see anytihng miossing
+<7:57:00 PM> ixmike88->Main: for a launch
+<7:57:31 PM> ixmike88->Main: i need a ixdl exe icon
+<7:58:25 PM> ixmike88->Main: .sg
+<7:58:25 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<7:58:28 PM> ixmike88->Main: .out
+<7:58:28 PM> Server->Main: ixmike88 has aborted ixdl17.
+<7:58:30 PM> ixmike88->Main: .fake test sg
+<7:58:30 PM> Server->Main: test has opened signups for a ixmike Dota League game! Mode is CM.
+<7:58:30 PM> ixmike88->Main: .s ixdl17
+<7:58:30 PM> Server->Main: [ixdl17] ixmike88 has joined the game
+<7:58:34 PM> ixmike88->Main: .fa
+<7:58:34 PM> Server->Main: ixmike88 has forceaborted ixdl17.
+<8:00:59 PM> whd.Mark->Main: ya
+<8:01:01 PM> whd.Mark->Main: we need an icon
+<8:01:03 PM> whd.Mark->Main: we need a name
+<8:07:03 PM> ixmike88->Main: .sg
+<8:07:03 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:07:11 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:07:19 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:07:20 PM> ixmike88->Main: .sg
+<8:07:20 PM> Server->ixmike88: You are already in the game ixdl17
+<8:07:27 PM> ixmike88->Main: .fake whd.Mark s
+<8:07:27 PM> Server->whd.Mark: You are timebanned for: 9 days 23 hours and 39 minutes. Reason: Exceeded warns. 
+<8:07:29 PM> ixmike88->Main: .fake whd.makr s
+<8:07:29 PM> Server->whd.makr: You are not vouched
+<8:07:31 PM> ixmike88->Main: .fake whd.mark s
+<8:07:31 PM> Server->whd.Mark: You are timebanned for: 9 days 23 hours and 39 minutes. Reason: Exceeded warns. 
+<8:07:31 PM> ixmike88->Main: .lp
+<8:07:31 PM> Server->Main: [ixdl17] [Players: (1) ixmike88(1098)]
+<8:07:34 PM> ixmike88->Main: .fake whd.mark sign
+<8:07:34 PM> Server->whd.Mark: You are timebanned for: 9 days 23 hours and 39 minutes. Reason: Exceeded warns. 
+<8:07:41 PM> ixmike88->Main: .utb whd.mark
+<8:07:41 PM> Server->Main: ixmike88 has untimebanned whd.Mark.
+<8:07:45 PM> ixmike88->Main: .fake whd.Mark sign
+<8:07:45 PM> Server->Main: [ixdl17] whd.Mark has joined the game
+<8:07:47 PM> ixmike88->Main: .fake felony s
+<8:07:47 PM> Server->Main: [ixdl17] Felony has joined the game
+<8:07:48 PM> ixmike88->Main: .fake kzz s
+<8:07:48 PM> Server->Main: [ixdl17] kzz has joined the game
+<8:07:49 PM> ixmike88->Main: .fake moon s
+<8:07:49 PM> Server->Main: [ixdl17] moon has joined the game
+<8:07:51 PM> ixmike88->Main: .fake jgsc s
+<8:07:51 PM> Server->Main: [ixdl17] jgsc has joined the game
+<8:07:53 PM> ixmike88->Main: .fake anacletus s
+<8:07:53 PM> Server->Main: [ixdl17] Anacletus has joined the game
+<8:07:58 PM> ixmike88->Main: .fake f4l s
+<8:07:58 PM> Server->Main: [ixdl17] F4L has joined the game
+<8:07:59 PM> ixmike88->Main: .fake live s
+<8:07:59 PM> Server->Main: [ixdl17] Live has joined the game
+<8:08:02 PM> ixmike88->Main: .fake bulba123 s
+<8:08:02 PM> Server->Main: [ixdl17] bulba123 has joined the game
+<8:08:02 PM> Server->Main: [ixdl17] Game is full. ixmike88 can type .confirm to start the game.
+<8:08:03 PM> ixmike88->Main: .cf
+<8:08:03 PM> Server->Main: [ixdl17] [Radiant: ixmike88, Felony, moon, Anacletus, F4L] [5035] | [Dire: whd.Mark, kzz, jgsc, Live, bulba123] [5036]
+<8:08:03 PM> Server->ixdl17: [ixdl17] [Radiant: ixmike88, Felony, moon, Anacletus, F4L] [5035] | [Dire: whd.Mark, kzz, jgsc, Live, bulba123] [5036]
+<8:08:04 PM> ixmike88->ixdl17: dsfs
+<8:08:04 PM> ixmike88->ixdl17: sfd
+<8:08:04 PM> ixmike88->ixdl17: fds
+<8:08:15 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:08:16 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:08:18 PM> ixmike88->ixdl17: sdfg
+<8:08:43 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:09:03 PM> Loading user database...
+<8:09:03 PM> Listening for clients..
+<8:09:03 PM> Player list added
+<8:09:03 PM> League connected
+<8:09:04 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:09:06 PM> ixmike88->ixdl17: sdf
+<8:09:31 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<8:09:31 PM> whd.Mark (24.247.146.240) (00:1F:D0:D8:87:E7) has connected.
+<8:54:47 PM> moon->Main: .r radiant
+<8:54:47 PM> Server->ixdl17: moon has resulted radiant.
+<8:54:54 PM> moon->Main: .sg
+<8:54:54 PM> Server->moon: You are already in the game ixdl17
+<10:26:58 PM> whd.Mark (24.247.146.240) has disconnected.
+<10:54:08 PM> moon (129.116.33.222) has disconnected.
+<10:56:11 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.

@@ -1,0 +1,756 @@
+<3:16:06 PM> ixmike88->Main: ?
+<4:10:33 PM> moon->Main: .?
+<4:10:37 PM> ixmike88->Main: ?
+<4:10:56 PM> ixmike88->Main: i mneed more room
+<4:10:57 PM> ixmike88->Main: in the gui
+<4:11:25 PM> ixmike88->Main: i also dont know how timebans shoudl be setup.
+<4:11:28 PM> ixmike88->Main: but i think thats a matter for brinkman
+<4:13:13 PM> moon->Main: the pending games box could be smaller
+<4:13:18 PM> ixmike88->Main: dont think so
+<4:13:42 PM> ixmike88->Main: .fake bulba123 sg
+<4:13:42 PM> Server->Main: bulba123 is already in the game ixdl14
+<4:13:46 PM> ixmike88->Main: .fake test sg
+<4:13:51 PM> moon->Main: idk. you could squeeze something small up there
+<4:13:55 PM> moon->Main: what do you need to put in
+<4:14:00 PM> ixmike88->Main: buttons
+<4:14:05 PM> ixmike88->Main: ?
+<4:14:06 PM> ixmike88->Main: did my db die
+<4:14:07 PM> ixmike88->Main: .stats
+<4:14:07 PM> Server->Main: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<4:14:08 PM> ixmike88->Main: .lp
+<4:14:09 PM> ixmike88->Main: .lp
+<4:14:10 PM> ixmike88->Main: it did
+<4:14:17 PM> moon->Main: .stats
+<4:14:17 PM> Server->Main: moon(Voucher) :: [Rating: 770 | Rank: 17/17] :: [Record: 1-6 (14%) | Streak: -6] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<4:14:18 PM> ixmike88->Main: i swore i fixed this.
+<4:15:41 PM> ixmike88->Main: round 3.
+<4:16:09 PM> Listening for clients..
+<4:16:09 PM> Loading user database...
+<4:16:09 PM> Player list added
+<4:16:09 PM> League connected
+<4:16:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:16:17 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<4:16:18 PM> ixmike88->Main: .lp
+<4:16:18 PM> Server->Main: [ixdl14] Radiant: ixmike88, jgsc, shaang, anacletus, febby [4996] | Dire: whd.Mark, kzz, moon, bulba123, F4L [4971]
+<4:16:21 PM> ixmike88->Main: .fake test sg
+<4:16:21 PM> Server->Main: test has opened signups for a ixmike Dota League game! Mode is CM.
+<4:16:29 PM> ixmike88->Main: .fa
+<4:16:29 PM> Server->Main: ixmike88 has forceaborted ixdl15.
+<4:16:31 PM> ixmike88->Main: .swap test anacletus
+<4:16:34 PM> ixmike88->Main: .swap anacletus test
+<4:16:34 PM> Server->Main: [ixdl14] Anacletus has been swapped out for test
+<4:16:34 PM> Server->ixdl14: [ixdl14] Anacletus has been swapped out for test
+<4:16:39 PM> ixmike88->Main: .fake anacletus sg
+<4:16:39 PM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<4:16:41 PM> ixmike88->Main: ?
+<4:16:42 PM> ixmike88->Main: do i got room
+<4:16:43 PM> ixmike88->Main: maybe i do
+<4:16:55 PM> moon->Main: you can always truncate names
+<4:16:56 PM> ixmike88->Main: .fa
+<4:16:56 PM> Server->Main: ixmike88 has forceaborted ixdl15.
+<4:17:02 PM> ixmike88->Main: .fake anacletus cl zeith
+<4:17:04 PM> moon->Main: long named people are worthless anyways
+<4:17:07 PM> ixmike88->Main: .fake anacletus cl zieth
+<4:17:07 PM> Server->Main: Anacletus has issued a challenge to Zieth! Type .sign to enter.
+<4:17:27 PM> ixmike88->Main: started games got room too.
+<4:17:29 PM> moon->Main: ya
+<4:17:32 PM> moon->Main: and ladder
+<4:18:51 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:18:53 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:19:01 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:19:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:19:33 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:19:37 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:19:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:19:45 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:19:50 PM> ixmike88->Main: .s ixdl15
+<4:19:50 PM> ixmike88->Main: .s ixdl15
+<4:19:50 PM> ixmike88->Main: .s ixdl15
+<4:20:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:20:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:20:08 PM> ixmike88->Main: ok
+<4:20:09 PM> ixmike88->Main: i like this
+<4:20:37 PM> moon->Main: a .startgame button or something
+<4:21:46 PM> ixmike88->Main: i was gunna make a gui for the config
+<4:21:52 PM> ixmike88->Main: do i gotta make another form and have it visible when u load the gui
+<4:21:54 PM> ixmike88->Main: er
+<4:21:55 PM> ixmike88->Main: when u press the button
+<4:21:57 PM> ixmike88->Main: si there a betetr wya to do it
+<4:22:06 PM> moon->Main: what do you mean.
+<4:22:13 PM> ixmike88->Main: like instead of having to edit the txt file
+<4:22:14 PM> moon->Main: like a "settings" menu
+<4:22:15 PM> ixmike88->Main: ya
+<4:22:55 PM> moon->Main: hm
+<4:23:07 PM> moon->Main: dont you just need a "save password" check box
+<4:23:17 PM> moon->Main: what else do you need to be able to change
+<4:23:55 PM> ixmike88->Main: ?
+<4:23:55 PM> ixmike88->Main: no
+<4:24:02 PM> ixmike88->Main: u agree to save ur pw when u type it into the config
+<4:24:36 PM> ixmike88->Main: ?
+<4:24:39 PM> ixmike88->Main: wait does it do it even if u dont type it
+<4:24:46 PM> moon->Main: yeah
+<4:24:47 PM> moon->Main: auto saved
+<4:24:48 PM> ixmike88->Main: oops
+<4:24:56 PM> moon->Main: it saves wrong passwords too
+<4:26:55 PM> ixmike88->Main: watever.
+<4:27:19 PM> ixmike88->Main: how do u think it should bv e
+<4:27:26 PM> ixmike88->Main: if the txt file pw field is blank then dont save it?
+<4:27:28 PM> ixmike88->Main: or should it be an option
+<4:27:40 PM> ixmike88->Main: why would it be filled out and not save pw though
+<4:27:45 PM> moon->Main: idk
+<4:27:55 PM> moon->Main: its probably ok as it is
+<4:29:57 PM> ixmike88->Main: im gunna hcange it to where if the pw spot is null in the txt file it wont save it
+<4:30:17 PM> ixmike88->Main: that was my original intent anwyay
+<4:30:20 PM> ixmike88->Main: before this hashing shit
+<4:30:21 PM> moon->Main: did you figure out how to get the start bar to flash
+<4:30:26 PM> ixmike88->Main: i read how
+<4:30:29 PM> ixmike88->Main: i didnt want to do it though
+<4:30:30 PM> ixmike88->Main: looked annoying
+<4:31:08 PM> moon->Main: looked annoying to code or looked annoying to use
+<4:32:04 PM> ixmike88->Main: to code
+<5:38:46 PM>  () has disconnected.
+<5:57:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:57:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:57:01 PM> System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at gameServer.League.SetUserInGame(String name, User u) in e:\chat client\trunk\Server\gameServer\League.cs:line 165
+<5:58:44 PM> Loading user database...
+<5:58:44 PM> Listening for clients..
+<5:58:44 PM> Player list added
+<5:58:44 PM> League connected
+<5:58:45 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:58:58 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:58:59 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:59:10 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:59:12 PM> Loading user database...
+<5:59:12 PM> Player list added
+<5:59:12 PM> League connected
+<5:59:12 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:59:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:01:58 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:01:59 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:03:31 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:03:33 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:03:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:04:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:05:30 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:05:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:05:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:06:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:06:04 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:06:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:07:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:07:36 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:07:44 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:07:53 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:08:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:08:16 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:08:20 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:08:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:08:30 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:08:43 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:08:48 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:09:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:09:07 PM> System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at gameServer.League.SetUserInGame(String name, User u) in e:\chat client\trunk\Server\gameServer\League.cs:line 165
+<6:09:17 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:14:37 PM> Loading user database...
+<6:14:37 PM> Listening for clients..
+<6:14:37 PM> Player list added
+<6:14:37 PM> League connected
+<6:14:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:14:48 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:15:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:15:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:15:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:16:20 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:16:25 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:16:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:16:39 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:17:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:17:19 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:17:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:17:37 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:17:43 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:17:46 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:18:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:18:19 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:18:28 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:18:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:18:38 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:18:42 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:18:48 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:19:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:20:27 PM> moon->Main: .r draw
+<6:26:57 PM> Loading user database...
+<6:26:57 PM> Player list added
+<6:26:57 PM> League connected
+<6:27:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:27:06 PM> System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at gameServer.League.SetUserInGame(String name, User u) in e:\chat client\trunk\Server\gameServer\League.cs:line 165
+<6:27:26 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:32:21 PM> Loading user database...
+<6:32:21 PM> Listening for clients..
+<6:32:21 PM> Player list added
+<6:32:21 PM> League connected
+<6:32:49 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:54:44 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:54:52 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:55:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:55:15 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:55:21 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:55:25 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:29:15 PM> moon (129.116.33.222) has disconnected.
+<7:46:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:49:33 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:49:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:50:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:50:51 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:50:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:50:59 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:51:02 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:51:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:51:23 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:51:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:51:52 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:52:20 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:52:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:53:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:53:10 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:53:12 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:53:27 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:53:55 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:53:56 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:54:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:54:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:00:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:01:00 PM>  () has disconnected.
+<8:01:04 PM>  () has disconnected.
+<8:01:04 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:01:04 PM> NO PING: ixmike88(99.7.74.79)
+<8:01:09 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:01:19 PM> ixmike88->Main: .out
+<8:01:20 PM> ixmike88->Main: .sg
+<8:01:20 PM> Server->Main: ixmike88 is already in the game ixdl14
+<8:01:20 PM> ixmike88->Main: .sg
+<8:01:20 PM> Server->Main: ixmike88 is already in the game ixdl14
+<8:01:20 PM> ixmike88->Main: .sg
+<8:01:20 PM> Server->Main: ixmike88 is already in the game ixdl14
+<8:01:23 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:16:31 PM> Loading user database...
+<8:16:31 PM> Listening for clients..
+<8:16:31 PM> Player list added
+<8:16:31 PM> League connected
+<8:28:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:28:51 PM> ixmike88->Main: .sg
+<8:28:51 PM> Server->ixmike88: You are already in the game ixdl14
+<8:28:52 PM> ixmike88->Main: .out
+<8:28:52 PM> ixmike88->Main: .out
+<8:28:53 PM> ixmike88->Main: .out
+<8:28:53 PM> ixmike88->Main: .out
+<8:28:56 PM> ixmike88->Main: .cg 14
+<8:28:56 PM> Server->Main: ixmike88 has drawn ixdl14
+<8:28:56 PM> Server->Main: [ixdl14] Game has been drawn.
+<8:28:58 PM> ixmike88->Main: .sg
+<8:28:58 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:28:58 PM> ixmike88->Main: .out
+<8:28:58 PM> Server->Main: ixmike88 has aborted ixdl15.
+<8:28:59 PM> ixmike88->Main: .sg
+<8:28:59 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:29:00 PM> ixmike88->Main: .out
+<8:29:00 PM> Server->Main: ixmike88 has aborted ixdl15.
+<8:29:00 PM> ixmike88->Main: .out
+<8:29:00 PM> ixmike88->Main: .out
+<8:29:05 PM> ixmike88->Main: .sg
+<8:29:05 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:29:05 PM> ixmike88->Main: .sg
+<8:29:05 PM> Server->ixmike88: You are already in the game ixdl15
+<8:29:05 PM> ixmike88->Main: .sg
+<8:29:05 PM> Server->ixmike88: You are already in the game ixdl15
+<8:29:05 PM> ixmike88->Main: .sg
+<8:29:05 PM> Server->ixmike88: You are already in the game ixdl15
+<8:29:06 PM> ixmike88->Main: .out
+<8:29:06 PM> Server->Main: ixmike88 has aborted ixdl15.
+<8:29:49 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:29:52 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:30:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:31:12 PM>  () has disconnected.
+<8:31:42 PM>  () has disconnected.
+<8:32:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:32:16 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:32:17 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:33:20 PM>  () has disconnected.
+<8:36:41 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:36:57 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:37:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:37:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:37:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:37:20 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:37:24 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:37:28 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:38:25 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<8:38:37 PM> moon (129.116.33.222) has disconnected.
+<8:39:36 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:40:54 PM> Loading user database...
+<8:40:54 PM> Listening for clients..
+<8:40:54 PM> Player list added
+<8:40:54 PM> League connected
+<8:40:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:40:58 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:41:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:44:20 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<8:44:23 PM> moon->Main: .sg
+<8:44:23 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<8:45:03 PM> moon->Main: .out
+<8:45:03 PM> Server->Main: moon has aborted ixdl15.
+<8:45:24 PM> ixmike88->Main: .sg
+<8:45:24 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<8:45:24 PM> ixmike88->Main: .sg
+<8:45:24 PM> Server->ixmike88: You are already in the game ixdl15
+<8:45:24 PM> ixmike88->Main: .sg
+<8:45:24 PM> Server->ixmike88: You are already in the game ixdl15
+<8:45:24 PM> ixmike88->Main: .sg
+<8:45:24 PM> Server->ixmike88: You are already in the game ixdl15
+<8:45:25 PM> ixmike88->Main: .sg
+<8:45:25 PM> Server->ixmike88: You are already in the game ixdl15
+<8:45:25 PM> ixmike88->Main: .out
+<8:45:25 PM> Server->Main: ixmike88 has aborted ixdl15.
+<8:45:25 PM> ixmike88->Main: .out
+<8:45:25 PM> ixmike88->Main: .out
+<8:45:26 PM> ixmike88->Main: .out
+<8:45:26 PM> ixmike88->Main: .out
+<8:45:26 PM> ixmike88->Main: .out
+<8:47:37 PM> moon->Main: .sg
+<8:47:37 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<8:48:36 PM> moon->Main: .out
+<8:48:36 PM> Server->Main: moon has aborted ixdl15.
+<8:51:53 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:51:55 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:52:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:52:30 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:52:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:52:36 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:52:38 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:56:45 PM> Loading user database...
+<8:56:45 PM> Listening for clients..
+<8:56:45 PM> Player list added
+<8:56:45 PM> League connected
+<8:56:49 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:56:51 PM> ixmike88->Main: ./lp
+<8:56:51 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<8:56:53 PM> ixmike88->Main: dfs
+<8:56:54 PM> ixmike88->Main: fds
+<8:56:54 PM> ixmike88->Main: .lp
+<8:56:54 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<8:57:13 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<8:57:22 PM> ixmike88->Main: .sg
+<8:57:22 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<8:57:23 PM> ixmike88->Main: .sg
+<8:57:23 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<8:57:23 PM> ixmike88->Main: .sg
+<8:57:23 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<8:57:23 PM> ixmike88->Main: .sg
+<8:57:23 PM> Server->ixmike88: You are timebanned until 2/12/2013 9:06:12 PM
+<9:01:10 PM> Loading user database...
+<9:01:10 PM> Listening for clients..
+<9:01:10 PM> Player list added
+<9:01:10 PM> League connected
+<9:01:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:01:14 PM> ixmike88->Main: .
+<9:01:14 PM> Server->ixmike88: You are timebanned for 4.9667 more minutes.
+<9:01:15 PM> ixmike88->Main: .
+<9:01:15 PM> Server->ixmike88: You are timebanned for 4.9500 more minutes.
+<9:01:15 PM> ixmike88->Main: .
+<9:01:15 PM> Server->ixmike88: You are timebanned for 4.9500 more minutes.
+<9:01:39 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:03:36 PM> Listening for clients..
+<9:03:36 PM> Loading user database...
+<9:03:36 PM> Player list added
+<9:03:36 PM> League connected
+<9:03:38 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:03:40 PM> ixmike88->Main: .out
+<9:03:40 PM> ixmike88->Main: .out
+<9:03:40 PM> ixmike88->Main: .out
+<9:03:41 PM> ixmike88->Main: .sg
+<9:03:41 PM> ixmike88->Main: .sg
+<9:03:41 PM> ixmike88->Main: .sg
+<9:03:45 PM> ixmike88->Main: .sg
+<9:03:46 PM> ixmike88->Main: .sg
+<9:03:46 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:04:07 PM> Loading user database...
+<9:04:07 PM> Listening for clients..
+<9:04:07 PM> Player list added
+<9:04:07 PM> League connected
+<9:04:08 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:04:14 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:04:15 PM> ixmike88->Main: .sg
+<9:04:15 PM> Server->ixmike88: You are timebanned for 2 more minutes.
+<9:12:38 PM> Loading user database...
+<9:12:38 PM> Listening for clients..
+<9:12:38 PM> Player list added
+<9:12:38 PM> League connected
+<9:12:40 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:12:41 PM> ixmike88->Main: .lp
+<9:12:43 PM> ixmike88->Main: .sg
+<9:12:43 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<9:12:44 PM> ixmike88->Main: .out
+<9:12:44 PM> Server->Main: ixmike88 has aborted ixdl15.
+<9:13:05 PM>  () has disconnected.
+<9:13:07 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:13:09 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:13:12 PM> test->Main: .stats
+<9:13:12 PM> Server->Main: test(Moderator) :: [Rating: 1000 | Rank: 8/17] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<9:13:19 PM> ixmike88->Main: .timeban test 5
+<9:13:26 PM> ixmike88->Main: .timeban test 5 suck
+<9:13:30 PM> test->Main: sdf
+<9:13:32 PM> test->Main: .dsflp
+<9:13:33 PM> test->Main: .lp
+<9:14:10 PM> Loading user database...
+<9:14:10 PM> Listening for clients..
+<9:14:10 PM> Player list added
+<9:14:10 PM> League connected
+<9:14:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:14:13 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:14:17 PM> ixmike88->Main: .timeban test 5 cunt
+<9:14:32 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:14:58 PM> ixmike88->Main: .timeban test 5 cunt
+<9:15:03 PM> Server->Main: test has been timebanned by ixmike88 for 5 hours.
+<9:15:19 PM> test->Main: .lp
+<9:15:19 PM> Server->test: You are timebanned for 300 more minutes.
+<9:15:19 PM> test->Main: .lp
+<9:15:19 PM> Server->test: You are timebanned for 300 more minutes.
+<9:15:20 PM> test->Main: .lp
+<9:15:20 PM> Server->test: You are timebanned for 300 more minutes.
+<9:16:08 PM> ixmike88->Main: .utb test
+<9:16:08 PM> Server->ixmike88: You are timebanned for 299 more minutes.
+<9:16:15 PM> ixmike88->Main: dsf
+<9:16:19 PM> ixmike88->Main: .sg
+<9:16:19 PM> Server->ixmike88: You are timebanned for 299 more minutes.
+<9:16:19 PM> ixmike88->Main: .sg
+<9:16:19 PM> Server->ixmike88: You are timebanned for 299 more minutes.
+<9:16:20 PM> ixmike88->Main: .sg
+<9:16:20 PM> Server->ixmike88: You are timebanned for 299 more minutes.
+<9:17:04 PM> ixmike88->Main: fds
+<9:17:06 PM> ixmike88->Main: .utb test
+<9:17:06 PM> Server->ixmike88: You are timebanned for 298 more minutes.
+<9:17:19 PM> ixmike88->Main: sdf
+<9:17:20 PM> ixmike88->Main: .?
+<9:17:20 PM> Server->ixmike88: You are timebanned for 298 more minutes.
+<9:17:35 PM> ixmike88->Main: .?
+<9:17:57 PM> Server->ixmike88: You are timebanned for 297 more minutes.
+<9:18:04 PM> ixmike88->Main: .utb test
+<9:18:24 PM> ixmike88->Main: ?
+<9:18:25 PM> ixmike88->Main: .utb test
+<9:18:33 PM> test->Main: .out
+<9:18:33 PM> Server->test: You are timebanned for 296 more minutes.
+<9:18:34 PM> test->Main: .out
+<9:18:34 PM> Server->test: You are timebanned for 296 more minutes.
+<9:18:34 PM> test->Main: .out
+<9:18:34 PM> Server->test: You are timebanned for 296 more minutes.
+<9:18:34 PM> test->Main: .out
+<9:18:34 PM> Server->test: You are timebanned for 296 more minutes.
+<9:18:56 PM> ixmike88->Main: .utb test
+<9:19:31 PM> ixmike88->Main: .utb test
+<9:19:43 PM> Server->Main: ixmike88 has untimebanned test.
+<9:19:47 PM> test->Main: .sg
+<9:19:47 PM> Server->Main: test has opened signups for a ixmike Dota League game! Mode is CM.
+<9:19:48 PM> test->Main: .out
+<9:19:48 PM> Server->Main: test has aborted ixdl15.
+<9:19:54 PM> moon->Main: ?
+<9:20:03 PM> ixmike88->Main: testing soz
+<9:20:27 PM> moon->Main: well im just gonna turn down the client in mixer
+<9:20:31 PM> moon->Main: that scared me
+<9:20:31 PM> moon->Main: lmao
+<9:20:33 PM> test->Main: h8r
+<9:20:46 PM> ixmike88->Main: .warn test 3
+<9:20:51 PM> moon->Main: it was already on 50%
+<9:20:54 PM> moon->Main: still rly loud
+<9:20:57 PM> moon->Main: .sg
+<9:20:57 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<9:21:02 PM> moon->Main: .out
+<9:21:02 PM> Server->Main: moon has aborted ixdl15.
+<9:21:13 PM> moon->Main: .sg
+<9:21:13 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<9:21:16 PM> ixmike88->Main: .warn test 4
+<9:21:19 PM> moon->Main: k
+<9:21:19 PM> Server->Main: Added 0 warns to test [0/10]
+<9:21:19 PM> moon->Main: .out
+<9:21:19 PM> Server->Main: moon has aborted ixdl15.
+<9:21:32 PM> ixmike88->Main: .warn test cunt
+<9:21:35 PM> Server->ixmike88: Usage: .warn <name> <warns> <reason>
+<9:21:41 PM> ixmike88->Main: .warn test 5 cunt
+<9:21:43 PM> Server->Main: Added 0 warns to test [0/10]
+<9:22:09 PM> ixmike88->Main: .warn test 5 cunt
+<9:22:41 PM> Server->Main: Added 0 warns to test [0/10]
+<9:23:28 PM> ixmike88->Main: .warn test 5 cunt
+<9:24:01 PM> Server->Main: ixmike88 has Added 5 warns to test [5/10]
+<9:24:14 PM> ixmike88->Main: .warn test 6 cunt
+<9:24:27 PM> ixmike88->Main: .warn test 6 cunt
+<9:24:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:24:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:25:06 PM> ixmike88->Main: .warn test 5 cunt
+<9:26:00 PM> ixmike88->Main: .warn test 6 cunt
+<9:28:59 PM> Loading user database...
+<9:28:59 PM> Listening for clients..
+<9:28:59 PM> Player list added
+<9:28:59 PM> League connected
+<9:29:09 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:29:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:29:18 PM> ixmike88->Main: .warn test 6 cunt
+<9:29:22 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:29:22 PM> Server->Main: ixmike88 has added 6 warns to test [11/10]
+<9:29:22 PM>  () has disconnected.
+<9:29:32 PM> ixmike88->Main: .warn test 4 cunt
+<9:29:34 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:32:49 PM> moon (129.116.33.222) has disconnected.
+<9:32:49 PM> NO PING: moon(129.116.33.222)
+<9:32:50 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:32:53 PM> moon (129.116.33.222) has disconnected.
+<9:33:19 PM> ixmike88->Main: .warn test 4 cunt
+<9:33:28 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:33:53 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:33:53 PM> NO PING: ixmike88(99.7.74.79)
+<9:33:55 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:34:04 PM> ixmike88->Main: .warn test cunt 4
+<9:34:24 PM> ixmike88->Main: .warn test 4 cunt
+<9:34:45 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:35:08 PM> ixmike88->Main: .warn test 4 cunt
+<9:35:08 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:35:23 PM> ixmike88->Main: .warn test 4 cunt
+<9:35:23 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:35:49 PM> ixmike88->Main: .warn test 4 cunt
+<9:35:49 PM> Server->Main: ixmike88 has added 4 warns to test [13/10]
+<9:36:36 PM> Server->Main: test has been timebanned by Server for 144 hours.
+<9:40:33 PM> Listening for clients..
+<9:40:33 PM> Loading user database...
+<9:40:33 PM> Player list added
+<9:40:33 PM> League connected
+<9:40:36 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:40:38 PM> test->Main: .lp
+<9:40:38 PM> Server->test: hh\h\:mm\m\:ss\s\:fff\m\sReason: Exceeded warns. 
+<9:40:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:41:06 PM> Loading user database...
+<9:41:06 PM> Listening for clients..
+<9:41:06 PM> Player list added
+<9:41:06 PM> League connected
+<9:41:07 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:41:08 PM> test (99.7.74.79) has disconnected.
+<9:41:10 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:41:10 PM> test->Main: .sg
+<9:41:10 PM> Server->test: 23h:55m:25s:998msReason: Exceeded warns. 
+<9:41:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:55:40 PM> Loading user database...
+<9:55:40 PM> Listening for clients..
+<9:55:40 PM> Player list added
+<9:55:40 PM> League connected
+<9:55:44 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:55:45 PM> test->Main: .sg
+<9:55:45 PM> Server->test: You are timebanned for: 23 hours and 40 minutes. Reason: Exceeded warns. 
+<9:56:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:56:10 PM> ixmike88->Main: .utb test
+<9:56:10 PM> Server->Main: ixmike88 has untimebanned test.
+<9:56:15 PM> test->Main: .sg
+<9:56:15 PM> Server->Main: test has opened signups for a ixmike Dota League game! Mode is CM.
+<9:56:21 PM> ixmike88->Main: .tb test 1 cunt
+<9:56:21 PM> Server->Main: test has been timebanned by ixmike88 for 1 hours. Reason: cunt 
+<9:56:23 PM> test->Main: .out
+<9:56:23 PM> Server->test: You are timebanned for: 00 hours and 59 minutes. Reason: cunt 
+<9:59:40 PM> Listening for clients..
+<9:59:40 PM> Loading user database...
+<9:59:40 PM> Player list added
+<9:59:40 PM> League connected
+<9:59:46 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:59:48 PM> test->Main: .sg
+<9:59:48 PM> test->Main: .sg
+<9:59:49 PM> test->Main: .sg
+<9:59:49 PM> test->Main: .sg
+<10:00:02 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:00:11 PM> Loading user database...
+<10:00:11 PM> Listening for clients..
+<10:00:11 PM> Player list added
+<10:00:11 PM> League connected
+<10:00:16 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:00:16 PM> test->Main: .sg
+<10:00:16 PM> Server->test: You are timebanned for: 00 hours and 56 minutes. Reason: cunt 
+<10:00:17 PM> test->Main: .sg
+<10:00:17 PM> Server->test: You are timebanned for: 00 hours and 56 minutes. Reason: cunt 
+<10:00:17 PM> test->Main: .sg
+<10:00:17 PM> Server->test: You are timebanned for: 00 hours and 56 minutes. Reason: cunt 
+<10:00:39 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:02:26 PM> ixmike88->Main: .utb test
+<10:02:26 PM> Server->Main: ixmike88 has untimebanned test.
+<10:02:33 PM> ixmike88->Main: .timeban test 123 cunt
+<10:02:33 PM> Server->Main: test has been timebanned by ixmike88 for 123 hours. Reason: cunt 
+<10:02:39 PM> test->Main: .sg
+<10:02:39 PM> Server->test: You are timebanned for: 02 hours and 59 minutes. Reason: cunt 
+<10:02:40 PM> test->Main: .sg
+<10:02:40 PM> Server->test: You are timebanned for: 02 hours and 59 minutes. Reason: cunt 
+<10:02:58 PM> Loading user database...
+<10:02:58 PM> Listening for clients..
+<10:02:58 PM> Player list added
+<10:02:58 PM> League connected
+<10:03:07 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:03:07 PM> test->Main: .sg
+<10:03:08 PM> test->Main: .sg
+<10:03:08 PM> test->Main: .sg
+<10:03:09 PM> test->Main: .out
+<10:03:26 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:12:18 PM> Listening for clients..
+<10:12:18 PM> Loading user database...
+<10:12:18 PM> Player list added
+<10:12:18 PM> League connected
+<10:12:22 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:12:26 PM> test->Main: .sg
+<10:12:27 PM> test->Main: .sg
+<10:12:27 PM> test->Main: .sg
+<10:12:46 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:13:10 PM> Loading user database...
+<10:13:10 PM> Listening for clients..
+<10:13:10 PM> Player list added
+<10:13:10 PM> League connected
+<10:13:12 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:13:12 PM> test->Main: .sg
+<10:13:13 PM> test->Main: .sg
+<10:13:13 PM> test->Main: .sg
+<10:13:13 PM> test->Main: .sg
+<10:13:13 PM> test->Main: .out
+<10:13:13 PM> test->Main: .out
+<10:13:20 PM> Loading user database...
+<10:13:20 PM> Listening for clients..
+<10:13:20 PM> Player list added
+<10:13:20 PM> League connected
+<10:13:21 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:13:22 PM> test->Main: .sg
+<10:13:36 PM> test->Main: .sg
+<10:14:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:15:18 PM> Listening for clients..
+<10:15:18 PM> Loading user database...
+<10:15:18 PM> Player list added
+<10:15:18 PM> League connected
+<10:15:51 PM> Invalid packet: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.MySqlDataReader.Close()
+   at MySql.Data.MySqlClient.MySqlConnection.Close()
+   at gameServer.UserDB.checkAccess(String username) in e:\chat client\trunk\Server\gameServer\UserDB.cs:line 105
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 99
+<10:15:51 PM> ixmike88 () has disconnected.
+<10:15:51 PM> Invalid packet: MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.TimeoutException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond ---> System.IO.IOException: Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.Common.MyNetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at MySql.Data.Common.MyNetworkStream.HandleOrRethrowException(Exception e)
+   at MySql.Data.Common.MyNetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.Driver.LoadServerProperties(MySqlConnection connection)
+   at MySql.Data.MySqlClient.Driver.Configure(MySqlConnection connection)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at gameServer.UserDB.checkAuthorization(String username, String password) in e:\chat client\trunk\Server\gameServer\UserDB.cs:line 79
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 90
+<10:15:51 PM>  () has disconnected.
+<10:16:09 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:16:11 PM> ixmike88 (99.7.74.79) has disconnected.
+<10:16:13 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:16:13 PM> test->Main: .sg
+<10:16:13 PM> Server->test: You are timebanned for: 5 days 2 hours and 46 minutes. Reason: cunt 
+<10:16:21 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:16:24 PM> ixmike88->Main: .utb test
+<10:16:24 PM> Server->Main: ixmike88 has untimebanned test.
+<10:16:30 PM> ixmike88->Main: .timeban test 25
+<10:16:30 PM> Server->Main: test has been timebanned by ixmike88 for 25 hours. Reason: 
+<10:16:32 PM> test->Main: .sg
+<10:16:32 PM> Server->test: You are timebanned for: 1 days  59 minutes. Reason: 
+<10:16:50 PM> Loading user database...
+<10:16:50 PM> Listening for clients..
+<10:16:50 PM> Player list added
+<10:16:50 PM> League connected
+<10:16:51 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:16:51 PM> test->Main: .sg
+<10:16:51 PM> Server->test: You are timebanned for: 1 days 59 minutes. Reason: 
+<10:16:57 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:16:59 PM> ixmike88->Main: .utb test
+<10:16:59 PM> Server->Main: ixmike88 has untimebanned test.
+<10:17:02 PM> ixmike88->Main: .timeban test 1.5
+<10:17:02 PM> Server->Main: test has been timebanned by ixmike88 for 1.5 hours. Reason: 
+<10:17:04 PM> test->Main: .sg
+<10:17:04 PM> Server->test: You are timebanned for: 1 hours and 59 minutes. Reason: 
+<10:19:04 PM> Loading user database...
+<10:19:04 PM> Listening for clients..
+<10:19:04 PM> Player list added
+<10:19:04 PM> League connected
+<10:19:11 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:19:12 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:19:15 PM> ixmike88->Main: .timeban cunt 1.5
+<10:19:15 PM> Server->ixmike88: Could not find player cunt
+<10:19:17 PM> ixmike88->Main: .timeban test 1.5
+<10:19:17 PM> Server->ixmike88: test is already timebanned
+<10:19:21 PM> ixmike88->Main: .utb test
+<10:19:21 PM> Server->Main: ixmike88 has untimebanned test.
+<10:19:22 PM> ixmike88->Main: .timeban test 1.5
+<10:19:22 PM> Server->Main: test has been timebanned by ixmike88 for 1.5 hours. Reason: 
+<10:19:28 PM> test->Main: .sg
+<10:19:28 PM> Server->test: You are timebanned for: 1 hours and 29 minutes. Reason: 
+<10:25:34 PM> test (99.7.74.79) has disconnected.
+<10:25:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<10:25:43 PM> Loading user database...
+<10:25:43 PM> Listening for clients..
+<10:25:43 PM> Player list added
+<10:25:43 PM> League connected
+<10:25:44 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:25:46 PM> ixmike88->Main: .stats
+<10:25:46 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:26:40 PM> ixmike88->Main: .sg
+<10:26:40 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<10:26:40 PM> ixmike88->Main: .out
+<10:26:40 PM> Server->Main: ixmike88 has aborted ixdl15.
+<10:26:42 PM> ixmike88->Main: .stats
+<10:26:42 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:26:42 PM> ixmike88->Main: .stats
+<10:26:42 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:26:43 PM> ixmike88->Main: .stats
+<10:26:43 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:26:43 PM> ixmike88->Main: .stats
+<10:26:43 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1065 | Rank: 3/17] :: [Record: 5-3 (62%) | Streak: 2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<10:27:22 PM> ixmike88->Main: .sg
+<10:27:22 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<10:27:23 PM> ixmike88->Main: .sg
+<10:27:23 PM> Server->ixmike88: You are already in the game ixdl15
+<10:27:24 PM> ixmike88->Main: .sg
+<10:27:24 PM> Server->ixmike88: You are already in the game ixdl15
+<10:27:24 PM> ixmike88->Main: .sg
+<10:27:24 PM> Server->ixmike88: You are already in the game ixdl15
+<10:27:24 PM> ixmike88->Main: .sg
+<10:27:24 PM> Server->ixmike88: You are already in the game ixdl15
+<10:27:24 PM> ixmike88->Main: .sg
+<10:27:24 PM> Server->ixmike88: You are already in the game ixdl15
+<10:27:25 PM> ixmike88->Main: .out
+<10:27:25 PM> Server->Main: ixmike88 has aborted ixdl15.

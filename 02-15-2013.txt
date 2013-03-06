@@ -1,0 +1,103 @@
+<1:11:13 AM> ixmike88->Main: ur mom
+<1:41:30 AM> moon->Main: ?
+<1:42:09 AM> moon->Main: staffchat logs too?
+<1:42:10 AM> moon->Main: ixmike88
+<1:42:19 AM> moon->Staff Chat: estestsetestse
+<1:42:32 AM> moon->Main: it does
+<1:42:33 AM> moon->Main: you're legit
+<1:57:00 AM> Loading user database...
+<1:57:00 AM> Listening for clients..
+<1:57:00 AM> Player list added
+<1:57:00 AM> League connected
+<1:57:28 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:57:29 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<1:58:05 AM> ixmike88->Main: .out
+<1:58:05 AM> Server->ixmike88: You are not in a game.
+<1:58:06 AM> ixmike88->Main: .out
+<1:58:06 AM> Server->ixmike88: You are not in a game.
+<1:58:47 AM> ixmike88 (99.7.74.79) has disconnected.
+<1:58:48 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:59:14 AM> ixmike88->Main: im aware
+<12:04:08 PM> moon->Main: ixmike88
+<12:04:11 PM> moon->Main: did you get your server yet
+<12:04:24 PM> ixmike88->Main: no
+<12:04:28 PM> ixmike88->Main: i got fucking dinged though
+<12:18:01 PM> moon->Main: isnt that a good thing
+<12:18:06 PM> moon->Main: working as planned or something
+<2:45:52 PM> ixmike88->Main: ya
+<2:46:06 PM> ixmike88->Main: shoudl it flash when u get dinged
+<2:46:12 PM> ixmike88->Main: i got it flashing if ur not focused on the window and the game starts
+<2:49:12 PM> moon->Main: flashing would be good
+<2:49:14 PM> moon->Main: gl ixmike88
+<5:00:11 PM> moon->Main: grats mike
+<5:08:09 PM>  () has disconnected.
+<5:13:47 PM>  () has disconnected.
+<5:13:52 PM> moon1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:13:59 PM> moon->Main: .vouch moon1
+<5:13:59 PM> Server->Main: moon has vouched moon1.
+<5:14:01 PM> moon1->Main: test
+<5:14:14 PM> moon1->Main: ixmike88
+<5:14:24 PM> moon->Main: this dings
+<5:14:26 PM> moon->Main: every time he talks
+<5:14:29 PM> moon->Main: because my name is in his name
+<5:15:37 PM>  () has disconnected.
+<5:15:43 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:15:55 PM> moon->Main: .vouch moon2
+<5:15:55 PM> Server->moon: moon2 does not have a forum account.
+<5:16:11 PM> moon->Main: .vouch moon2
+<5:16:11 PM> Server->moon: moon2 does not have a forum account.
+<5:16:45 PM> moon->Main: .vouch moon2
+<5:16:45 PM> Server->moon: moon2 does not have a forum account.
+<5:16:54 PM> moon2->Main: est
+<5:16:54 PM> Server->moon2: You are not vouched
+<5:17:17 PM> moon->Main: .vouch moon2
+<5:17:17 PM> Server->moon: moon2 does not have a forum account.
+<5:17:44 PM> moon->Main: .vouch moon2
+<5:17:44 PM> Server->moon: moon2 does not have a forum account.
+<5:18:05 PM> moon->Main: .vouch moon2
+<5:18:05 PM> Server->moon: moon2 does not have a forum account.
+<5:18:39 PM> moon (129.116.33.222) has disconnected.
+<5:18:41 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:18:42 PM> moon2 (129.116.33.222) has disconnected.
+<5:18:45 PM> moon1 (129.116.33.222) has disconnected.
+<5:25:50 PM>  () has disconnected.
+<5:26:07 PM>  () has disconnected.
+<5:26:11 PM> F4L (67.1.26.158) (20:CF:30:E4:21:0A) has connected.
+<5:26:53 PM>  () has disconnected.
+<5:27:04 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:27:13 PM> moon->Main: .vouch moon2
+<5:27:13 PM> Server->moon: moon2 does not have a forum account.
+<5:27:27 PM>  () has disconnected.
+<5:27:50 PM>  () has disconnected.
+<5:27:56 PM> moon1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:28:02 PM> moon1->Main: .sg
+<5:28:02 PM> Server->Main: moon1 has opened signups for a ixmike Dota League game! Mode is CM.
+<5:28:04 PM> moon1->Main: .out
+<5:28:04 PM> Server->Main: moon1 has aborted ixdl22.
+<5:30:56 PM> moon->Staff Chat: name dings should be excluded from other peoples names, ie: i get dings every time moon1 talks
+<5:31:13 PM> moon->Staff Chat: .vouch moon2
+<5:31:13 PM> Server->moon: moon2 does not have a forum account.
+<5:31:36 PM> moon->Staff Chat: <4:30:51 PM> moon2 does not have a forum account.
+<5:31:45 PM> moon->Staff Chat: even though he has to have an account to be able to connect
+<5:32:25 PM> moon2->Main: .sg
+<5:32:25 PM> Server->moon2: You are not vouched
+<5:32:26 PM> moon2->Main: .out
+<5:32:26 PM> Server->moon2: You are not vouched
+<5:32:28 PM> moon1->Main: .out
+<5:32:28 PM> Server->moon1: You are not in a game.
+<5:32:30 PM> moon->Main: .out
+<5:32:30 PM> Server->moon: You are not in a game.
+<5:32:34 PM> moon->Staff Chat: users that arent vouched throw exception errors when they press stats
+<5:32:49 PM> moon->Staff Chat: <4:32:19 PM> Received invalid packet (0x28) from server: System.ArgumentOutOfRangeException: Non-negative number required.
+<5:33:15 PM> moon2 (129.116.33.222) has disconnected.
+<5:33:17 PM> moon1 (129.116.33.222) has disconnected.
+<6:34:36 PM> F4L (67.1.26.158) has disconnected.
+<6:35:20 PM> F4L (67.1.7.190) (20:CF:30:E4:21:0A) has connected.
+<6:36:49 PM> F4L (67.1.7.190) has disconnected.
+<11:15:02 PM> moon->Main: .vouch moon2
+<11:15:02 PM> Server->Main: moon has vouched moon2.
+<11:15:03 PM> moon->Main: oh
+<11:15:04 PM> ixmike88->Main: .vouch moon2
+<11:15:04 PM> Server->ixmike88: moon2 is already vouched by moon.
+<11:15:24 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<11:15:27 PM> moon2->Main: test

@@ -1,0 +1,857 @@
+<8:49:18 AM> ixmike88 (99.7.74.79) has disconnected.
+<8:49:21 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:49:28 AM> ixmike88 (99.7.74.79) has disconnected.
+<9:57:53 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:57:57 AM> ixmike88 (99.7.74.79) has disconnected.
+<9:58:38 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:58:50 AM> ixmike88 (99.7.74.79) has disconnected.
+<9:59:02 AM> Loading user database...
+<9:59:02 AM> Listening for clients..
+<9:59:02 AM> Player list added
+<9:59:02 AM> League connected
+<9:59:06 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:59:09 AM> ixmike88 (99.7.74.79) has disconnected.
+<9:59:10 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:59:24 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:00:22 AM> Loading user database...
+<10:00:22 AM> Listening for clients..
+<10:00:22 AM> Player list added
+<10:00:22 AM> League connected
+<10:00:24 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:01:05 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:01:23 AM> Loading user database...
+<10:01:23 AM> Listening for clients..
+<10:01:23 AM> Player list added
+<10:01:23 AM> League connected
+<10:01:24 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:01:43 AM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<10:02:20 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:02:42 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:02:45 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:06:41 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:06:51 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:07:00 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:07:14 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:07:18 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:07:26 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:20:24 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:20:29 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:20:57 AM> moon->Main: .sg
+<10:20:57 AM> Server->moon: You are already in the game ixdl17
+<10:20:58 AM> moon->Main: .out
+<10:21:06 AM> moon (129.116.33.222) has disconnected.
+<10:22:25 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:22:29 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:27:26 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:27:31 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:27:35 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:31:24 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:31:27 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:31:35 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:31:53 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:32:03 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:32:48 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:32:55 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:32:58 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:33:08 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:33:16 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:33:25 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:34:07 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:34:08 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:34:15 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:34:27 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:34:31 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:34:35 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:34:38 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:34:49 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:34:52 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:34:56 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:35:09 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:35:13 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:35:20 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:35:24 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:37:42 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:37:47 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:38:02 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:38:06 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:38:19 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:38:27 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:38:39 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:38:46 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:39:04 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:39:08 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:39:16 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:39:20 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:39:25 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:39:34 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:39:40 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:39:47 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:39:52 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:39:58 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:40:24 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:40:32 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:41:02 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:41:08 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:41:19 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:41:28 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:41:48 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:41:54 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:42:01 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:42:06 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:42:14 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:42:24 AM> ixmike88 (99.7.74.79) has disconnected.
+<10:43:16 AM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<10:43:23 AM> ixmike88 (99.7.74.79) has disconnected.
+<12:08:09 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:08:24 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:08:37 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:08:49 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:08:54 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:08:57 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:09:02 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:09:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:09:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:09:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:09:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:09:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:09:44 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:09:59 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:10:26 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:10:51 PM> ixmike88->Main: .stats
+<12:10:51 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1098 | Rank: 2/17] :: [Record: 6-3 (66%) | Streak: 3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:10:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:16:24 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:16:24 PM> ixmike88->Main: .stats
+<12:16:24 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1098 | Rank: 2/17] :: [Record: 6-3 (66%) | Streak: 3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<12:34:10 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:34:10 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<12:34:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<12:58:52 PM> Loading user database...
+<12:58:52 PM> Listening for clients..
+<12:58:52 PM> Player list added
+<12:58:52 PM> League connected
+<1:01:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:02:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:02:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:02:39 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:02:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:02:53 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:03:02 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:03:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:03:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:03:19 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:03:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:03:30 PM> ixmike88->Main: .stats
+<1:03:30 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1098 | Rank: 2/17] :: [Record: 6-3 (66%) | Streak: 3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<1:04:03 PM> ixmike88->Main: .stats
+<1:04:03 PM> Server->ixmike88: ixmike88(Admin) :: [Rating: 1098 | Rank: 2/17] :: [Record: 6-3 (66%) | Streak: 3] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<1:05:05 PM> Loading user database...
+<1:05:05 PM> Listening for clients..
+<1:05:05 PM> Player list added
+<1:05:05 PM> League connected
+<1:05:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:05:24 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:05:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:05:40 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:05:44 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:05:53 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:06:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:06:05 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:06:40 PM> Loading user database...
+<1:06:40 PM> Listening for clients..
+<1:06:40 PM> Player list added
+<1:06:40 PM> League connected
+<1:06:42 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:07:45 PM> ixmike88->Main: .cg 17
+<1:07:45 PM> Server->Main: ixmike88 has drawn ixdl17
+<1:07:45 PM> Server->Main: [ixdl17] Game has been drawn.
+<1:07:47 PM> ixmike88->Main: .sg
+<1:07:47 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<1:07:49 PM> ixmike88->Main: .fake kzz s
+<1:07:49 PM> Server->Main: [ixdl18] kzz has joined the game
+<1:07:50 PM> ixmike88->Main: .fake whd.mark s
+<1:07:50 PM> Server->Main: [ixdl18] whd.Mark has joined the game
+<1:07:52 PM> ixmike88->Main: .fake felony 
+<1:07:53 PM> ixmike88->Main: .fake felony s
+<1:07:53 PM> Server->Main: [ixdl18] Felony has joined the game
+<1:07:55 PM> ixmike88->Main: .fake moon s
+<1:07:55 PM> Server->Main: [ixdl18] moon has joined the game
+<1:07:56 PM> ixmike88->Main: .fake jgsc s
+<1:07:56 PM> Server->Main: [ixdl18] jgsc has joined the game
+<1:08:00 PM> ixmike88->Main: .fake bulba123 s
+<1:08:00 PM> Server->Main: [ixdl18] bulba123 has joined the game
+<1:08:01 PM> ixmike88->Main: .fake shaang s
+<1:08:01 PM> Server->Main: [ixdl18] Shaang has joined the game
+<1:08:07 PM> ixmike88->Main: .fake f4l s
+<1:08:07 PM> Server->Main: [ixdl18] F4L has joined the game
+<1:08:11 PM> ixmike88->Main: .fake live s
+<1:08:11 PM> Server->Main: [ixdl18] Live has joined the game
+<1:08:11 PM> Server->Main: [ixdl18] Game is full. ixmike88 can type .confirm to start the game.
+<1:08:12 PM> ixmike88->Main: .cf
+<1:08:12 PM> Server->Main: [ixdl18] [Radiant: ixmike88, kzz, jgsc, Shaang, F4L] [4995] | [Dire: whd.Mark, Felony, moon, bulba123, Live] [4978]
+<1:08:12 PM> Server->ixdl18: [ixdl18] [Radiant: ixmike88, kzz, jgsc, Shaang, F4L] [4995] | [Dire: whd.Mark, Felony, moon, bulba123, Live] [4978]
+<1:09:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:09:32 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:19:14 PM> ixmike88->Main: .out
+<1:19:14 PM> ixmike88->Main: .sg
+<1:19:14 PM> Server->ixmike88: You are already in the game ixdl18
+<1:19:15 PM> ixmike88->Main: .out
+<1:19:19 PM> ixmike88->Main: .r draw
+<1:19:19 PM> Server->ixdl18: ixmike88 has resulted draw.
+<1:25:31 PM> F4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<1:25:37 PM> F4L->Main: .out
+<1:25:38 PM> F4L->Main: .out
+<1:25:44 PM> F4L->ixdl18: .modresult 18 1
+<1:25:44 PM> Server->Main: F4L has resulted ixdl18
+<1:25:44 PM> Server->Main: The Radiant has won a bonus 37 experience for ending whd.Mark's streak of 5!
+<1:25:44 PM> Server->Main: The Radiant have won the game!
+<1:25:44 PM> Server->Main: [ixdl18] Radiant: ixmike88[+32], kzz[+34], jgsc[+36], Shaang[+35], F4L[+34]
+<1:25:44 PM> Server->Main: [ixdl18] Dire: whd.Mark[-37], Felony[-36], moon[-31], bulba123[-35], Live[-34]
+<1:25:50 PM> F4L->Main: .sg
+<1:25:50 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<1:25:51 PM> F4L->Main: .out
+<1:25:51 PM> Server->Main: F4L has aborted ixdl19.
+<1:27:51 PM> ixmike88->Main: .sg
+<1:27:51 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<1:27:54 PM> F4L->Main: .s ixdl19
+<1:27:54 PM> Server->Main: [ixdl19] F4L has joined the game
+<1:27:56 PM> F4L->Main: .out
+<1:27:56 PM> Server->Main: [ixdl19] F4L has signed out
+<1:28:40 PM> ixmike88->Main: .fa
+<1:28:40 PM> Server->Main: ixmike88 has aborted ixdl19.
+<1:28:45 PM> ixmike88->Main: .fake anacletus sg
+<1:28:45 PM> Server->Main: Anacletus has opened signups for a ixmike Dota League game! Mode is CM.
+<1:28:51 PM> F4L->Main: .sg
+<1:28:51 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 20 to enter.
+<1:28:57 PM> F4L->Main: .fake ixmike88 .sg
+<1:29:05 PM> F4L->Main: .fake kzz .sg
+<1:29:08 PM> F4L->Main: .fake kzz sg
+<1:29:08 PM> Server->Main: kzz has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<1:29:12 PM> F4L->Main: .fake ixmike88 sg
+<1:29:12 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 22 to enter.
+<1:29:16 PM> F4L->Main: .fake whd.mark sg
+<1:29:16 PM> Server->Main: whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 23 to enter.
+<1:29:24 PM> F4L->Main: .fake whd.mark a
+<1:29:24 PM> Server->Main: whd.Mark has aborted ixdl23.
+<1:29:27 PM> F4L->Main: .fake ixmike88 a
+<1:29:27 PM> Server->Main: ixmike88 has aborted ixdl22.
+<1:29:31 PM> F4L->Main: .fake kzz a
+<1:29:31 PM> Server->Main: kzz has aborted ixdl21.
+<1:29:32 PM> F4L->Main: .fake a
+<1:29:35 PM> F4L->Main: .fake f4l a
+<1:29:35 PM> Server->Main: F4L has aborted ixdl20.
+<1:29:39 PM> F4L->Main: fake anacletus a
+<1:29:43 PM> ixmike88->Main: thers fa
+<1:29:43 PM> F4L->Main: .fake anacletus a
+<1:29:43 PM> Server->Main: Anacletus has aborted ixdl19.
+<1:29:44 PM> ixmike88->Main: lmao
+<1:29:51 PM> F4L->Main: welp
+<1:29:53 PM> F4L->Main: same shit
+<1:30:00 PM> F4L->Main: i suppose thats easier tho aint it.
+<1:30:12 PM> ixmike88 (99.7.74.79) has disconnected.
+<1:30:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<1:30:21 PM> ixmike88->Main: what features is the lcient missing.
+<1:30:31 PM> F4L->Main: hmm
+<1:30:42 PM> F4L->Main: im sure this is good for now
+<1:30:46 PM> F4L->Main: maybe 
+<1:30:51 PM> F4L->Main: have a thing where u can right click someone and compare
+<1:30:55 PM> F4L->Main: and it makes a window with ur compare stats
+<1:50:04 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<1:50:46 PM> moon (129.116.33.222) has disconnected.
+<1:51:02 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<1:51:08 PM> moon->Main: .sg
+<1:51:08 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<1:51:17 PM> ixmike88->Main: .s
+<1:51:17 PM> Server->Main: [ixdl19] ixmike88 has joined the game
+<1:51:19 PM> ixmike88->Main: .fake kzz s
+<1:51:19 PM> Server->Main: [ixdl19] kzz has joined the game
+<1:51:20 PM> ixmike88->Main: .fake f4l s
+<1:51:20 PM> Server->Main: [ixdl19] F4L has joined the game
+<1:51:22 PM> ixmike88->Main: .fake whd.mark s
+<1:51:22 PM> Server->Main: [ixdl19] whd.Mark has joined the game
+<1:53:22 PM>  () has disconnected.
+<1:53:30 PM>  () has disconnected.
+<1:53:34 PM>  () has disconnected.
+<1:53:37 PM> jgsc (108.6.69.71) (C8:60:00:C3:A6:12) has connected.
+<1:53:40 PM> ixmike88->Main: .fake jgsc s
+<1:53:40 PM> Server->Main: [ixdl19] jgsc has joined the game
+<1:53:43 PM> ixmike88->Main: .fake kzz s
+<1:53:44 PM> ixmike88->Main: .fake shaang s
+<1:53:44 PM> Server->Main: [ixdl19] Shaang has joined the game
+<1:53:47 PM> ixmike88->Main: .fake bulba123 s
+<1:53:47 PM> Server->Main: [ixdl19] bulba123 has joined the game
+<1:53:49 PM> ixmike88->Main: .fake felony s
+<1:53:49 PM> Server->Main: [ixdl19] Felony has joined the game
+<1:53:52 PM> ixmike88->Main: .fake moon s
+<1:53:58 PM> ixmike88->Main: .fake anacletus s
+<1:53:58 PM> Server->Main: [ixdl19] Anacletus has joined the game
+<1:53:58 PM> Server->Main: [ixdl19] Game is full. moon can type .confirm to start the game.
+<1:54:05 PM> ixmike88->Main: .cf
+<1:54:12 PM> F4L->Main: .s ixdl19
+<1:54:29 PM> ixmike88->Main: .fake moon cf
+<1:54:29 PM> Server->Main: [ixdl19] [Radiant: moon, ixmike88, kzz, Felony, Anacletus] [5142] | [Dire: F4L, whd.Mark, jgsc, Shaang, bulba123] [5144]
+<1:54:29 PM> Server->ixdl19: [ixdl19] [Radiant: moon, ixmike88, kzz, Felony, Anacletus] [5142] | [Dire: F4L, whd.Mark, jgsc, Shaang, bulba123] [5144]
+<1:54:45 PM> moon->Main: .r radiant
+<1:54:45 PM> Server->ixdl19: moon has resulted radiant.
+<1:54:49 PM> jgsc->Main: .r dire
+<1:54:49 PM> Server->ixdl19: jgsc has resulted dire.
+<1:55:09 PM> F4L->Main: .r dire
+<1:55:09 PM> Server->ixdl19: F4L has resulted dire.
+<1:55:16 PM> F4L->ixdl19: .modresult 19 dire
+<1:55:16 PM> Server->Main: F4L has resulted ixdl19
+<1:55:16 PM> Server->Main: The Dire have won the game!
+<1:55:16 PM> Server->Main: [ixdl19] Dire: F4L[+34], whd.Mark[+33], jgsc[+36], Shaang[+34], bulba123[+36]
+<1:55:16 PM> Server->Main: [ixdl19] Radiant: moon[-29], ixmike88[-37], kzz[-36], Felony[-35], Anacletus[-35]
+<1:55:31 PM> moon (129.116.33.222) has disconnected.
+<1:55:32 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<1:55:34 PM> moon->Main: .sg
+<1:55:34 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<1:55:35 PM> moon->Main: hm
+<1:55:39 PM> moon->Main: my sounds arent working
+<1:55:44 PM> jgsc->Main: it works for me
+<1:55:46 PM> jgsc->Main: its funny
+<1:55:50 PM> moon (129.116.33.222) has disconnected.
+<1:55:53 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<1:55:56 PM> moon->Main: .abort
+<1:55:56 PM> Server->Main: moon has aborted ixdl20.
+<1:55:57 PM> moon->Main: .sg
+<1:55:57 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<1:56:30 PM> F4L (67.1.1.46) has disconnected.
+<1:56:31 PM> jgsc (108.6.69.71) has disconnected.
+<1:56:33 PM> F4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<1:56:41 PM> F4L->Main: .sg
+<1:56:41 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<1:56:45 PM> F4L->Main: .a
+<1:56:45 PM> Server->Main: F4L has aborted ixdl21.
+<1:56:48 PM> moon->Main: .abort
+<1:56:48 PM> Server->Main: moon has aborted ixdl20.
+<2:23:54 PM> Listening for clients..
+<2:23:54 PM> Loading user database...
+<2:23:54 PM> Player list added
+<2:23:54 PM> League connected
+<2:24:00 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<2:24:02 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:24:03 PM> ixmike88->Main: .sg
+<2:24:03 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:24:06 PM> ixmike88->Main: .min 1000
+<2:24:06 PM> Server->Main: [ixdl20] ixmike88 has put a minimum rating requirement of 1000. All players below 1000 have been removed from the pool.
+<2:24:22 PM> F4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<2:24:26 PM> moon->Main: .s
+<2:24:26 PM> Server->Main: [ixdl20] moon has joined the game
+<2:24:52 PM> ixmike88->Main: .min 1000
+<2:24:52 PM> Server->Main: [ixdl20] moon has signed out
+<2:24:52 PM> ixmike88->Main: .lp
+<2:24:52 PM> Server->Main: [ixdl20] [Players: (1) ixmike88(1130)]
+<2:28:34 PM> Loading user database...
+<2:28:34 PM> Listening for clients..
+<2:28:34 PM> Player list added
+<2:28:34 PM> League connected
+<2:28:37 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:28:49 PM> ixmike88->Main: .sg
+<2:28:49 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<2:28:49 PM> ixmike88->Main: .lp
+<2:28:49 PM> Server->Main: [ixdl20] [Players: (1) ixmike88(1130)]
+<2:29:03 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<2:29:03 PM> F4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<2:29:09 PM> ixmike88->Main: .min 1000
+<2:29:09 PM> Server->Main: [ixdl20] ixmike88 has put a minimum rating requirement of 1000. All players below 1000 rating have been forbidden from the pool.
+<2:29:19 PM> moon->Main: .s
+<2:29:19 PM> Server->moon: [ixdl20] You do not meet the minimum rating requirement of 1000.
+<2:29:20 PM> moon->Main: no
+<2:29:24 PM> ixmike88->Main: .min 770
+<2:29:24 PM> Server->Main: [ixdl20] ixmike88 has put a minimum rating requirement of 770. All players below 770 rating have been forbidden from the pool.
+<2:29:29 PM> moon->Main: .s
+<2:29:29 PM> Server->moon: [ixdl20] You do not meet the minimum rating requirement of 770.
+<2:29:33 PM> moon->Main: no
+<2:29:37 PM> ixmike88->Main: .min 769
+<2:29:37 PM> Server->Main: [ixdl20] ixmike88 has put a minimum rating requirement of 769. All players below 769 rating have been forbidden from the pool.
+<2:29:38 PM> moon->Main: .s
+<2:29:38 PM> Server->moon: [ixdl20] You do not meet the minimum rating requirement of 769.
+<2:29:40 PM> moon->Main: nope
+<2:29:41 PM> moon->Main: .stats
+<2:29:41 PM> Server->Main: moon(Voucher) :: [Rating: 749 | Rank: 17/17] :: [Record: 2-8 (20%) | Streak: -2] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:29:41 PM> ixmike88->Main: ?
+<2:29:43 PM> ixmike88->Main: oh
+<2:29:46 PM> moon->Main: 749
+<2:29:47 PM> ixmike88->Main: .min 749
+<2:29:47 PM> Server->Main: [ixdl20] ixmike88 has put a minimum rating requirement of 749. All players below 749 rating have been forbidden from the pool.
+<2:29:48 PM> moon->Main: .s
+<2:29:48 PM> Server->Main: [ixdl20] moon has joined the game
+<2:29:57 PM> ixmike88->Main: .stats
+<2:29:57 PM> Server->Main: ixmike88(Admin) :: [Rating: 1130 | Rank: 1/17] :: [Record: 7-4 (63%) | Streak: -1] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<2:30:09 PM> ixmike88->Main: .fa
+<2:30:09 PM> Server->Main: ixmike88 has aborted ixdl20.
+<2:54:57 PM> ixmike88 (99.7.74.79) has disconnected.
+<2:54:59 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:55:04 PM>  () has disconnected.
+<2:55:07 PM>  () has disconnected.
+<2:55:08 PM>  () has disconnected.
+<2:55:29 PM>  () has disconnected.
+<2:55:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<2:55:35 PM> NO PING: ixmike88(99.7.74.79)
+<2:56:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:56:11 PM>  () has disconnected.
+<2:56:27 PM> ixmike88 (99.7.74.79) has disconnected.
+<2:57:25 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:57:37 PM> ixmike88 (99.7.74.79) has disconnected.
+<2:57:39 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<2:58:15 PM> ixmike88 (99.7.74.79) has disconnected.
+<2:58:15 PM> NO PING: ixmike88(99.7.74.79)
+<3:01:12 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:01:17 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:01:54 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:01:58 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:02:06 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:02:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:02:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:02:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:02:35 PM> NO PING: ixmike88(99.7.74.79)
+<3:03:31 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:03:43 PM>  () has disconnected.
+<3:03:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:04:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:04:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:04:27 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:04:36 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:04:40 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:08:33 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:08:35 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:09:15 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:09:15 PM> NO PING: ixmike88(99.7.74.79)
+<3:09:45 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:09:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:09:52 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:09:57 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:10:05 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:12:39 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:12:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:12:56 PM>  () has disconnected.
+<3:13:05 PM>  () has disconnected.
+<3:13:09 PM>  () has disconnected.
+<3:13:26 PM>  () has disconnected.
+<3:13:30 PM>  () has disconnected.
+<3:13:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:13:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:14:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:14:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:14:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:14:24 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:14:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:14:42 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:15:01 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:15:22 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:15:30 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:17:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:17:12 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:17:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:17:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:17:25 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:17:28 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:17:58 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:18:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:18:03 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:18:10 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:21:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:21:36 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:21:36 PM> NO PING: ixmike88(99.7.74.79)
+<3:22:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:22:54 PM>  () has disconnected.
+<3:23:16 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:23:16 PM> NO PING: ixmike88(99.7.74.79)
+<3:24:52 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:24:52 PM>  () has disconnected.
+<3:24:52 PM>  () has disconnected.
+<3:25:16 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:25:16 PM> NO PING: ixmike88(99.7.74.79)
+<3:29:46 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:30:16 PM>  () has disconnected.
+<3:30:16 PM>  () has disconnected.
+<3:30:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:30:33 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:30:56 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:30:58 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:31:18 PM> ixmike88->Main: .sg
+<3:31:18 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:31:19 PM> ixmike88->Main: .out
+<3:31:19 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:31:25 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:31:29 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:32:02 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:32:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:32:27 PM>  () has disconnected.
+<3:32:35 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:32:48 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:32:59 PM> ixmike88->Main: .sg
+<3:32:59 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:33:00 PM> ixmike88->Main: .out
+<3:33:00 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:35:09 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:35:11 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:35:11 PM> ixmike88->Main: .sg
+<3:35:11 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:35:12 PM> ixmike88->Main: .out
+<3:35:12 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:35:13 PM> ixmike88->Main: .sg
+<3:35:13 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:35:13 PM> ixmike88->Main: .out
+<3:35:13 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:35:13 PM> ixmike88->Main: .sg
+<3:35:13 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:35:17 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:41:31 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:41:35 PM>  () has disconnected.
+<3:41:39 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:41:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:41:50 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:42:04 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:42:14 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:45:43 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:45:48 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:50:52 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:51:07 PM> ixmike88->Main: .sg
+<3:51:07 PM> Server->ixmike88: You are already in the game ixdl20
+<3:51:08 PM> ixmike88->Main: .sg
+<3:51:08 PM> Server->ixmike88: You are already in the game ixdl20
+<3:51:09 PM> ixmike88->Main: .out
+<3:51:09 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:51:09 PM> ixmike88->Main: .sg
+<3:51:09 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:51:14 PM> ixmike88->Main: .sg
+<3:51:14 PM> Server->ixmike88: You are already in the game ixdl20
+<3:51:15 PM> ixmike88->Main: .out
+<3:51:15 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:51:15 PM> ixmike88->Main: .sg
+<3:51:15 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:51:17 PM> moon->Main: .s ixdl20
+<3:51:17 PM> Server->Main: [ixdl20] moon has joined the game
+<3:51:17 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:51:40 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:51:42 PM> ixmike88->Main: .out
+<3:51:42 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:51:43 PM> ixmike88->Main: .sg
+<3:51:43 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:51:44 PM> ixmike88->Main: .out
+<3:51:44 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:51:45 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:51:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:51:58 PM> ixmike88->Main: .sg
+<3:51:58 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:52:00 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:52:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:52:08 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:52:09 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:52:13 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:52:16 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:52:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:53:07 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:53:12 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:53:15 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:53:31 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:53:33 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:53:50 PM> ixmike88->Main: .sg
+<3:53:50 PM> Server->ixmike88: You are already in the game ixdl20
+<3:53:51 PM> ixmike88->Main: .out
+<3:53:51 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:53:52 PM> ixmike88->Main: .sg
+<3:53:52 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:54:11 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:54:23 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:54:34 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:54:36 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:54:37 PM> ixmike88->Main: .out
+<3:54:37 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:54:37 PM> ixmike88->Main: .sg
+<3:54:37 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:54:38 PM> ixmike88->Main: .out
+<3:54:38 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:56:23 PM> ixmike88 (99.7.74.79) has disconnected.
+<3:56:25 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<3:56:28 PM> ixmike88->Main: .sg
+<3:56:28 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<3:56:29 PM> ixmike88->Main: .out
+<3:56:29 PM> Server->Main: ixmike88 has aborted ixdl20.
+<3:56:29 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:00:00 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:00:55 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:00:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:00:57 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:02:22 PM> Loading user database...
+<4:02:22 PM> Listening for clients..
+<4:02:22 PM> Player list added
+<4:02:22 PM> League connected
+<4:02:24 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:03:23 PM> NO PING: ()
+<4:03:30 PM>  () has disconnected.
+<4:04:01 PM>  () has disconnected.
+<4:04:16 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<4:05:27 PM> moon->Main: .sg
+<4:05:27 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<4:05:29 PM> moon->Main: .abort
+<4:05:29 PM> Server->Main: moon has aborted ixdl20.
+<4:05:40 PM> moon->Main: .sg
+<4:05:40 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<4:09:16 PM> moon->Main: moon
+<4:09:26 PM> ixmike88->Main: moon
+<4:09:58 PM> moon->Main: .out
+<4:09:58 PM> Server->Main: moon has aborted ixdl20.
+<4:10:00 PM> moon (129.116.33.222) has disconnected.
+<4:10:03 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<4:10:21 PM> ixmike88->Main: moon
+<4:10:36 PM> ixmike88->Main: moon
+<4:14:23 PM>  () has disconnected.
+<4:14:54 PM>  () has disconnected.
+<4:15:00 PM>  () has disconnected.
+<4:15:10 PM>  () has disconnected.
+<4:15:12 PM>  () has disconnected.
+<4:15:15 PM>  () has disconnected.
+<4:15:19 PM> F4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:15:20 PM> F4L (67.1.1.46) has disconnected.
+<4:15:46 PM> f4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:15:49 PM> f4L->Main: .sg
+<4:15:49 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<4:15:59 PM> f4L->Main: .a
+<4:15:59 PM> Server->Main: F4L has aborted ixdl20.
+<4:16:00 PM> f4L->Main: .sg
+<4:16:00 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<4:16:30 PM> f4L->Main: .a
+<4:16:30 PM> Server->Main: F4L has aborted ixdl20.
+<4:16:30 PM> f4L->Main: .sg
+<4:16:30 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<4:17:34 PM> moon->Main: .sg
+<4:17:34 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<4:17:37 PM> moon->Main: .abort
+<4:17:37 PM> Server->Main: moon has aborted ixdl21.
+<4:17:49 PM> f4L->Main: .a
+<4:17:49 PM> Server->Main: F4L has aborted ixdl20.
+<4:17:50 PM> f4L->Main: .sg
+<4:17:50 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<4:18:06 PM> f4L (67.1.1.46) has disconnected.
+<4:18:07 PM> moon->Main: .sg
+<4:18:07 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<4:18:09 PM> f4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:18:14 PM> f4L (67.1.1.46) has disconnected.
+<4:18:35 PM> f4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:18:39 PM> f4L (67.1.1.46) has disconnected.
+<4:18:47 PM> moon->Main: .sg
+<4:18:47 PM> Server->moon: You are already in the game ixdl21
+<4:18:47 PM> f4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:18:48 PM> moon->Main: .out
+<4:18:48 PM> Server->Main: moon has aborted ixdl21.
+<4:18:48 PM> moon->Main: .sg
+<4:18:48 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<4:18:49 PM> moon->Main: .out
+<4:18:49 PM> Server->Main: moon has aborted ixdl21.
+<4:18:59 PM> moon->Main: .sg
+<4:18:59 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<4:19:29 PM> moon->Main: .sg
+<4:19:29 PM> Server->moon: You are already in the game ixdl21
+<4:19:32 PM> moon->Main: .out
+<4:19:32 PM> Server->Main: moon has aborted ixdl21.
+<4:19:33 PM> moon->Main: .sg
+<4:19:33 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 21 to enter.
+<4:19:34 PM> moon->Main: .out
+<4:19:34 PM> Server->Main: moon has aborted ixdl21.
+<4:19:43 PM> f4L (67.1.1.46) has disconnected.
+<4:19:43 PM> f4L (67.1.1.46) (20:CF:30:E4:21:0A) has connected.
+<4:19:49 PM> f4L->Main: .sg
+<4:19:49 PM> Server->F4L: You are already in the game ixdl20
+<4:19:51 PM> f4L->Main: .a
+<4:19:51 PM> Server->Main: F4L has aborted ixdl20.
+<4:19:51 PM> f4L->Main: .sg
+<4:19:51 PM> Server->Main: F4L has opened signups for a ixmike Dota League game! Mode is CM.
+<4:19:53 PM> f4L->Main: .a
+<4:19:53 PM> Server->Main: F4L has aborted ixdl20.
+<4:22:32 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:22:34 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:23:51 PM> f4L (67.1.1.46) has disconnected.
+<4:23:59 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:24:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:24:12 PM> moon->Main: ixmike88
+<4:24:16 PM> moon->Staff Chat: ixmike88
+<4:24:39 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:24:41 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:25:07 PM> ixmike88->Main: ixmike88
+<4:25:28 PM> ixmike88->Main: ixmike88
+<4:26:11 PM> ixmike88->Main: ixmike88
+<4:26:22 PM> ixmike88->Main: sdf
+<4:26:43 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:26:43 PM> NO PING: ixmike88(99.7.74.79)
+<4:31:47 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:31:56 PM> ixmike88->Main: ixmike88
+<4:32:19 PM> moon->Main: ixmike88
+<4:32:23 PM> moon->Staff Chat: ixmike88
+<4:46:18 PM> ixmike88->Main: df
+<4:46:21 PM> ixmike88->Main: ixmike88
+<4:46:24 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:46:28 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:47:04 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:47:04 PM> NO PING: ixmike88(99.7.74.79)
+<4:48:51 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:49:09 PM> ixmike88->Main: ixmike88
+<4:49:53 PM> ixmike88->Main: ixmike88
+<4:50:06 PM> ixmike88->Main: sdf
+<4:50:21 PM> ixmike88 (99.7.74.79) has disconnected.
+<4:57:17 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<4:57:22 PM> ixmike88->Main: sdf
+<4:57:37 PM> ixmike88->Main: fds
+<4:57:37 PM> ixmike88->Main: dfs
+<4:57:40 PM> ixmike88->Main: sdf
+<4:57:49 PM> ixmike88->Main: sfd
+<4:57:49 PM> ixmike88->Main: sdf
+<4:57:55 PM> ixmike88->Main: ixmike88
+<4:58:22 PM> moon->Main: ixmike88
+<4:58:23 PM> moon->Main: ixmike88
+<4:58:23 PM> moon->Main: ixmike88
+<4:58:28 PM> moon->Staff Chat: ixmike88
+<4:58:49 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:02:38 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:02:42 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:03:08 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:04:09 PM> Loading user database...
+<5:04:09 PM> Listening for clients..
+<5:04:09 PM> Player list added
+<5:04:09 PM> League connected
+<5:04:18 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<5:06:49 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:06:53 PM> moon->Main: ixmike88
+<5:07:15 PM> ixmike88->Main: moon
+<5:07:16 PM> ixmike88->Main: moon
+<5:07:19 PM> moon->Main: nice
+<6:32:26 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:32:28 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:32:45 PM> ixmike88 (99.7.74.79) has disconnected.
+<6:32:50 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:46:44 PM> ixmike88->Main: .sg
+<7:46:44 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<7:46:45 PM> ixmike88->Main: .fake moon s
+<7:46:45 PM> Server->Main: [ixdl20] moon has joined the game
+<7:46:48 PM> ixmike88->Main: .fake f4l s
+<7:46:48 PM> Server->Main: [ixdl20] F4L has joined the game
+<7:46:51 PM> ixmike88->Main: .fake whd.mark s
+<7:46:51 PM> Server->Main: [ixdl20] whd.Mark has joined the game
+<7:46:52 PM> ixmike88->Main: .fake jgsc s
+<7:46:52 PM> Server->Main: [ixdl20] jgsc has joined the game
+<7:46:53 PM> ixmike88->Main: .fake kzz s
+<7:46:53 PM> Server->Main: [ixdl20] kzz has joined the game
+<7:46:55 PM> ixmike88->Main: .fake felony s
+<7:46:55 PM> Server->Main: [ixdl20] Felony has joined the game
+<7:46:56 PM> ixmike88->Main: .fake live s
+<7:46:56 PM> Server->Main: [ixdl20] Live has joined the game
+<7:47:02 PM> ixmike88->Main: .fake anacletus s
+<7:47:02 PM> Server->Main: [ixdl20] Anacletus has joined the game
+<7:47:03 PM> ixmike88->Main: .fake jgsc s
+<7:47:06 PM> ixmike88->Main: .fake jgsc s
+<7:47:12 PM> ixmike88->Main: .fake test s
+<7:47:12 PM> Server->Main: [ixdl20] test has joined the game
+<7:47:12 PM> Server->Main: [ixdl20] Game is full. ixmike88 can type .confirm to start the game.
+<7:47:16 PM> ixmike88->Main: .cf
+<7:47:16 PM> Server->Main: [ixdl20] [Radiant: ixmike88, moon, F4L, kzz, Anacletus] [5075] | [Dire: whd.Mark, jgsc, Felony, Live, test] [5073]
+<7:47:16 PM> Server->ixdl20: [ixdl20] [Radiant: ixmike88, moon, F4L, kzz, Anacletus] [5075] | [Dire: whd.Mark, jgsc, Felony, Live, test] [5073]
+<7:47:18 PM> ixmike88 (99.7.74.79) has disconnected.
+<7:47:20 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<7:47:33 PM> ixmike88->Main: .cg 20
+<7:47:33 PM> Server->Main: ixmike88 has drawn ixdl20
+<7:47:33 PM> Server->Main: [ixdl20] Game has been drawn.
+<7:47:34 PM> ixmike88->Main: .fake moon s
+<7:47:36 PM> ixmike88->Main: .fake moon sg
+<7:47:36 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<7:47:38 PM> ixmike88->Main: .s.
+<7:47:39 PM> ixmike88->Main: .s
+<7:47:39 PM> Server->Main: [ixdl21] ixmike88 has joined the game
+<7:47:41 PM> ixmike88->Main: .fake whd.mark sg
+<7:47:41 PM> Server->Main: whd.Mark has opened signups for a ixmike Dota League game! Mode is CM. Type .sign 22 to enter.
+<7:47:43 PM> ixmike88->Main: .fa
+<7:47:43 PM> Server->Main: ixmike88 has forceaborted ixdl21.
+<7:47:45 PM> ixmike88->Main: .fa
+<7:47:45 PM> Server->Main: ixmike88 has forceaborted ixdl22.
+<7:47:47 PM> ixmike88->Main: .fake moon sg
+<7:47:47 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<7:47:49 PM> ixmike88->Main: .fake whd.mark s
+<7:47:49 PM> Server->Main: [ixdl21] whd.Mark has joined the game
+<7:47:49 PM> ixmike88->Main: .s
+<7:47:49 PM> Server->Main: [ixdl21] ixmike88 has joined the game
+<7:47:51 PM> ixmike88->Main: .fake f4l s
+<7:47:51 PM> Server->Main: [ixdl21] F4L has joined the game
+<7:47:54 PM> ixmike88->Main: .fake jgsc s
+<7:47:54 PM> Server->Main: [ixdl21] jgsc has joined the game
+<7:47:58 PM> ixmike88->Main: .fake anacletus s
+<7:47:58 PM> Server->Main: [ixdl21] Anacletus has joined the game
+<7:47:59 PM> ixmike88->Main: .fake kzz s
+<7:47:59 PM> Server->Main: [ixdl21] kzz has joined the game
+<7:48:01 PM> ixmike88->Main: .fake live s
+<7:48:01 PM> Server->Main: [ixdl21] Live has joined the game
+<7:48:02 PM> ixmike88->Main: .fake felony s
+<7:48:02 PM> Server->Main: [ixdl21] Felony has joined the game
+<7:48:05 PM> ixmike88->Main: .fake bulba123 s
+<7:48:05 PM> Server->Main: [ixdl21] bulba123 has joined the game
+<7:48:05 PM> Server->Main: [ixdl21] Game is full. moon can type .confirm to start the game.
+<7:48:39 PM> moon->Main: .cs
+<7:48:39 PM> Server->Main: [ixdl21] [Radiant: moon, whd.Mark, F4L, Anacletus, kzz] [5075] | [Dire: ixmike88, jgsc, Live, Felony, bulba123] [5074]
+<7:48:39 PM> Server->ixdl21: [ixdl21] [Radiant: moon, whd.Mark, F4L, Anacletus, kzz] [5075] | [Dire: ixmike88, jgsc, Live, Felony, bulba123] [5074]
+<7:48:48 PM> moon->Main: .r radiant
+<7:48:48 PM> Server->ixdl21: moon has resulted radiant.
+<7:48:57 PM> ixmike88->Main: nice
+<7:48:59 PM> ixmike88->Main: .cg 21
+<7:48:59 PM> Server->Main: ixmike88 has drawn ixdl21
+<7:48:59 PM> Server->Main: [ixdl21] Game has been drawn.
+<8:57:07 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:57:19 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:57:23 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:57:33 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:57:35 PM> ixmike88->Main: sfdds
+<8:58:03 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:58:05 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:58:06 PM> ixmike88->Main: dfg
+<8:58:06 PM> ixmike88->Main: fgddf
+<8:58:07 PM> ixmike88->Main: gfdg
+<8:58:20 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:59:03 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<8:59:09 PM> ixmike88 (99.7.74.79) has disconnected.
+<8:59:56 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:00:01 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:00:23 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:00:24 PM> ixmike88->Main: sdfsfd
+<9:00:33 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:00:48 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:00:49 PM> ixmike88->Main: sdffds
+<9:00:56 PM> ixmike88->moon: dfs
+<9:01:05 PM> ixmike88->moon: sdf
+<9:01:14 PM> ixmike88->Main: ffds
+<9:01:22 PM> ixmike88->Main: sdfdfs
+<9:03:17 PM> ixmike88->Main: fdsfsd
+<9:03:22 PM> moon (129.116.33.222) has disconnected.
+<9:03:25 PM> ixmike88->Main: dfsd
+<9:03:26 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:04:44 PM> ixmike88 (99.7.74.79) has disconnected.
+<9:05:17 PM> Loading user database...
+<9:05:17 PM> Listening for clients..
+<9:05:17 PM> Player list added
+<9:05:17 PM> League connected
+<9:05:46 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:06:12 PM> Loading user database...
+<9:06:12 PM> Listening for clients..
+<9:06:12 PM> Player list added
+<9:06:12 PM> League connected
+<9:06:13 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<9:06:20 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:06:28 PM> moon->Main: test
+<9:06:29 PM> moon->Main: test
+<9:06:47 PM> moon->Main: estste
+<9:07:29 PM> moon->Main: test
+<9:07:30 PM> moon->Main: testestest
+<9:07:40 PM> moon (129.116.33.222) has disconnected.
+<9:07:41 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:08:36 PM> moon->Main: testetste
+<9:08:43 PM> moon (129.116.33.222) has disconnected.
+<9:08:50 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:08:56 PM> moon->Main: test
+<9:08:57 PM> moon->Main: testetste
+<9:09:56 PM> moon (129.116.33.222) has disconnected.
+<9:09:58 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:10:04 PM> moon->Main: tetst
+<9:10:04 PM> moon->Main: st
+<9:10:04 PM> moon->Main: stes
+<9:10:05 PM> moon->Main: tes
+<9:10:31 PM> moon (129.116.33.222) has disconnected.
+<9:10:32 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<9:10:38 PM> moon->Main: testestte

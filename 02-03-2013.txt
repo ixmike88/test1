@@ -1,0 +1,380 @@
+<8:52:50 PM> Loading user database...
+<8:59:26 PM> Listening for clients..
+<8:59:26 PM> Loading user database...
+<8:59:26 PM> Player list added
+<8:59:26 PM> League connected
+<9:00:50 PM> Loading user database...
+<9:00:50 PM> Listening for clients..
+<9:00:50 PM> Player list added
+<9:00:50 PM> League connected
+<9:12:08 PM> Listening for clients..
+<9:12:08 PM> Loading user database...
+<9:12:08 PM> Player list added
+<9:12:08 PM> League connected
+<9:13:54 PM> Listening for clients..
+<9:13:54 PM> Loading user database...
+<9:13:54 PM> Player list added
+<9:13:54 PM> League connected
+<9:13:58 PM> 99.7.74.79 connected
+<9:13:59 PM> ixmike88: .sg
+<9:14:01 PM> ixmike88: .lp
+<9:14:04 PM> ixmike88: .fa
+<9:16:13 PM> ixmike88: .lp
+<10:45:30 PM> Loading user database...
+<10:45:30 PM> Listening for clients..
+<10:45:30 PM> Player list added
+<10:45:30 PM> League connected
+<10:45:36 PM> 99.7.74.79 connected
+<10:45:40 PM> ixmike88: .compare a
+<10:46:02 PM> Loading user database...
+<10:46:02 PM> Listening for clients..
+<10:46:02 PM> Player list added
+<10:46:02 PM> League connected
+<10:46:05 PM> 99.7.74.79 connected
+<10:46:08 PM> ixmike88: .compare a
+<10:46:09 PM> ixmike88: .compare a
+<10:46:28 PM> Loading user database...
+<10:46:28 PM> Listening for clients..
+<10:46:28 PM> Player list added
+<10:46:28 PM> League connected
+<10:46:28 PM> 99.7.74.79 connected
+<10:46:31 PM> ixmike88: .compare a
+<10:53:19 PM> Loading user database...
+<10:53:19 PM> Listening for clients..
+<10:53:19 PM> Player list added
+<10:53:19 PM> League connected
+<10:53:36 PM> 99.7.74.79 connected
+<10:54:01 PM> ixmike88: .compare a
+<10:54:01 PM> ixmike88 (1080) / a): Together: 0/0 Against: 0/2
+<10:54:22 PM> Loading user database...
+<10:54:22 PM> Listening for clients..
+<10:54:22 PM> Player list added
+<10:54:22 PM> League connected
+<10:54:23 PM> 99.7.74.79 connected
+<10:54:26 PM> ixmike88: .comprare a
+<10:54:29 PM> ixmike88: .compare a
+<10:54:29 PM> ixmike88 (1080) / a(1271): Together: 0/0 Against: 0/2
+<10:56:01 PM> Loading user database...
+<10:56:01 PM> Listening for clients..
+<10:56:01 PM> Player list added
+<10:56:01 PM> League connected
+<10:56:10 PM> 99.7.74.79 connected
+<10:56:12 PM> ixmike88: .compare a
+<10:56:29 PM> ixmike88 (1080) / a(1271): Together: 0/0 Against: 0/2
+<10:56:29 PM> NO PING: ixmike88(99.7.74.79)
+<10:56:46 PM> Listening for clients..
+<10:56:46 PM> Loading user database...
+<10:56:46 PM> Player list added
+<10:56:46 PM> League connected
+<10:56:48 PM> 99.7.74.79 connected
+<10:56:50 PM> ixmike88: .compare a
+<10:56:53 PM> ixmike88 (1080) / a(1271): Together: 0/0 Against: 1/1
+<10:57:44 PM> Loading user database...
+<10:57:44 PM> Listening for clients..
+<10:57:44 PM> Player list added
+<10:57:44 PM> League connected
+<10:57:49 PM> 99.7.74.79 connected
+<10:58:03 PM> 99.7.74.79 connected
+<10:58:04 PM> ixmike88: .lp
+<10:58:12 PM> ixmike88: .compare
+<10:58:12 PM> .compare <player1> [player2]>
+<10:58:16 PM> ixmike88: .compare whd.makr
+<10:58:21 PM> ixmike88: .compare whd.Mark
+<10:58:21 PM> ixmike88 (1080) / whd.Mark(1072): Together: 0/0 Against: 0/1
+<10:58:33 PM> ixmike88: .compare whd
+<10:58:34 PM> ixmike88: .compare whd.mark
+<10:58:34 PM> ixmike88 (1080) / whd.Mark(1072): Together: 0/0 Against: 0/1
+<10:58:38 PM> ixmike88: .compare b
+<10:58:38 PM> ixmike88 (1080) / b(1078): Together: 0/1 Against: 1/0
+<10:58:40 PM> ixmike88: .compare d
+<10:58:40 PM> ixmike88 (1080) / d(1152): Together: 0/0 Against: 1/1
+<11:11:53 PM> Loading user database...
+<11:11:53 PM> Listening for clients..
+<11:11:53 PM> Player list added
+<11:11:53 PM> League connected
+<11:12:00 PM> 99.7.74.79 connected
+<11:12:03 PM> ixmike88: .truant a
+<11:12:12 PM> ixmike88: .sg
+<11:12:12 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:13:40 PM> Loading user database...
+<11:13:40 PM> Listening for clients..
+<11:13:40 PM> Player list added
+<11:13:40 PM> League connected
+<11:13:41 PM> 99.7.74.79 connected
+<11:13:42 PM> ixmike88: .lp
+<11:13:43 PM> ixmike88: .games
+<11:13:43 PM> No games available.
+<11:13:43 PM> ixmike88: .sg
+<11:13:43 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:13:44 PM> ixmike88: .fakesign
+<11:13:44 PM> [ixdl122] a has joined the game
+<11:13:44 PM> [ixdl122] b has joined the game
+<11:13:44 PM> [ixdl122] c has joined the game
+<11:13:44 PM> [ixdl122] d has joined the game
+<11:13:44 PM> [ixdl122] e has joined the game
+<11:13:44 PM> [ixdl122] f has joined the game
+<11:13:44 PM> [ixdl122] g has joined the game
+<11:13:44 PM> [ixdl122] h has joined the game
+<11:13:44 PM> [ixdl122] i has joined the game
+<11:13:44 PM> [ixdl122] Game is full. ixmike88 can type .confirm to start the game.
+<11:13:47 PM> ixmike88: .truant a
+<11:13:52 PM> ixmike88: .cf
+<11:13:52 PM> [ixdl122] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:13:52 PM> [ixdl122] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:13:57 PM> ixmike88: .truant whd.mark
+<11:14:05 PM> ixmike88: .truant a
+<11:14:29 PM> Loading user database...
+<11:14:29 PM> Listening for clients..
+<11:14:29 PM> 99.7.74.79 connected
+<11:14:29 PM> Invalid packet: System.NullReferenceException: Object reference not set to an instance of an object.
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 109
+<11:14:29 PM> Player list added
+<11:14:29 PM> League connected
+<11:14:33 PM> 99.7.74.79 connected
+<11:14:37 PM> ixmike88: .truant a
+<11:14:58 PM> ixmike88: .truant a
+<11:15:19 PM> ixmike88: .truant a
+<11:15:42 PM> ixmike88: .truant a
+<11:15:58 PM> NO PING: ixmike88(99.7.74.79)
+<11:16:02 PM> [ixdl122] ixmike88 has truanted a.
+<11:16:03 PM> 99.7.74.79 connected
+<11:16:07 PM> ixmike88: .lp
+<11:16:07 PM> [ixdl122] Radiant: ixmike88, b, d, f, h [5418] | Dire: a, c, e, g, i [5420]
+<11:16:14 PM> ixmike88: .truant 
+<11:16:16 PM> ixmike88: .truant a
+<11:16:22 PM> ixmike88: .truant b
+<11:26:43 PM> Loading user database...
+<11:26:43 PM> Listening for clients..
+<11:26:43 PM> Player list added
+<11:26:43 PM> League connected
+<11:26:46 PM> 99.7.74.79 connected
+<11:26:58 PM> ixmike88: .fake b truant a
+<11:27:00 PM> ixmike88: .fake c truant a
+<11:27:02 PM> ixmike88: .fake d truant a
+<11:27:03 PM> ixmike88: .fake e truant a
+<11:28:54 PM> Loading user database...
+<11:28:54 PM> Listening for clients..
+<11:28:54 PM> Player list added
+<11:28:54 PM> League connected
+<11:29:01 PM> 99.7.74.79 connected
+<11:29:09 PM> ixmike88: .fake a truant a
+<11:29:09 PM> [ixdl122] a has truanted a.
+<11:29:13 PM> ixmike88: .fake b truant a
+<11:29:13 PM> [ixdl122] b has truanted a.
+<11:29:15 PM> ixmike88: .fake c truant a
+<11:29:15 PM> [ixdl122] c has truanted a.
+<11:29:17 PM> ixmike88: .fake b truant a
+<11:29:18 PM> ixmike88: .fake d truant a
+<11:29:18 PM> [ixdl122] d has truanted a.
+<11:29:44 PM> ixmike88: .fake e truant a
+<11:29:44 PM> a has been declared truant.
+<11:29:44 PM> You are not vouched
+<11:39:05 PM> Listening for clients..
+<11:39:05 PM> Loading user database...
+<11:39:05 PM> Player list added
+<11:39:05 PM> League connected
+<11:39:07 PM> 99.7.74.79 connected
+<11:39:14 PM> ixmike88: .fake h truant a
+<11:39:14 PM> a has been declared truant.
+<11:39:14 PM> You are not vouched
+<11:39:14 PM> [ixdl122] Game has been drawn.
+<11:39:54 PM> ixmike88: .sg
+<11:39:54 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:39:55 PM> ixmike88: .fakeisgn
+<11:39:56 PM> ixmike88: .fakesign
+<11:39:56 PM> [ixdl123] a has joined the game
+<11:39:56 PM> [ixdl123] b has joined the game
+<11:39:56 PM> [ixdl123] c has joined the game
+<11:39:56 PM> [ixdl123] d has joined the game
+<11:39:56 PM> [ixdl123] e has joined the game
+<11:39:56 PM> [ixdl123] f has joined the game
+<11:39:56 PM> [ixdl123] g has joined the game
+<11:39:56 PM> [ixdl123] h has joined the game
+<11:39:56 PM> [ixdl123] i has joined the game
+<11:39:56 PM> [ixdl123] Game is full. ixmike88 can type .confirm to start the game.
+<11:39:56 PM> ixmike88: .lp
+<11:39:56 PM> [ixdl123] [Players: (10) ixmike88(1080), a(1271), b(1078), c(1072), d(1152), e(1048), f(1086), g(980), h(1022), i(1049)]
+<11:39:58 PM> ixmike88: .cf
+<11:39:58 PM> [ixdl123] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:39:58 PM> [ixdl123] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:40:07 PM> ixmike88: .truant a
+<11:40:07 PM> [ixdl123] ixmike88 has truanted a.
+<11:40:08 PM> ixmike88: .fake b truant a
+<11:40:08 PM> [ixdl123] b has truanted a.
+<11:40:09 PM> ixmike88: .fake c truant a
+<11:40:09 PM> [ixdl123] c has truanted a.
+<11:40:10 PM> ixmike88: .fake d truant a
+<11:40:10 PM> [ixdl123] d has truanted a.
+<11:40:12 PM> ixmike88: .fake e truant a
+<11:40:12 PM> [ixdl123] e has truanted a.
+<11:40:18 PM> Loading user database...
+<11:40:18 PM> Listening for clients..
+<11:40:18 PM> 99.7.74.79 connected
+<11:40:18 PM> Invalid packet: System.NullReferenceException: Object reference not set to an instance of an object.
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 109
+<11:40:18 PM> 99.7.74.79 connected
+<11:40:18 PM> Invalid packet: System.NullReferenceException: Object reference not set to an instance of an object.
+   at gameServer.Packet.handlePacket(List`1 msg, User user) in e:\chat client\trunk\Server\gameServer\Packet.cs:line 109
+<11:40:18 PM> Player list added
+<11:40:18 PM> League connected
+<11:40:19 PM> 99.7.74.79 connected
+<11:40:24 PM> ixmike88: .fake g truant a
+<11:40:24 PM> a has been declared truant.
+<11:40:56 PM> NO PING: ixmike88(99.7.74.79)
+<11:40:56 PM> You are not vouched
+<11:40:57 PM> [ixdl123] Game has been drawn.
+<11:41:00 PM> 99.7.74.79 connected
+<11:41:04 PM> ixmike88: .voucH Server
+<11:41:06 PM> ixmike88 has vouched Server
+<11:41:12 PM> ixmike88: .sg
+<11:41:23 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:41:25 PM> ixmike88: .sg
+<11:41:25 PM> ixmike88 is already in the game ixdl124
+<11:41:26 PM> ixmike88: .fakeisgn
+<11:41:27 PM> ixmike88: .fakesign
+<11:41:27 PM> [ixdl124] a has joined the game
+<11:41:27 PM> [ixdl124] b has joined the game
+<11:41:27 PM> [ixdl124] c has joined the game
+<11:41:27 PM> [ixdl124] d has joined the game
+<11:41:27 PM> [ixdl124] e has joined the game
+<11:41:27 PM> [ixdl124] f has joined the game
+<11:41:27 PM> [ixdl124] g has joined the game
+<11:41:27 PM> [ixdl124] h has joined the game
+<11:41:27 PM> [ixdl124] i has joined the game
+<11:41:27 PM> [ixdl124] Game is full. ixmike88 can type .confirm to start the game.
+<11:41:28 PM> ixmike88: .cf
+<11:41:28 PM> [ixdl124] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:41:28 PM> [ixdl124] [Radiant: ixmike88, b, d, f, h] [5418] | [Dire: a, c, e, g, i] [5420]
+<11:41:30 PM> ixmike88: .fake a truant a
+<11:41:30 PM> [ixdl124] a has truanted a.
+<11:41:31 PM> ixmike88: .truant a
+<11:41:31 PM> [ixdl124] ixmike88 has truanted a.
+<11:41:33 PM> ixmike88: .fake b truant a
+<11:41:33 PM> [ixdl124] b has truanted a.
+<11:41:37 PM> ixmike88: .fake d truant a
+<11:41:37 PM> [ixdl124] d has truanted a.
+<11:41:43 PM> ixmike88: .fake e truant a
+<11:41:43 PM> [ixdl124] e has truanted a.
+<11:41:44 PM> ixmike88: .fake f truant a
+<11:41:44 PM> a has been declared truant.
+<11:41:46 PM> Server has removed 88 rating from a
+<11:41:46 PM> [ixdl124] Game has been drawn.
+<11:43:55 PM> Loading user database...
+<11:43:55 PM> Listening for clients..
+<11:43:55 PM> Player list added
+<11:43:55 PM> League connected
+<11:43:57 PM> 99.7.74.79 connected
+<11:44:01 PM> ixmike88: .sg
+<11:44:01 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:44:02 PM> ixmike88: .fakesign
+<11:44:02 PM> [ixdl125] a has joined the game
+<11:44:02 PM> [ixdl125] b has joined the game
+<11:44:02 PM> [ixdl125] c has joined the game
+<11:44:02 PM> [ixdl125] d has joined the game
+<11:44:02 PM> [ixdl125] e has joined the game
+<11:44:02 PM> [ixdl125] f has joined the game
+<11:44:02 PM> [ixdl125] g has joined the game
+<11:44:02 PM> [ixdl125] h has joined the game
+<11:44:02 PM> [ixdl125] i has joined the game
+<11:44:02 PM> [ixdl125] Game is full. ixmike88 can type .confirm to start the game.
+<11:44:02 PM> ixmike88: .cf
+<11:44:02 PM> [ixdl125] [Radiant: ixmike88, c, d, h, i] [5375] | [Dire: a, b, e, f, g] [5375]
+<11:44:02 PM> [ixdl125] [Radiant: ixmike88, c, d, h, i] [5375] | [Dire: a, b, e, f, g] [5375]
+<11:44:03 PM> ixmike88: .truant a
+<11:44:03 PM> [ixdl125] ixmike88 has truanted a.
+<11:44:05 PM> ixmike88: .fake b truatn a
+<11:44:10 PM> ixmike88: .fake e truant a
+<11:44:10 PM> [ixdl125] e has truanted a.
+<11:44:13 PM> ixmike88: .fake d truant a
+<11:44:13 PM> [ixdl125] d has truanted a.
+<11:44:15 PM> ixmike88: .fake e truant a
+<11:44:16 PM> ixmike88: .fake b truant a
+<11:44:16 PM> [ixdl125] b has truanted a.
+<11:44:20 PM> ixmike88: .fake c truant a
+<11:44:20 PM> [ixdl125] c has truanted a.
+<11:44:25 PM> ixmike88: .fake h truant a
+<11:44:25 PM> a has been declared truant.
+<11:44:25 PM> You are not vouched
+<11:44:25 PM> [ixdl125] Game has been drawn.
+<11:45:22 PM> Loading user database...
+<11:45:22 PM> Listening for clients..
+<11:45:22 PM> Player list added
+<11:45:22 PM> League connected
+<11:45:24 PM> 99.7.74.79 connected
+<11:45:25 PM> ixmike88: .sg
+<11:45:25 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:45:31 PM> Loading user database...
+<11:45:31 PM> Listening for clients..
+<11:45:31 PM> Player list added
+<11:45:31 PM> League connected
+<11:45:32 PM> 99.7.74.79 connected
+<11:45:34 PM> ixmike88: .fakesign
+<11:45:34 PM> ixmike88: .sg
+<11:45:34 PM> ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:45:35 PM> ixmike88: .fakesign
+<11:45:35 PM> [ixdl126] a has joined the game
+<11:45:35 PM> [ixdl126] b has joined the game
+<11:45:35 PM> [ixdl126] c has joined the game
+<11:45:35 PM> [ixdl126] d has joined the game
+<11:45:35 PM> [ixdl126] e has joined the game
+<11:45:35 PM> [ixdl126] f has joined the game
+<11:45:35 PM> [ixdl126] g has joined the game
+<11:45:35 PM> [ixdl126] h has joined the game
+<11:45:35 PM> [ixdl126] i has joined the game
+<11:45:35 PM> [ixdl126] Game is full. ixmike88 can type .confirm to start the game.
+<11:45:35 PM> ixmike88: .cf
+<11:45:36 PM> [ixdl126] [Radiant: ixmike88, c, d, h, i] [5375] | [Dire: a, b, e, f, g] [5375]
+<11:45:36 PM> [ixdl126] [Radiant: ixmike88, c, d, h, i] [5375] | [Dire: a, b, e, f, g] [5375]
+<11:45:39 PM> ixmike88: .truant a
+<11:45:39 PM> a has been declared truant.
+<11:45:39 PM> You are not vouched
+<11:45:45 PM> ixmike88: .truant a
+<11:45:49 PM> ixmike88: .fake b truant a
+<11:45:49 PM> a has been declared truant.
+<11:46:25 PM> You are not vouched
+<11:46:25 PM> NO PING: ixmike88(99.7.74.79)
+<11:46:27 PM> 99.7.74.79 connected
+<11:47:14 PM> ixmike88: .vouch server
+<11:47:16 PM> ixmike88 has vouched Server.
+<11:48:37 PM> ixmike88: .unvouch server
+<11:48:41 PM> Server has been unvouched by ixmike88
+<11:48:45 PM> ixmike88: .vouch server
+<11:48:45 PM> ixmike88 has vouched Server.
+<11:48:56 PM> Loading user database...
+<11:48:56 PM> Listening for clients..
+<11:48:56 PM> Player list added
+<11:48:56 PM> League connected
+<11:48:58 PM> 99.7.74.79 connected
+<11:49:00 PM> ixmike88: .vouch server
+<11:49:00 PM> ixmike88 has vouched Server.
+<11:50:37 PM> Loading user database...
+<11:50:37 PM> Listening for clients..
+<11:50:37 PM> Player list added
+<11:50:37 PM> League connected
+<11:50:40 PM> 99.7.74.79 connected
+<11:50:45 PM> ixmike88: .vouch Server
+<11:50:45 PM> ixmike88 has vouched Server.
+<11:50:53 PM> ixmike88: .stats server
+<11:50:53 PM> Server(Admin) :: [Rating: 1000 | Rank: 13/498] :: [Record: 0-0 (0%) | Streak: 0] :: [MVPs: 0 | Censures: 0] :: [Warns: 0] :: [Voucher: ixmike88]
+<11:51:05 PM> ixmike88: .fake e truant a
+<11:51:05 PM> a has been declared truant.
+<11:51:05 PM> Server has removed 82 rating from a'
+<11:52:46 PM> ixmike88: .fake h truant a
+<11:52:46 PM> a has been declared truant.
+<11:52:46 PM> Server has removed 77 rating from a'
+<11:52:59 PM> Loading user database...
+<11:52:59 PM> Listening for clients..
+<11:52:59 PM> Player list added
+<11:52:59 PM> League connected
+<11:53:05 PM> 99.7.74.79 connected
+<11:53:10 PM> ixmike88: .fake c truant a
+<11:53:10 PM> a has been declared truant.
+<11:53:10 PM> Server has removed 71 rating from a.
+<11:58:14 PM> Loading user database...
+<11:58:14 PM> Listening for clients..
+<11:58:14 PM> Player list added
+<11:58:14 PM> League connected
+<11:58:57 PM> 99.7.74.79 connected
+<11:59:23 PM> 99.7.74.79 connected
+<11:59:28 PM> ixmike88: .vouch seRver
+<11:59:28 PM> ixmike88 has vouched Server.

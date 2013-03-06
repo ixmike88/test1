@@ -1,0 +1,61 @@
+<3:57:49 AM> moon (129.116.33.222) has disconnected.
+<3:57:52 AM> test4 (129.116.33.222) has disconnected.
+<4:27:17 PM> ixmike88 (99.7.74.79) has disconnected.
+<5:24:01 PM> Loading user database...
+<5:24:01 PM> Player list added
+<5:24:01 PM> League connected
+<5:24:12 PM> Loading user database...
+<5:24:12 PM> Listening for clients..
+<5:24:12 PM> Player list added
+<5:24:12 PM> League connected
+<5:28:05 PM> Loading user database...
+<5:28:05 PM> Listening for clients..
+<5:28:05 PM> Player list added
+<5:28:05 PM> League connected
+<5:38:31 PM> moon (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<5:39:49 PM> moon->Main: .sg
+<5:39:49 PM> Server->Main: moon has opened signups for a ixmike Dota League game! Mode is CM.
+<5:39:51 PM> moon->Main: .out
+<5:39:51 PM> Server->Main: moon has aborted ixdl23.
+<5:45:01 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:11:40 PM> moon->Main: test
+<6:16:00 PM>  () has disconnected.
+<6:16:02 PM> test (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<6:16:10 PM> moon1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:13 PM> moon2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:15 PM> moon3 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:20 PM> moon4 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:22 PM> moon5 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:27 PM> moon6 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:29 PM> moon7 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:33 PM> moon8 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:38 PM> moon9 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:43 PM> test1 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:46 PM> test2 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:50 PM> test3 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:16:54 PM> test4 (129.116.33.222) (F0:DE:F1:D4:AF:A7) has connected.
+<6:17:13 PM>  () has disconnected.
+<6:17:19 PM>  () has disconnected.
+<6:17:47 PM>  () has disconnected.
+<6:18:29 PM> test4->Main: test
+<6:18:29 PM> Server->test4: You are not vouched
+<6:19:08 PM> moon->Main: .vouch test4
+<6:19:08 PM> Server->Main: moon has vouched test4.
+<6:20:31 PM> moon3 (129.116.33.222) has disconnected.
+<6:20:33 PM> moon6 (129.116.33.222) has disconnected.
+<6:20:34 PM> moon7 (129.116.33.222) has disconnected.
+<6:20:39 PM> moon8 (129.116.33.222) has disconnected.
+<6:20:41 PM> moon9 (129.116.33.222) has disconnected.
+<6:20:42 PM> test1 (129.116.33.222) has disconnected.
+<6:20:47 PM> moon (129.116.33.222) has disconnected.
+<6:20:49 PM> moon1 (129.116.33.222) has disconnected.
+<6:20:52 PM> moon2 (129.116.33.222) has disconnected.
+<6:20:57 PM> moon4 (129.116.33.222) has disconnected.
+<6:21:00 PM> moon5 (129.116.33.222) has disconnected.
+<6:21:02 PM> test2 (129.116.33.222) has disconnected.
+<6:21:05 PM> test3 (129.116.33.222) has disconnected.
+<6:21:08 PM> test4 (129.116.33.222) has disconnected.
+<6:21:10 PM> test (99.7.74.79) has disconnected.
+<6:33:09 PM> Loading user database...
+<6:33:09 PM> Player list added
+<6:33:09 PM> League connected

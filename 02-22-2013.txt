@@ -1,0 +1,33 @@
+<4:34:40 PM> Loading user database...
+<4:34:40 PM> Player list added
+<4:34:40 PM> League connected
+<4:34:40 PM> Listening for clients..
+<11:57:33 PM> Loading user database...
+<11:57:33 PM> Player list added
+<11:57:33 PM> League connected
+<11:57:33 PM> Listening for clients..
+<11:57:58 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<11:58:08 PM> ixmike88->Main: .cg 2
+<11:58:08 PM> Server->Main: ixmike88 has drawn ixdl2
+<11:58:08 PM> Server->Main: [ixdl2] Game has been drawn.
+<11:58:08 PM> ixmike88->Main: .lp
+<11:58:08 PM> Server->ixmike88: No pending games.
+<11:58:08 PM> ixmike88->Main: .games
+<11:58:13 PM> ixmike88->Main: .games
+<11:58:18 PM> ixmike88->Main: .lp
+<11:58:18 PM> Server->ixmike88: No pending games.
+<11:58:18 PM> ixmike88->Main: .games
+<11:58:23 PM> ixmike88->Main: .sg
+<11:58:23 PM> Server->Main: ixmike88 has opened signups for a ixmike Dota League game! Mode is CM.
+<11:58:23 PM> ixmike88->Main: .games
+<11:58:23 PM> ixmike88->Main: .out
+<11:58:23 PM> Server->Main: ixmike88 has aborted ixdl3.
+<11:59:09 PM> Loading user database...
+<11:59:09 PM> Player list added
+<11:59:09 PM> League connected
+<11:59:09 PM> Listening for clients..
+<11:59:09 PM> ixmike88 (99.7.74.79) (BC:5F:F4:87:56:F2) has connected.
+<11:59:14 PM> ixmike88->Main: .games
+<11:59:20 PM> ixmike88->Main: .games
+<11:59:31 PM> ixmike88->Main: .games
+<11:59:52 PM> ixmike88->Main: .games
